@@ -1,0 +1,22 @@
+{
+  "automated_tests": 63,
+  "browser_checks": [
+    {
+      "title": "虚拟内存 · 连续追问示例",
+      "turns": 3,
+      "last_question": "它需要先学什么？请用编号列表，只写三条学习建议。",
+      "last_answer": "1. 建议先理解**局部性原理**，因为虚拟内存的设计核心正是基于程序访问的局部性特征。\n2. 建议掌握**内存管理**的基础概念，包括进程、地址空间及物理内存与外存的交互机制。\n3. 建议熟悉**请求分页管理**的基本流程，如页表结构、缺页中断处理及页面置换算法等具体实现策略。",
+      "mode": "hybrid",
+      "evidence_count": 8
+    },
+    {
+      "title": "请写一首关于雨后彩虹的四句小诗，只输出诗。",
+      "turns": 1,
+      "last_question": "请写一首关于雨后彩虹的四句小诗，只输出诗。",
+      "last_answer": "雨洗青山色更幽，\n云开天际挂彩绸。\n七色彩桥连碧落，\n人间此景最温柔。",
+      "mode": "llm_only",
+      "evidence_count": 0
+    }
+  ],
+  "restart_persistence_verified": true
+}

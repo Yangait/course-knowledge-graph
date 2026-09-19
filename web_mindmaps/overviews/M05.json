@@ -1,0 +1,1610 @@
+{
+  "meta": {
+    "course_id": "M05",
+    "course_name": "计网-编译-物联网-人工智能.联系图",
+    "map_kind": "overview",
+    "conversion_status": "converted",
+    "source_file": "知识导图/计网-编译-物联网-人工智能.联系图.emmx"
+  },
+  "knowledge_nodes": [
+    {
+      "id": "M05:K:101",
+      "source_id": "101",
+      "label": "计网-编译-物联网-人工智能.联系图",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1368.0,
+        "y": 1740.0,
+        "width": 151.36,
+        "height": 63.3333
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:108",
+      "source_id": "108",
+      "label": "计算机网络",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1598.0,
+        "y": 1620.67,
+        "width": 119.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:109",
+      "source_id": "109",
+      "label": "物联网技术",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1159.52,
+        "y": 1620.67,
+        "width": 119.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:110",
+      "source_id": "110",
+      "label": "编译原理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2777.39,
+        "y": 770.303,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:111",
+      "source_id": "111",
+      "label": "人工智能",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4028.21,
+        "y": 781.212,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:112",
+      "source_id": "112",
+      "label": "操作系统",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1417.33,
+        "y": 1201.33,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:113",
+      "source_id": "113",
+      "label": "概述",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1485.33,
+        "y": 1316.0,
+        "width": 71.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:115",
+      "source_id": "115",
+      "label": "应用层",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1598.0,
+        "y": 1505.33,
+        "width": 87.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:120",
+      "source_id": "120",
+      "label": "网络层",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1854.06,
+        "y": 1563.64,
+        "width": 87.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:121",
+      "source_id": "121",
+      "label": "数据结构",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2157.7,
+        "y": 1259.39,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:122",
+      "source_id": "122",
+      "label": "图",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2004.97,
+        "y": 1392.73,
+        "width": 55.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:126",
+      "source_id": "126",
+      "label": "数据链路层",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1870.06,
+        "y": 1666.67,
+        "width": 119.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:128",
+      "source_id": "128",
+      "label": "计算机组成原理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2640.12,
+        "y": 1620.67,
+        "width": 151.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:129",
+      "source_id": "129",
+      "label": "计算机的计算",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2314.67,
+        "y": 1646.06,
+        "width": 135.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:132",
+      "source_id": "132",
+      "label": "物理层",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1700.12,
+        "y": 1813.33,
+        "width": 87.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:134",
+      "source_id": "134",
+      "label": "数字电子技术",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2486.79,
+        "y": 1846.06,
+        "width": 135.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:135",
+      "source_id": "135",
+      "label": "数-模和模-数转换",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2237.09,
+        "y": 1842.42,
+        "width": 169.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:141",
+      "source_id": "141",
+      "label": "感知识别",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1192.97,
+        "y": 1476.24,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:143",
+      "source_id": "143",
+      "label": "大学物理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 871.03,
+        "y": 1163.64,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:144",
+      "source_id": "144",
+      "label": "变化的电磁场",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 933.455,
+        "y": 1303.03,
+        "width": 135.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:149",
+      "source_id": "149",
+      "label": "嵌入式系统",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1151.52,
+        "y": 1007.27,
+        "width": 119.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:150",
+      "source_id": "150",
+      "label": "嵌入式软件介绍",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1175.52,
+        "y": 1163.64,
+        "width": 151.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:153",
+      "source_id": "153",
+      "label": "局域网",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1739.52,
+        "y": 1718.79,
+        "width": 87.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:158",
+      "source_id": "158",
+      "label": "网络构建",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1160.12,
+        "y": 1720.0,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:161",
+      "source_id": "161",
+      "label": "管理服务",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 940.727,
+        "y": 1626.67,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:163",
+      "source_id": "163",
+      "label": "无线网络安全",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 597.697,
+        "y": 1609.7,
+        "width": 135.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:164",
+      "source_id": "164",
+      "label": "网络安全",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 390.424,
+        "y": 1598.79,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:167",
+      "source_id": "167",
+      "label": "高级程序设计语言概述",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2748.57,
+        "y": 597.619,
+        "width": 199.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:170",
+      "source_id": "170",
+      "label": "C语言",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2540.95,
+        "y": 410.952,
+        "width": 81.6667,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:175",
+      "source_id": "175",
+      "label": "高级程序设计语言的语法描述",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3040.0,
+        "y": 725.238,
+        "width": 247.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:177",
+      "source_id": "177",
+      "label": "离散数学",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3472.38,
+        "y": 1029.05,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:178",
+      "source_id": "178",
+      "label": "集合代数",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3472.38,
+        "y": 887.143,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:181",
+      "source_id": "181",
+      "label": "二元关系",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3410.56,
+        "y": 1222.47,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:184",
+      "source_id": "184",
+      "label": "产生式表达和框架表示法",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3683.81,
+        "y": 725.238,
+        "width": 215.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:189",
+      "source_id": "189",
+      "label": "网络安全",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1549.21,
+        "y": 1973.33,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:195",
+      "source_id": "195",
+      "label": "词法分析",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2584.35,
+        "y": 725.238,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:197",
+      "source_id": "197",
+      "label": "软件工程",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1946.67,
+        "y": 794.545,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:198",
+      "source_id": "198",
+      "label": "软件模型的建造方法",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2211.52,
+        "y": 813.203,
+        "width": 183.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:201",
+      "source_id": "201",
+      "label": "语法分析",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2557.68,
+        "y": 833.81,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:230",
+      "source_id": "230",
+      "label": "栈",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2275.52,
+        "y": 1076.6,
+        "width": 55.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:233",
+      "source_id": "233",
+      "label": "属性文法和文法制导翻译",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2640.35,
+        "y": 933.106,
+        "width": 215.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:235",
+      "source_id": "235",
+      "label": "树",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2327.39,
+        "y": 1217.62,
+        "width": 55.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:238",
+      "source_id": "238",
+      "label": "线性表",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2293.45,
+        "y": 1340.0,
+        "width": 87.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:240",
+      "source_id": "240",
+      "label": "语义分析和中间代码生成",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2821.94,
+        "y": 1029.05,
+        "width": 215.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:244",
+      "source_id": "244",
+      "label": "符号表",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2934.67,
+        "y": 887.879,
+        "width": 87.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:246",
+      "source_id": "246",
+      "label": "查找",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2242.55,
+        "y": 1451.52,
+        "width": 71.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:250",
+      "source_id": "250",
+      "label": "运行时存储空间组织",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2464.36,
+        "y": 594.545,
+        "width": 183.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:252",
+      "source_id": "252",
+      "label": "内存管理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1438.91,
+        "y": 1050.3,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:257",
+      "source_id": "257",
+      "label": "目标代码生成",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3061.94,
+        "y": 1023.64,
+        "width": 135.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:260",
+      "source_id": "260",
+      "label": "一阶谓词逻辑知识表示法",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3974.67,
+        "y": 933.106,
+        "width": 215.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:262",
+      "source_id": "262",
+      "label": "命题逻辑",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3683.81,
+        "y": 1091.52,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:263",
+      "source_id": "263",
+      "label": "一阶逻辑",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3580.73,
+        "y": 1195.76,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:268",
+      "source_id": "268",
+      "label": "确定性推理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4194.06,
+        "y": 913.333,
+        "width": 119.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:294",
+      "source_id": "294",
+      "label": "不确定性推理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4378.92,
+        "y": 831.312,
+        "width": 135.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:295",
+      "source_id": "295",
+      "label": "随机变量及其分布",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4843.82,
+        "y": 933.106,
+        "width": 167.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:296",
+      "source_id": "296",
+      "label": "样本及其抽样分布",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4698.65,
+        "y": 1022.17,
+        "width": 167.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:297",
+      "source_id": "297",
+      "label": "参数估计",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4564.55,
+        "y": 1185.51,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:298",
+      "source_id": "298",
+      "label": "假设检验",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4616.93,
+        "y": 1112.41,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:299",
+      "source_id": "299",
+      "label": "概率论与数理统计",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4952.39,
+        "y": 1075.52,
+        "width": 167.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:309",
+      "source_id": "309",
+      "label": "模糊推理方法",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3803.24,
+        "y": 841.905,
+        "width": 135.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:312",
+      "source_id": "312",
+      "label": "搜索求解策略",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3931.33,
+        "y": 1380.0,
+        "width": 135.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:319",
+      "source_id": "319",
+      "label": "深度神经网络",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4178.0,
+        "y": 628.333,
+        "width": 135.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:321",
+      "source_id": "321",
+      "label": "矩阵",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4448.0,
+        "y": 415.0,
+        "width": 71.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M05:K:322",
+      "source_id": "322",
+      "label": "线性代数",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4589.67,
+        "y": 290.0,
+        "width": 103.0,
+        "height": 37.6667
+      },
+      "image_ids": []
+    }
+  ],
+  "main_tree": [
+    {
+      "id": "M05:K:101",
+      "source_id": "101",
+      "label": "计网-编译-物联网-人工智能.联系图",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1368.0,
+        "y": 1740.0,
+        "width": 151.36,
+        "height": 63.3333
+      },
+      "image_ids": [],
+      "children": []
+    }
+  ],
+  "hierarchy_relations": [],
+  "semantic_relations": [
+    {
+      "id": "M05:R:114",
+      "source_id": "M05:K:112",
+      "target_id": "M05:K:113",
+      "source_label": "操作系统",
+      "target_label": "概述",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:116",
+      "source_id": "M05:K:108",
+      "target_id": "M05:K:115",
+      "source_label": "计算机网络",
+      "target_label": "应用层",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:119",
+      "source_id": "M05:K:113",
+      "target_id": "M05:K:115",
+      "source_label": "概述",
+      "target_label": "应用层",
+      "relation_text": "系统调用接口的应用：网络应用进程通信",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:123",
+      "source_id": "M05:K:121",
+      "target_id": "M05:K:122",
+      "source_label": "数据结构",
+      "target_label": "图",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:124",
+      "source_id": "M05:K:108",
+      "target_id": "M05:K:120",
+      "source_label": "计算机网络",
+      "target_label": "网络层",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:125",
+      "source_id": "M05:K:122",
+      "target_id": "M05:K:120",
+      "source_label": "图",
+      "target_label": "网络层",
+      "relation_text": "最短路径的应用：路由算法",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:127",
+      "source_id": "M05:K:108",
+      "target_id": "M05:K:126",
+      "source_label": "计算机网络",
+      "target_label": "数据链路层",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:130",
+      "source_id": "M05:K:128",
+      "target_id": "M05:K:129",
+      "source_label": "计算机组成原理",
+      "target_label": "计算机的计算",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:131",
+      "source_id": "M05:K:129",
+      "target_id": "M05:K:126",
+      "source_label": "计算机的计算",
+      "target_label": "数据链路层",
+      "relation_text": "校验码的应用：差错编码",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:133",
+      "source_id": "M05:K:108",
+      "target_id": "M05:K:132",
+      "source_label": "计算机网络",
+      "target_label": "物理层",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:136",
+      "source_id": "M05:K:134",
+      "target_id": "M05:K:135",
+      "source_label": "数字电子技术",
+      "target_label": "数-模和模-数转换",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:137",
+      "source_id": "M05:K:135",
+      "target_id": "M05:K:132",
+      "source_label": "数-模和模-数转换",
+      "target_label": "物理层",
+      "relation_text": "数-模转换的应用：调制",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:139",
+      "source_id": "M05:K:108",
+      "target_id": "M05:K:109",
+      "source_label": "计算机网络",
+      "target_label": "物联网技术",
+      "relation_text": "拓展",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:142",
+      "source_id": "M05:K:109",
+      "target_id": "M05:K:141",
+      "source_label": "物联网技术",
+      "target_label": "感知识别",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:145",
+      "source_id": "M05:K:143",
+      "target_id": "M05:K:144",
+      "source_label": "大学物理",
+      "target_label": "变化的电磁场",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:146",
+      "source_id": "M05:K:144",
+      "target_id": "M05:K:141",
+      "source_label": "变化的电磁场",
+      "target_label": "感知识别",
+      "relation_text": "电磁波的应用：RFID、定位",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:147",
+      "source_id": "M05:K:132",
+      "target_id": "M05:K:141",
+      "source_label": "物理层",
+      "target_label": "感知识别",
+      "relation_text": "调制与编码的应用：RFID",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:148",
+      "source_id": "M05:K:126",
+      "target_id": "M05:K:141",
+      "source_label": "数据链路层",
+      "target_label": "感知识别",
+      "relation_text": "ALOHA的应用：EPC协议",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:151",
+      "source_id": "M05:K:149",
+      "target_id": "M05:K:150",
+      "source_label": "嵌入式系统",
+      "target_label": "嵌入式软件介绍",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:152",
+      "source_id": "M05:K:150",
+      "target_id": "M05:K:141",
+      "source_label": "嵌入式软件介绍",
+      "target_label": "感知识别",
+      "relation_text": "嵌入式操作系统的应用：无线传感网结点",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:154",
+      "source_id": "M05:K:153",
+      "target_id": "M05:K:141",
+      "source_label": "局域网",
+      "target_label": "感知识别",
+      "relation_text": "组网技术的应用：无线传感网",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:155",
+      "source_id": "M05:K:108",
+      "target_id": "M05:K:153",
+      "source_label": "计算机网络",
+      "target_label": "局域网",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:159",
+      "source_id": "M05:K:109",
+      "target_id": "M05:K:158",
+      "source_label": "物联网技术",
+      "target_label": "网络构建",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:160",
+      "source_id": "M05:K:153",
+      "target_id": "M05:K:158",
+      "source_label": "局域网",
+      "target_label": "网络构建",
+      "relation_text": "无线局域网的应用：WiFi",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:162",
+      "source_id": "M05:K:109",
+      "target_id": "M05:K:161",
+      "source_label": "物联网技术",
+      "target_label": "管理服务",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:165",
+      "source_id": "M05:K:164",
+      "target_id": "M05:K:163",
+      "source_label": "网络安全",
+      "target_label": "无线网络安全",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:166",
+      "source_id": "M05:K:163",
+      "target_id": "M05:K:161",
+      "source_label": "无线网络安全",
+      "target_label": "管理服务",
+      "relation_text": "应用",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:168",
+      "source_id": "M05:K:110",
+      "target_id": "M05:K:167",
+      "source_label": "编译原理",
+      "target_label": "高级程序设计语言概述",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:174",
+      "source_id": "M05:K:170",
+      "target_id": "M05:K:167",
+      "source_label": "C语言",
+      "target_label": "高级程序设计语言概述",
+      "relation_text": "抽象",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:176",
+      "source_id": "M05:K:110",
+      "target_id": "M05:K:175",
+      "source_label": "编译原理",
+      "target_label": "高级程序设计语言的语法描述",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:179",
+      "source_id": "M05:K:178",
+      "target_id": "M05:K:175",
+      "source_label": "集合代数",
+      "target_label": "高级程序设计语言的语法描述",
+      "relation_text": "集合运算的应用：文法",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:180",
+      "source_id": "M05:K:177",
+      "target_id": "M05:K:178",
+      "source_label": "离散数学",
+      "target_label": "集合代数",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:182",
+      "source_id": "M05:K:177",
+      "target_id": "M05:K:181",
+      "source_label": "离散数学",
+      "target_label": "二元关系",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:183",
+      "source_id": "M05:K:181",
+      "target_id": "M05:K:175",
+      "source_label": "二元关系",
+      "target_label": "高级程序设计语言的语法描述",
+      "relation_text": "闭包的应用：文法",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:185",
+      "source_id": "M05:K:111",
+      "target_id": "M05:K:184",
+      "source_label": "人工智能",
+      "target_label": "产生式表达和框架表示法",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:188",
+      "source_id": "M05:K:175",
+      "target_id": "M05:K:184",
+      "source_label": "高级程序设计语言的语法描述",
+      "target_label": "产生式表达和框架表示法",
+      "relation_text": "相似：产生式",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:194",
+      "source_id": "M05:K:108",
+      "target_id": "M05:K:189",
+      "source_label": "计算机网络",
+      "target_label": "网络安全",
+      "relation_text": "拓展",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:196",
+      "source_id": "M05:K:110",
+      "target_id": "M05:K:195",
+      "source_label": "编译原理",
+      "target_label": "词法分析",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:199",
+      "source_id": "M05:K:197",
+      "target_id": "M05:K:198",
+      "source_label": "软件工程",
+      "target_label": "软件模型的建造方法",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:200",
+      "source_id": "M05:K:195",
+      "target_id": "M05:K:198",
+      "source_label": "词法分析",
+      "target_label": "软件模型的建造方法",
+      "relation_text": "相似：状态转换图",
+      "direction": "both"
+    },
+    {
+      "id": "M05:R:202",
+      "source_id": "M05:K:110",
+      "target_id": "M05:K:201",
+      "source_label": "编译原理",
+      "target_label": "语法分析",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:231",
+      "source_id": "M05:K:121",
+      "target_id": "M05:K:230",
+      "source_label": "数据结构",
+      "target_label": "栈",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:232",
+      "source_id": "M05:K:230",
+      "target_id": "M05:K:201",
+      "source_label": "栈",
+      "target_label": "语法分析",
+      "relation_text": "应用：预测分析程序/自下而上分析",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:234",
+      "source_id": "M05:K:110",
+      "target_id": "M05:K:233",
+      "source_label": "编译原理",
+      "target_label": "属性文法和文法制导翻译",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:236",
+      "source_id": "M05:K:121",
+      "target_id": "M05:K:235",
+      "source_label": "数据结构",
+      "target_label": "树",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:237",
+      "source_id": "M05:K:235",
+      "target_id": "M05:K:233",
+      "source_label": "树",
+      "target_label": "属性文法和文法制导翻译",
+      "relation_text": "树的遍历的应用：树遍历",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:239",
+      "source_id": "M05:K:121",
+      "target_id": "M05:K:238",
+      "source_label": "数据结构",
+      "target_label": "线性表",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:241",
+      "source_id": "M05:K:110",
+      "target_id": "M05:K:240",
+      "source_label": "编译原理",
+      "target_label": "语义分析和中间代码生成",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:242",
+      "source_id": "M05:K:238",
+      "target_id": "M05:K:240",
+      "source_label": "线性表",
+      "target_label": "语义分析和中间代码生成",
+      "relation_text": "链表的应用：一遍扫描翻译控制语句",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:243",
+      "source_id": "M05:K:122",
+      "target_id": "M05:K:240",
+      "source_label": "图",
+      "target_label": "语义分析和中间代码生成",
+      "relation_text": "有向无环图应用：中间语言",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:245",
+      "source_id": "M05:K:110",
+      "target_id": "M05:K:244",
+      "source_label": "编译原理",
+      "target_label": "符号表",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:247",
+      "source_id": "M05:K:121",
+      "target_id": "M05:K:246",
+      "source_label": "数据结构",
+      "target_label": "查找",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:248",
+      "source_id": "M05:K:246",
+      "target_id": "M05:K:244",
+      "source_label": "查找",
+      "target_label": "符号表",
+      "relation_text": "应用：符号表的查找",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:251",
+      "source_id": "M05:K:110",
+      "target_id": "M05:K:250",
+      "source_label": "编译原理",
+      "target_label": "运行时存储空间组织",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:253",
+      "source_id": "M05:K:112",
+      "target_id": "M05:K:252",
+      "source_label": "操作系统",
+      "target_label": "内存管理",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:256",
+      "source_id": "M05:K:252",
+      "target_id": "M05:K:250",
+      "source_label": "内存管理",
+      "target_label": "运行时存储空间组织",
+      "relation_text": "程序执行过程应用：存储分配策略",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:258",
+      "source_id": "M05:K:110",
+      "target_id": "M05:K:257",
+      "source_label": "编译原理",
+      "target_label": "目标代码生成",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:259",
+      "source_id": "M05:K:128",
+      "target_id": "M05:K:257",
+      "source_label": "计算机组成原理",
+      "target_label": "目标代码生成",
+      "relation_text": "抽象：目标机器模型",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:261",
+      "source_id": "M05:K:111",
+      "target_id": "M05:K:260",
+      "source_label": "人工智能",
+      "target_label": "一阶谓词逻辑知识表示法",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:264",
+      "source_id": "M05:K:177",
+      "target_id": "M05:K:262",
+      "source_label": "离散数学",
+      "target_label": "命题逻辑",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:265",
+      "source_id": "M05:K:177",
+      "target_id": "M05:K:263",
+      "source_label": "离散数学",
+      "target_label": "一阶逻辑",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:266",
+      "source_id": "M05:K:262",
+      "target_id": "M05:K:260",
+      "source_label": "命题逻辑",
+      "target_label": "一阶谓词逻辑知识表示法",
+      "relation_text": "应用：命题逻辑",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:267",
+      "source_id": "M05:K:263",
+      "target_id": "M05:K:260",
+      "source_label": "一阶逻辑",
+      "target_label": "一阶谓词逻辑知识表示法",
+      "relation_text": "应用：谓词逻辑",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:269",
+      "source_id": "M05:K:111",
+      "target_id": "M05:K:268",
+      "source_label": "人工智能",
+      "target_label": "确定性推理",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:270",
+      "source_id": "M05:K:262",
+      "target_id": "M05:K:268",
+      "source_label": "命题逻辑",
+      "target_label": "确定性推理",
+      "relation_text": "推理理论的应用：归结演绎推理",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:300",
+      "source_id": "M05:K:299",
+      "target_id": "M05:K:296",
+      "source_label": "概率论与数理统计",
+      "target_label": "样本及其抽样分布",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M05:R:301",
+      "source_id": "M05:K:299",
+      "target_id": "M05:K:298",
+      "source_label": "概率论与数理统计",
+      "target_label": "假设检验",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M05:R:302",
+      "source_id": "M05:K:298",
+      "target_id": "M05:K:294",
+      "source_label": "假设检验",
+      "target_label": "不确定性推理",
+      "relation_text": "统计量分布",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:303",
+      "source_id": "M05:K:299",
+      "target_id": "M05:K:297",
+      "source_label": "概率论与数理统计",
+      "target_label": "参数估计",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M05:R:304",
+      "source_id": "M05:K:297",
+      "target_id": "M05:K:294",
+      "source_label": "参数估计",
+      "target_label": "不确定性推理",
+      "relation_text": "似然函数",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:305",
+      "source_id": "M05:K:296",
+      "target_id": "M05:K:294",
+      "source_label": "样本及其抽样分布",
+      "target_label": "不确定性推理",
+      "relation_text": "样本空间",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:306",
+      "source_id": "M05:K:299",
+      "target_id": "M05:K:295",
+      "source_label": "概率论与数理统计",
+      "target_label": "随机变量及其分布",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M05:R:307",
+      "source_id": "M05:K:295",
+      "target_id": "M05:K:294",
+      "source_label": "随机变量及其分布",
+      "target_label": "不确定性推理",
+      "relation_text": "分布函数",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:308",
+      "source_id": "M05:K:111",
+      "target_id": "M05:K:294",
+      "source_label": "人工智能",
+      "target_label": "不确定性推理",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:310",
+      "source_id": "M05:K:111",
+      "target_id": "M05:K:309",
+      "source_label": "人工智能",
+      "target_label": "模糊推理方法",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:311",
+      "source_id": "M05:K:178",
+      "target_id": "M05:K:309",
+      "source_label": "集合代数",
+      "target_label": "模糊推理方法",
+      "relation_text": "集合的拓展：模糊集合",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:313",
+      "source_id": "M05:K:111",
+      "target_id": "M05:K:312",
+      "source_label": "人工智能",
+      "target_label": "搜索求解策略",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:317",
+      "source_id": "M05:K:235",
+      "target_id": "M05:K:312",
+      "source_label": "树",
+      "target_label": "搜索求解策略",
+      "relation_text": "树的遍历应用：盲目式策略",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:318",
+      "source_id": "M05:K:238",
+      "target_id": "M05:K:312",
+      "source_label": "线性表",
+      "target_label": "搜索求解策略",
+      "relation_text": "应用：算法中的表",
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:320",
+      "source_id": "M05:K:111",
+      "target_id": "M05:K:319",
+      "source_label": "人工智能",
+      "target_label": "深度神经网络",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:323",
+      "source_id": "M05:K:322",
+      "target_id": "M05:K:321",
+      "source_label": "线性代数",
+      "target_label": "矩阵",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M05:R:324",
+      "source_id": "M05:K:321",
+      "target_id": "M05:K:319",
+      "source_label": "矩阵",
+      "target_label": "深度神经网络",
+      "relation_text": "矩阵运算拓展：卷积运算",
+      "direction": "forward"
+    }
+  ],
+  "floating_topics": {
+    "roots": [],
+    "items": []
+  },
+  "summary_blocks": [],
+  "summary_items": [],
+  "callouts": [],
+  "structural_anchors": [],
+  "boundary_groups": [],
+  "images": []
+}

@@ -1,0 +1,1641 @@
+{
+  "meta": {
+    "course_id": "M02",
+    "course_name": "唐晓松课程总览",
+    "map_kind": "overview",
+    "conversion_status": "converted",
+    "source_file": "知识导图/唐晓松课程总览.emmx"
+  },
+  "knowledge_nodes": [
+    {
+      "id": "M02:K:101",
+      "source_id": "101",
+      "label": "唐晓松课程总览",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2025.3,
+        "y": 1622.38,
+        "width": 152.4,
+        "height": 62.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:104",
+      "source_id": "104",
+      "label": "软件工程",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1879.07,
+        "y": 675.74,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:105",
+      "source_id": "105",
+      "label": "分布式数据库",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2148.35,
+        "y": 741.74,
+        "width": 137.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:106",
+      "source_id": "106",
+      "label": "C语言",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2103.63,
+        "y": 833.65,
+        "width": 84.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:107",
+      "source_id": "107",
+      "label": "数据挖掘",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1968.11,
+        "y": 892.87,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:108",
+      "source_id": "108",
+      "label": "计算机组成原理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1820.37,
+        "y": 800.13,
+        "width": 153.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:109",
+      "source_id": "109",
+      "label": "数据",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1856.5,
+        "y": 1229.0,
+        "width": 73.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:110",
+      "source_id": "110",
+      "label": "数据预处理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2066.5,
+        "y": 1169.0,
+        "width": 121.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:111",
+      "source_id": "111",
+      "label": "回归分析",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2176.5,
+        "y": 1131.0,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:112",
+      "source_id": "112",
+      "label": "频繁模式挖掘",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2428.67,
+        "y": 1176.3,
+        "width": 137.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:113",
+      "source_id": "113",
+      "label": "数据分析与数据挖掘",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1823.24,
+        "y": 1050.91,
+        "width": 185.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:114",
+      "source_id": "114",
+      "label": "分类",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2282.5,
+        "y": 1112.74,
+        "width": 73.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:128",
+      "source_id": "128",
+      "label": "云计算",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3101.88,
+        "y": 875.72,
+        "width": 89.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:129",
+      "source_id": "129",
+      "label": "Hadoop2.0主流开源云框架",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1650.25,
+        "y": 1208.13,
+        "width": 242.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:133",
+      "source_id": "133",
+      "label": "概率论与数理统计",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1593.17,
+        "y": 1676.61,
+        "width": 169.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:135",
+      "source_id": "135",
+      "label": "样本数字特征",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1670.57,
+        "y": 1378.0,
+        "width": 137.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:138",
+      "source_id": "138",
+      "label": "随机变量数字特征",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1909.52,
+        "y": 1365.04,
+        "width": 169.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:141",
+      "source_id": "141",
+      "label": "样本及抽样分布",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2003.61,
+        "y": 1431.74,
+        "width": 153.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:145",
+      "source_id": "145",
+      "label": "高等数学",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2346.15,
+        "y": 1632.79,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:146",
+      "source_id": "146",
+      "label": "多元函数微分法及其应用",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2427.74,
+        "y": 1506.26,
+        "width": 217.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:149",
+      "source_id": "149",
+      "label": "数据结构",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2808.89,
+        "y": 1322.72,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:153",
+      "source_id": "153",
+      "label": "图/树",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2423.3,
+        "y": 1338.78,
+        "width": 80.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:156",
+      "source_id": "156",
+      "label": "概率论的基本概念",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2207.7,
+        "y": 1473.26,
+        "width": 169.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:160",
+      "source_id": "160",
+      "label": "数据库",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2185.36,
+        "y": 219.19,
+        "width": 89.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:164",
+      "source_id": "164",
+      "label": "数据库的设计与应用开发",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2062.49,
+        "y": 313.88,
+        "width": 217.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:167",
+      "source_id": "167",
+      "label": "数字电路技术",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 506.0,
+        "y": 697.04,
+        "width": 137.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:168",
+      "source_id": "168",
+      "label": "组合逻辑电路",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 719.06,
+        "y": 609.99,
+        "width": 137.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:172",
+      "source_id": "172",
+      "label": "软件工程概论",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2046.87,
+        "y": 576.78,
+        "width": 137.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:175",
+      "source_id": "175",
+      "label": "总体设计",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1597.74,
+        "y": 639.79,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:178",
+      "source_id": "178",
+      "label": "嵌入式系统",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1302.73,
+        "y": 292.83,
+        "width": 121.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:179",
+      "source_id": "179",
+      "label": "嵌入系统的实现与测试",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1883.92,
+        "y": 368.21,
+        "width": 201.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:181",
+      "source_id": "181",
+      "label": "软件测试",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1751.0,
+        "y": 559.87,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:184",
+      "source_id": "184",
+      "label": "集中式数据库的模式结构",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2251.7,
+        "y": 444.3,
+        "width": 217.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:185",
+      "source_id": "185",
+      "label": "分布式数据库的模式结构",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2246.0,
+        "y": 631.57,
+        "width": 217.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:189",
+      "source_id": "189",
+      "label": "分布式数据库设计",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2560.61,
+        "y": 738.52,
+        "width": 169.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:190",
+      "source_id": "190",
+      "label": "分布式下的解决方案",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2893.92,
+        "y": 566.27,
+        "width": 185.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:194",
+      "source_id": "194",
+      "label": "分布式数据库分片设计",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2406.22,
+        "y": 530.53,
+        "width": 201.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:197",
+      "source_id": "197",
+      "label": "关系代数选择",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2377.35,
+        "y": 311.52,
+        "width": 137.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:200",
+      "source_id": "200",
+      "label": "离散数学",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2707.35,
+        "y": 330.61,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:201",
+      "source_id": "201",
+      "label": "二元关系",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2665.3,
+        "y": 456.52,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:204",
+      "source_id": "204",
+      "label": "分布式查询处理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2430.7,
+        "y": 673.3,
+        "width": 153.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:207",
+      "source_id": "207",
+      "label": "关系查询优化的查询树",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2562.26,
+        "y": 292.61,
+        "width": 201.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:210",
+      "source_id": "210",
+      "label": "指针",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2255.52,
+        "y": 935.3,
+        "width": 73.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:212",
+      "source_id": "212",
+      "label": "链表",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2575.43,
+        "y": 1074.78,
+        "width": 73.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:216",
+      "source_id": "216",
+      "label": "数据类型",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2336.61,
+        "y": 895.74,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:220",
+      "source_id": "220",
+      "label": "中央处理器",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1442.4,
+        "y": 817.09,
+        "width": 121.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:221",
+      "source_id": "221",
+      "label": "变量与常量",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2109.13,
+        "y": 923.57,
+        "width": 121.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:225",
+      "source_id": "225",
+      "label": "编译原理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2857.79,
+        "y": 1123.49,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:226",
+      "source_id": "226",
+      "label": "控制语句的属性文法",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2743.74,
+        "y": 1007.58,
+        "width": 185.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:227",
+      "source_id": "227",
+      "label": "控制语句",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2382.7,
+        "y": 841.83,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:231",
+      "source_id": "231",
+      "label": "操作系统系统",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2952.09,
+        "y": 998.35,
+        "width": 137.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:232",
+      "source_id": "232",
+      "label": "文件管理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2693.39,
+        "y": 848.26,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:233",
+      "source_id": "233",
+      "label": "文件操作",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2430.52,
+        "y": 798.35,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:237",
+      "source_id": "237",
+      "label": "堆",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2468.61,
+        "y": 1138.3,
+        "width": 57.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:238",
+      "source_id": "238",
+      "label": "动态内存管理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2219.04,
+        "y": 983.3,
+        "width": 137.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:242",
+      "source_id": "242",
+      "label": "嵌入式硬件的组件和嵌入式系统板",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1578.14,
+        "y": 407.67,
+        "width": 281.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:244",
+      "source_id": "244",
+      "label": "计组硬件组成",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1683.39,
+        "y": 727.91,
+        "width": 137.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:247",
+      "source_id": "247",
+      "label": "ISA体系结构模型",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1379.65,
+        "y": 486.94,
+        "width": 164.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:249",
+      "source_id": "249",
+      "label": "指令系统",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1491.32,
+        "y": 730.6,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:252",
+      "source_id": "252",
+      "label": "板载总线",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1023.57,
+        "y": 460.8,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:253",
+      "source_id": "253",
+      "label": "嵌入式处理器",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1206.4,
+        "y": 527.97,
+        "width": 137.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:254",
+      "source_id": "254",
+      "label": "板载存储器",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 870.72,
+        "y": 422.38,
+        "width": 121.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:262",
+      "source_id": "262",
+      "label": "存储器",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1183.0,
+        "y": 933.13,
+        "width": 89.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:263",
+      "source_id": "263",
+      "label": "总线",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1331.35,
+        "y": 1041.57,
+        "width": 73.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M02:K:271",
+      "source_id": "271",
+      "label": "时序逻辑电路",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 681.09,
+        "y": 897.45,
+        "width": 137.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    }
+  ],
+  "main_tree": [
+    {
+      "id": "M02:K:101",
+      "source_id": "101",
+      "label": "唐晓松课程总览",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2025.3,
+        "y": 1622.38,
+        "width": 152.4,
+        "height": 62.0
+      },
+      "image_ids": [],
+      "children": []
+    }
+  ],
+  "hierarchy_relations": [],
+  "semantic_relations": [
+    {
+      "id": "M02:R:116",
+      "source_id": "M02:K:104",
+      "target_id": "M02:K:108",
+      "source_label": "软件工程",
+      "target_label": "计算机组成原理",
+      "relation_text": null,
+      "direction": "both"
+    },
+    {
+      "id": "M02:R:117",
+      "source_id": "M02:K:108",
+      "target_id": "M02:K:107",
+      "source_label": "计算机组成原理",
+      "target_label": "数据挖掘",
+      "relation_text": null,
+      "direction": "both"
+    },
+    {
+      "id": "M02:R:118",
+      "source_id": "M02:K:107",
+      "target_id": "M02:K:106",
+      "source_label": "数据挖掘",
+      "target_label": "C语言",
+      "relation_text": null,
+      "direction": "both"
+    },
+    {
+      "id": "M02:R:119",
+      "source_id": "M02:K:106",
+      "target_id": "M02:K:105",
+      "source_label": "C语言",
+      "target_label": "分布式数据库",
+      "relation_text": null,
+      "direction": "both"
+    },
+    {
+      "id": "M02:R:120",
+      "source_id": "M02:K:105",
+      "target_id": "M02:K:104",
+      "source_label": "分布式数据库",
+      "target_label": "软件工程",
+      "relation_text": null,
+      "direction": "both"
+    },
+    {
+      "id": "M02:R:121",
+      "source_id": "M02:K:107",
+      "target_id": "M02:K:113",
+      "source_label": "数据挖掘",
+      "target_label": "数据分析与数据挖掘",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:122",
+      "source_id": "M02:K:107",
+      "target_id": "M02:K:110",
+      "source_label": "数据挖掘",
+      "target_label": "数据预处理",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:123",
+      "source_id": "M02:K:107",
+      "target_id": "M02:K:111",
+      "source_label": "数据挖掘",
+      "target_label": "回归分析",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:124",
+      "source_id": "M02:K:107",
+      "target_id": "M02:K:112",
+      "source_label": "数据挖掘",
+      "target_label": "频繁模式挖掘",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:125",
+      "source_id": "M02:K:107",
+      "target_id": "M02:K:114",
+      "source_label": "数据挖掘",
+      "target_label": "分类",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:127",
+      "source_id": "M02:K:107",
+      "target_id": "M02:K:109",
+      "source_label": "数据挖掘",
+      "target_label": "数据",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:130",
+      "source_id": "M02:K:128",
+      "target_id": "M02:K:129",
+      "source_label": "云计算",
+      "target_label": "Hadoop2.0主流开源云框架",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:131",
+      "source_id": "M02:K:113",
+      "target_id": "M02:K:129",
+      "source_label": "数据分析与数据挖掘",
+      "target_label": "Hadoop2.0主流开源云框架",
+      "relation_text": "Hadoop应用",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:136",
+      "source_id": "M02:K:133",
+      "target_id": "M02:K:135",
+      "source_label": "概率论与数理统计",
+      "target_label": "样本数字特征",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:137",
+      "source_id": "M02:K:109",
+      "target_id": "M02:K:135",
+      "source_label": "数据",
+      "target_label": "样本数字特征",
+      "relation_text": "数字特征",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:139",
+      "source_id": "M02:K:133",
+      "target_id": "M02:K:138",
+      "source_label": "概率论与数理统计",
+      "target_label": "随机变量数字特征",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:140",
+      "source_id": "M02:K:110",
+      "target_id": "M02:K:138",
+      "source_label": "数据预处理",
+      "target_label": "随机变量数字特征",
+      "relation_text": "协方差",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:142",
+      "source_id": "M02:K:133",
+      "target_id": "M02:K:141",
+      "source_label": "概率论与数理统计",
+      "target_label": "样本及抽样分布",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:143",
+      "source_id": "M02:K:110",
+      "target_id": "M02:K:141",
+      "source_label": "数据预处理",
+      "target_label": "样本及抽样分布",
+      "relation_text": "抽样",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:144",
+      "source_id": "M02:K:111",
+      "target_id": "M02:K:141",
+      "source_label": "回归分析",
+      "target_label": "样本及抽样分布",
+      "relation_text": "t分布、f分布",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:147",
+      "source_id": "M02:K:145",
+      "target_id": "M02:K:146",
+      "source_label": "高等数学",
+      "target_label": "多元函数微分法及其应用",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:148",
+      "source_id": "M02:K:146",
+      "target_id": "M02:K:111",
+      "source_label": "多元函数微分法及其应用",
+      "target_label": "回归分析",
+      "relation_text": "最小二乘法",
+      "direction": "backward"
+    },
+    {
+      "id": "M02:R:154",
+      "source_id": "M02:K:153",
+      "target_id": "M02:K:149",
+      "source_label": "图/树",
+      "target_label": "数据结构",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:155",
+      "source_id": "M02:K:112",
+      "target_id": "M02:K:153",
+      "source_label": "频繁模式挖掘",
+      "target_label": "图/树",
+      "relation_text": "FP-GROWTH算法（树的结构）",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:157",
+      "source_id": "M02:K:156",
+      "target_id": "M02:K:133",
+      "source_label": "概率论的基本概念",
+      "target_label": "概率论与数理统计",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:158",
+      "source_id": "M02:K:114",
+      "target_id": "M02:K:156",
+      "source_label": "分类",
+      "target_label": "概率论的基本概念",
+      "relation_text": "贝叶斯公式",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:159",
+      "source_id": "M02:K:114",
+      "target_id": "M02:K:153",
+      "source_label": "分类",
+      "target_label": "图/树",
+      "relation_text": "决策树算法",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:165",
+      "source_id": "M02:K:160",
+      "target_id": "M02:K:164",
+      "source_label": "数据库",
+      "target_label": "数据库的设计与应用开发",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:169",
+      "source_id": "M02:K:167",
+      "target_id": "M02:K:168",
+      "source_label": "数字电路技术",
+      "target_label": "组合逻辑电路",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:173",
+      "source_id": "M02:K:104",
+      "target_id": "M02:K:172",
+      "source_label": "软件工程",
+      "target_label": "软件工程概论",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:174",
+      "source_id": "M02:K:172",
+      "target_id": "M02:K:164",
+      "source_label": "软件工程概论",
+      "target_label": "数据库的设计与应用开发",
+      "relation_text": "软件开发--数据库设计",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:176",
+      "source_id": "M02:K:104",
+      "target_id": "M02:K:175",
+      "source_label": "软件工程",
+      "target_label": "总体设计",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:177",
+      "source_id": "M02:K:175",
+      "target_id": "M02:K:168",
+      "source_label": "总体设计",
+      "target_label": "组合逻辑电路",
+      "relation_text": "层次化、模块化的方法",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:180",
+      "source_id": "M02:K:178",
+      "target_id": "M02:K:179",
+      "source_label": "嵌入式系统",
+      "target_label": "嵌入系统的实现与测试",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:182",
+      "source_id": "M02:K:181",
+      "target_id": "M02:K:179",
+      "source_label": "软件测试",
+      "target_label": "嵌入系统的实现与测试",
+      "relation_text": "黑盒测试、白盒测试",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:183",
+      "source_id": "M02:K:104",
+      "target_id": "M02:K:181",
+      "source_label": "软件工程",
+      "target_label": "软件测试",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:186",
+      "source_id": "M02:K:105",
+      "target_id": "M02:K:185",
+      "source_label": "分布式数据库",
+      "target_label": "分布式数据库的模式结构",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:187",
+      "source_id": "M02:K:185",
+      "target_id": "M02:K:184",
+      "source_label": "分布式数据库的模式结构",
+      "target_label": "集中式数据库的模式结构",
+      "relation_text": "模式结构",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:188",
+      "source_id": "M02:K:184",
+      "target_id": "M02:K:160",
+      "source_label": "集中式数据库的模式结构",
+      "target_label": "数据库",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:191",
+      "source_id": "M02:K:105",
+      "target_id": "M02:K:189",
+      "source_label": "分布式数据库",
+      "target_label": "分布式数据库设计",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:192",
+      "source_id": "M02:K:189",
+      "target_id": "M02:K:190",
+      "source_label": "分布式数据库设计",
+      "target_label": "分布式下的解决方案",
+      "relation_text": "分布式存储、分布式计算、冗余计算",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:193",
+      "source_id": "M02:K:190",
+      "target_id": "M02:K:128",
+      "source_label": "分布式下的解决方案",
+      "target_label": "云计算",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:196",
+      "source_id": "M02:K:105",
+      "target_id": "M02:K:194",
+      "source_label": "分布式数据库",
+      "target_label": "分布式数据库分片设计",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:198",
+      "source_id": "M02:K:160",
+      "target_id": "M02:K:197",
+      "source_label": "数据库",
+      "target_label": "关系代数选择",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:199",
+      "source_id": "M02:K:194",
+      "target_id": "M02:K:197",
+      "source_label": "分布式数据库分片设计",
+      "target_label": "关系代数选择",
+      "relation_text": "投影、选择",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:203",
+      "source_id": "M02:K:201",
+      "target_id": "M02:K:200",
+      "source_label": "二元关系",
+      "target_label": "离散数学",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:205",
+      "source_id": "M02:K:105",
+      "target_id": "M02:K:204",
+      "source_label": "分布式数据库",
+      "target_label": "分布式查询处理",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:206",
+      "source_id": "M02:K:204",
+      "target_id": "M02:K:201",
+      "source_label": "分布式查询处理",
+      "target_label": "二元关系",
+      "relation_text": "笛卡尔积、域、关系等",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:208",
+      "source_id": "M02:K:160",
+      "target_id": "M02:K:207",
+      "source_label": "数据库",
+      "target_label": "关系查询优化的查询树",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:209",
+      "source_id": "M02:K:207",
+      "target_id": "M02:K:204",
+      "source_label": "关系查询优化的查询树",
+      "target_label": "分布式查询处理",
+      "relation_text": "基于等价变换的查询优化",
+      "direction": "backward"
+    },
+    {
+      "id": "M02:R:213",
+      "source_id": "M02:K:212",
+      "target_id": "M02:K:149",
+      "source_label": "链表",
+      "target_label": "数据结构",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:214",
+      "source_id": "M02:K:212",
+      "target_id": "M02:K:210",
+      "source_label": "链表",
+      "target_label": "指针",
+      "relation_text": "指针变量",
+      "direction": "backward"
+    },
+    {
+      "id": "M02:R:215",
+      "source_id": "M02:K:210",
+      "target_id": "M02:K:106",
+      "source_label": "指针",
+      "target_label": "C语言",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:218",
+      "source_id": "M02:K:106",
+      "target_id": "M02:K:216",
+      "source_label": "C语言",
+      "target_label": "数据类型",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:219",
+      "source_id": "M02:K:216",
+      "target_id": "M02:K:212",
+      "source_label": "数据类型",
+      "target_label": "链表",
+      "relation_text": "结构体",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:222",
+      "source_id": "M02:K:221",
+      "target_id": "M02:K:106",
+      "source_label": "变量与常量",
+      "target_label": "C语言",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:223",
+      "source_id": "M02:K:220",
+      "target_id": "M02:K:108",
+      "source_label": "中央处理器",
+      "target_label": "计算机组成原理",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:224",
+      "source_id": "M02:K:221",
+      "target_id": "M02:K:220",
+      "source_label": "变量与常量",
+      "target_label": "中央处理器",
+      "relation_text": "register变量（寄存器）",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:228",
+      "source_id": "M02:K:106",
+      "target_id": "M02:K:227",
+      "source_label": "C语言",
+      "target_label": "控制语句",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:229",
+      "source_id": "M02:K:227",
+      "target_id": "M02:K:226",
+      "source_label": "控制语句",
+      "target_label": "控制语句的属性文法",
+      "relation_text": "控制语句",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:230",
+      "source_id": "M02:K:226",
+      "target_id": "M02:K:225",
+      "source_label": "控制语句的属性文法",
+      "target_label": "编译原理",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:234",
+      "source_id": "M02:K:106",
+      "target_id": "M02:K:233",
+      "source_label": "C语言",
+      "target_label": "文件操作",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:235",
+      "source_id": "M02:K:233",
+      "target_id": "M02:K:232",
+      "source_label": "文件操作",
+      "target_label": "文件管理",
+      "relation_text": "文件操作与管理",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:236",
+      "source_id": "M02:K:232",
+      "target_id": "M02:K:231",
+      "source_label": "文件管理",
+      "target_label": "操作系统系统",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:239",
+      "source_id": "M02:K:106",
+      "target_id": "M02:K:238",
+      "source_label": "C语言",
+      "target_label": "动态内存管理",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:240",
+      "source_id": "M02:K:238",
+      "target_id": "M02:K:237",
+      "source_label": "动态内存管理",
+      "target_label": "堆",
+      "relation_text": "不同的堆",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:241",
+      "source_id": "M02:K:237",
+      "target_id": "M02:K:149",
+      "source_label": "堆",
+      "target_label": "数据结构",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:243",
+      "source_id": "M02:K:178",
+      "target_id": "M02:K:242",
+      "source_label": "嵌入式系统",
+      "target_label": "嵌入式硬件的组件和嵌入式系统板",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:245",
+      "source_id": "M02:K:244",
+      "target_id": "M02:K:242",
+      "source_label": "计组硬件组成",
+      "target_label": "嵌入式硬件的组件和嵌入式系统板",
+      "relation_text": "冯诺依曼",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:246",
+      "source_id": "M02:K:108",
+      "target_id": "M02:K:244",
+      "source_label": "计算机组成原理",
+      "target_label": "计组硬件组成",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:248",
+      "source_id": "M02:K:178",
+      "target_id": "M02:K:247",
+      "source_label": "嵌入式系统",
+      "target_label": "ISA体系结构模型",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:250",
+      "source_id": "M02:K:247",
+      "target_id": "M02:K:249",
+      "source_label": "ISA体系结构模型",
+      "target_label": "指令系统",
+      "relation_text": "指令系统的特点",
+      "direction": "backward"
+    },
+    {
+      "id": "M02:R:251",
+      "source_id": "M02:K:249",
+      "target_id": "M02:K:108",
+      "source_label": "指令系统",
+      "target_label": "计算机组成原理",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:259",
+      "source_id": "M02:K:178",
+      "target_id": "M02:K:254",
+      "source_label": "嵌入式系统",
+      "target_label": "板载存储器",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:260",
+      "source_id": "M02:K:178",
+      "target_id": "M02:K:252",
+      "source_label": "嵌入式系统",
+      "target_label": "板载总线",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:261",
+      "source_id": "M02:K:178",
+      "target_id": "M02:K:253",
+      "source_label": "嵌入式系统",
+      "target_label": "嵌入式处理器",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:265",
+      "source_id": "M02:K:253",
+      "target_id": "M02:K:220",
+      "source_label": "嵌入式处理器",
+      "target_label": "中央处理器",
+      "relation_text": "基本概念",
+      "direction": "backward"
+    },
+    {
+      "id": "M02:R:266",
+      "source_id": "M02:K:263",
+      "target_id": "M02:K:108",
+      "source_label": "总线",
+      "target_label": "计算机组成原理",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:267",
+      "source_id": "M02:K:262",
+      "target_id": "M02:K:108",
+      "source_label": "存储器",
+      "target_label": "计算机组成原理",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:268",
+      "source_id": "M02:K:262",
+      "target_id": "M02:K:254",
+      "source_label": "存储器",
+      "target_label": "板载存储器",
+      "relation_text": "基本概念",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:269",
+      "source_id": "M02:K:263",
+      "target_id": "M02:K:252",
+      "source_label": "总线",
+      "target_label": "板载总线",
+      "relation_text": "基本概念",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:270",
+      "source_id": "M02:K:220",
+      "target_id": "M02:K:168",
+      "source_label": "中央处理器",
+      "target_label": "组合逻辑电路",
+      "relation_text": "硬布线",
+      "direction": "forward"
+    },
+    {
+      "id": "M02:R:272",
+      "source_id": "M02:K:167",
+      "target_id": "M02:K:271",
+      "source_label": "数字电路技术",
+      "target_label": "时序逻辑电路",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M02:R:273",
+      "source_id": "M02:K:220",
+      "target_id": "M02:K:271",
+      "source_label": "中央处理器",
+      "target_label": "时序逻辑电路",
+      "relation_text": "微程序设计",
+      "direction": "forward"
+    }
+  ],
+  "floating_topics": {
+    "roots": [],
+    "items": []
+  },
+  "summary_blocks": [],
+  "summary_items": [],
+  "callouts": [],
+  "structural_anchors": [],
+  "boundary_groups": [],
+  "images": []
+}

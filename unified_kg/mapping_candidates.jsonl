@@ -1,0 +1,611 @@
+{"legacy_node_id": "LEGACY:OS_MEC_001", "name": "处理机管理", "course_id": "C09", "candidate_node_ids": ["C09:K:150"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_002", "name": "存储器管理", "course_id": "C09", "candidate_node_ids": ["C09:K:152"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_003", "name": "文件管理", "course_id": "C09", "candidate_node_ids": ["C09:K:111", "C09:K:154"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_004", "name": "设备管理", "course_id": "C09", "candidate_node_ids": ["C09:K:156"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_005", "name": "系统调用", "course_id": "C09", "candidate_node_ids": ["C09:K:178"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_003", "name": "扩充机器", "course_id": "C09", "candidate_node_ids": ["C09:K:148"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_PROP_001", "name": "并发", "course_id": "C09", "candidate_node_ids": ["C09:K:121"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_PROP_002", "name": "共享", "course_id": "C09", "candidate_node_ids": ["C09:K:131"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_PROP_003", "name": "虚拟", "course_id": "C09", "candidate_node_ids": ["C09:K:134"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_PROP_004", "name": "异步", "course_id": "C09", "candidate_node_ids": ["C09:K:136"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_OBJ_003", "name": "临界资源", "course_id": "C09", "candidate_node_ids": ["C09:K:1072"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_013", "name": "分时操作系统", "course_id": "C09", "candidate_node_ids": ["C09:K:160"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_014", "name": "实时操作系统", "course_id": "C09", "candidate_node_ids": ["C09:K:162"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_009", "name": "时钟管理", "course_id": "C09", "candidate_node_ids": ["C09:K:1034"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_010", "name": "中断机制", "course_id": "C09", "candidate_node_ids": ["C09:K:176"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_022", "name": "原语", "course_id": "C09", "candidate_node_ids": ["C09:K:1042"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_021", "name": "静态链接", "course_id": "C09", "candidate_node_ids": ["C09:K:485"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_030", "name": "进程", "course_id": "C09", "candidate_node_ids": ["C09:K:202"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_035", "name": "进程状态", "course_id": "C09", "candidate_node_ids": ["C09:K:212"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_029", "name": "进程控制", "course_id": "C09", "candidate_node_ids": ["C09:K:248"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_030", "name": "进程通信", "course_id": "C09", "candidate_node_ids": ["C09:K:252"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_031", "name": "共享存储", "course_id": "C09", "candidate_node_ids": ["C09:K:254"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_036", "name": "消息传递", "course_id": "C09", "candidate_node_ids": ["C09:K:256"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_032", "name": "管道通信", "course_id": "C09", "candidate_node_ids": ["C09:K:258"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_037", "name": "线程", "course_id": "C09", "candidate_node_ids": ["C09:K:204"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MET_001", "name": "周转时间", "course_id": "C09", "candidate_node_ids": ["C09:K:339"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MET_003", "name": "等待时间", "course_id": "C09", "candidate_node_ids": ["C09:K:343"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MET_004", "name": "响应时间", "course_id": "C09", "candidate_node_ids": ["C09:K:345"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MET_005", "name": "CPU利用率", "course_id": "C09", "candidate_node_ids": ["C09:K:335"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MET_006", "name": "系统吞吐量", "course_id": "C09", "candidate_node_ids": ["C09:K:337"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_037", "name": "同步", "course_id": "C09", "candidate_node_ids": ["C09:K:375"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_038", "name": "互斥", "course_id": "C09", "candidate_node_ids": ["C09:K:377"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_ALG_015", "name": "Peterson算法", "course_id": "C09", "candidate_node_ids": ["C09:K:407"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_047", "name": "信号量", "course_id": "C09", "candidate_node_ids": ["C09:K:413", "C09:K:415"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_048", "name": "整型信号量", "course_id": "C09", "candidate_node_ids": ["C09:K:1076"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_049", "name": "记录型信号量", "course_id": "C09", "candidate_node_ids": ["C09:K:1078"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_PRB_002", "name": "生产者-消费者问题", "course_id": "C09", "candidate_node_ids": ["C09:K:1082"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_PRB_003", "name": "读者-写者问题", "course_id": "C09", "candidate_node_ids": ["C09:K:1084"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_PRB_004", "name": "哲学家进餐问题", "course_id": "C09", "candidate_node_ids": ["C09:K:1086"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_052", "name": "死锁", "course_id": "C09", "candidate_node_ids": ["C09:K:417"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_PROP_013", "name": "互斥条件", "course_id": "C09", "candidate_node_ids": ["C09:K:431"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_PROP_014", "name": "不剥夺条件", "course_id": "C09", "candidate_node_ids": ["C09:K:433"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_PROP_016", "name": "循环等待条件", "course_id": "C09", "candidate_node_ids": ["C09:K:437"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_053", "name": "死锁预防", "course_id": "C09", "candidate_node_ids": ["C09:K:439"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_054", "name": "死锁避免", "course_id": "C09", "candidate_node_ids": ["C09:K:441"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_ALG_016", "name": "银行家算法", "course_id": "C09", "candidate_node_ids": ["C09:K:453"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_DST_005", "name": "资源分配图", "course_id": "C09", "candidate_node_ids": ["C09:K:457"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_043", "name": "内存管理", "course_id": "C09", "candidate_node_ids": ["C09:K:109"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_044", "name": "内存保护", "course_id": "C09", "candidate_node_ids": ["C09:K:515"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_046", "name": "连续分配管理方式", "course_id": "C09", "candidate_node_ids": ["C09:K:505"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_047", "name": "单一连续分配", "course_id": "C09", "candidate_node_ids": ["C09:K:509"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_048", "name": "固定分区分配", "course_id": "C09", "candidate_node_ids": ["C09:K:511"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_049", "name": "动态分区分配", "course_id": "C09", "candidate_node_ids": ["C09:K:513"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_ALG_017", "name": "首次适应算法", "course_id": "C09", "candidate_node_ids": ["C09:K:525"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_ALG_018", "name": "最佳适应算法", "course_id": "C09", "candidate_node_ids": ["C09:K:527"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_ALG_019", "name": "最坏适应算法", "course_id": "C09", "candidate_node_ids": ["C09:K:529"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_ALG_020", "name": "邻近适应算法", "course_id": "C09", "candidate_node_ids": ["C09:K:531"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_DST_006", "name": "页表", "course_id": "C09", "candidate_node_ids": ["C09:K:544", "C09:K:606"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_DST_009", "name": "段表", "course_id": "C09", "candidate_node_ids": ["C09:K:560"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_065", "name": "虚拟内存", "course_id": "C09", "candidate_node_ids": ["C09:K:584"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_066", "name": "局部性原理", "course_id": "C09", "candidate_node_ids": ["C09:K:592"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_068", "name": "地址变换机构", "course_id": "C09", "candidate_node_ids": ["C09:K:552", "C09:K:576"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_070", "name": "驻留集", "course_id": "C09", "candidate_node_ids": ["C09:K:646"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_ALG_021", "name": "最佳置换算法", "course_id": "C09", "candidate_node_ids": ["C09:K:626"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_ALG_022", "name": "先进先出置换算法", "course_id": "C09", "candidate_node_ids": ["C09:K:628"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_ALG_023", "name": "最近最久未使用置换算法", "course_id": "C09", "candidate_node_ids": ["C09:K:630"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_ALG_024", "name": "时钟置换算法", "course_id": "C09", "candidate_node_ids": ["C09:K:632"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_ALG_025", "name": "改进型时钟置换算法", "course_id": "C09", "candidate_node_ids": ["C09:K:634"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_OBJ_014", "name": "物理块号", "course_id": "C09", "candidate_node_ids": ["C09:K:612"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_OBJ_015", "name": "文件", "course_id": "C09", "candidate_node_ids": ["C09:K:669"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_075", "name": "文件系统", "course_id": "C09", "candidate_node_ids": ["C09:K:671"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_DST_010", "name": "文件控制块", "course_id": "C09", "candidate_node_ids": ["C09:K:729"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_079", "name": "有结构文件", "course_id": "C09", "candidate_node_ids": ["C09:K:713"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_080", "name": "顺序文件", "course_id": "C09", "candidate_node_ids": ["C09:K:715"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_081", "name": "索引文件", "course_id": "C09", "candidate_node_ids": ["C09:K:717"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_082", "name": "索引顺序文件", "course_id": "C09", "candidate_node_ids": ["C09:K:719"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MOD_012", "name": "单级目录结构", "course_id": "C09", "candidate_node_ids": ["C09:K:733"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MOD_013", "name": "两级目录结构", "course_id": "C09", "candidate_node_ids": ["C09:K:735"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MOD_014", "name": "多级目录结构", "course_id": "C09", "candidate_node_ids": ["C09:K:737"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MOD_015", "name": "无环图目录结构", "course_id": "C09", "candidate_node_ids": ["C09:K:739"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_OPE_011", "name": "创建文件", "course_id": "C09", "candidate_node_ids": ["C09:K:697"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_OPE_013", "name": "读文件", "course_id": "C09", "candidate_node_ids": ["C09:K:701"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_OPE_014", "name": "写文件", "course_id": "C09", "candidate_node_ids": ["C09:K:699"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_OPE_016", "name": "删除文件", "course_id": "C09", "candidate_node_ids": ["C09:K:705"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_063", "name": "文件共享", "course_id": "C09", "candidate_node_ids": ["C09:K:741"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_066", "name": "文件保护", "course_id": "C09", "candidate_node_ids": ["C09:K:749"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_087", "name": "空闲表法", "course_id": "C09", "candidate_node_ids": ["C09:K:807"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_088", "name": "空闲链表法", "course_id": "C09", "candidate_node_ids": ["C09:K:809"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_DST_015", "name": "位示图法", "course_id": "C09", "candidate_node_ids": ["C09:K:811"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_071", "name": "成组链接法", "course_id": "C09", "candidate_node_ids": ["C09:K:813"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_OBJ_017", "name": "I/O设备", "course_id": "C09", "candidate_node_ids": ["C09:K:850"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_OBJ_018", "name": "块设备", "course_id": "C09", "candidate_node_ids": ["C09:K:875"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_OBJ_019", "name": "字符设备", "course_id": "C09", "candidate_node_ids": ["C09:K:877"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_OBJ_020", "name": "设备控制器", "course_id": "C09", "candidate_node_ids": ["C09:K:902"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_072", "name": "I/O控制方式", "course_id": "C09", "candidate_node_ids": ["C09:K:852"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_073", "name": "程序直接控制方式", "course_id": "C09", "candidate_node_ids": ["C09:K:879"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_074", "name": "中断驱动方式", "course_id": "C09", "candidate_node_ids": ["C09:K:881"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_075", "name": "DMA方式", "course_id": "C09", "candidate_node_ids": ["C09:K:883"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_076", "name": "通道控制方式", "course_id": "C09", "candidate_node_ids": ["C09:K:885"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_093", "name": "设备独立性软件", "course_id": "C09", "candidate_node_ids": ["C09:K:895"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_CON_094", "name": "设备驱动程序", "course_id": "C09", "candidate_node_ids": ["C09:K:889"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_077", "name": "中断处理程序", "course_id": "C09", "candidate_node_ids": ["C09:K:891"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_OBJ_024", "name": "缓冲区", "course_id": "C09", "candidate_node_ids": ["C09:K:918"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_078", "name": "单缓冲", "course_id": "C09", "candidate_node_ids": ["C09:K:920"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_079", "name": "双缓冲", "course_id": "C09", "candidate_node_ids": ["C09:K:922"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_080", "name": "循环缓冲", "course_id": "C09", "candidate_node_ids": ["C09:K:924"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_081", "name": "缓冲池", "course_id": "C09", "candidate_node_ids": ["C09:K:926"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_083", "name": "SPOOLing技术", "course_id": "C09", "candidate_node_ids": ["C09:K:961"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_OBJ_029", "name": "磁盘", "course_id": "C09", "candidate_node_ids": ["C09:K:673"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_OBJ_030", "name": "磁道", "course_id": "C09", "candidate_node_ids": ["C09:K:834"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_OBJ_031", "name": "扇区", "course_id": "C09", "candidate_node_ids": ["C09:K:832"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_ALG_028", "name": "扫描算法", "course_id": "C09", "candidate_node_ids": ["C09:K:840"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_ALG_029", "name": "循环扫描算法", "course_id": "C09", "candidate_node_ids": ["C09:K:842"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MOD_018", "name": "目录结构", "course_id": "C09", "candidate_node_ids": ["C09:K:723", "C09:K:727"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:OS_MEC_086", "name": "文件存储空间管理", "course_id": "C09", "candidate_node_ids": ["C09:K:805"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_003", "name": "数据", "course_id": "C07", "candidate_node_ids": ["C07:K:498"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_004", "name": "数据元素", "course_id": "C07", "candidate_node_ids": ["C07:K:502"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_005", "name": "数据项", "course_id": "C07", "candidate_node_ids": ["C07:K:506"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_012", "name": "逻辑结构", "course_id": "C07", "candidate_node_ids": ["C07:K:536", "C07:K:1815"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_013", "name": "存储结构", "course_id": "C07", "candidate_node_ids": ["C07:K:1819"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_015", "name": "集合", "course_id": "C07", "candidate_node_ids": ["C07:K:1750"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_016", "name": "线性结构", "course_id": "C07", "candidate_node_ids": ["C07:K:544", "C07:K:1736"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_017", "name": "树形结构", "course_id": "C07", "candidate_node_ids": ["C07:K:548"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_019", "name": "顺序存储", "course_id": "C07", "candidate_node_ids": ["C07:K:1016", "C07:K:1841"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_020", "name": "链式存储", "course_id": "C07", "candidate_node_ids": ["C07:K:1026", "C07:K:1821"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_024", "name": "顺序存取", "course_id": "C07", "candidate_node_ids": ["C07:K:1951"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_026", "name": "算法", "course_id": "C07", "candidate_node_ids": ["C07:K:572", "C07:K:576"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_027", "name": "有穷性", "course_id": "C07", "candidate_node_ids": ["C07:K:590"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_028", "name": "确定性", "course_id": "C07", "candidate_node_ids": ["C07:K:594"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_029", "name": "可行性", "course_id": "C07", "candidate_node_ids": ["C07:K:598"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_030", "name": "输入", "course_id": "C07", "candidate_node_ids": ["C07:K:582"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_031", "name": "输出", "course_id": "C07", "candidate_node_ids": ["C07:K:586"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_032", "name": "正确性", "course_id": "C07", "candidate_node_ids": ["C07:K:604"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_033", "name": "可读性", "course_id": "C07", "candidate_node_ids": ["C07:K:606"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_034", "name": "健壮性", "course_id": "C07", "candidate_node_ids": ["C07:K:608"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_035", "name": "时间复杂度", "course_id": "C07", "candidate_node_ids": ["C07:K:618"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_036", "name": "空间复杂度", "course_id": "C07", "candidate_node_ids": ["C07:K:620"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_045", "name": "线性表", "course_id": "C07", "candidate_node_ids": ["C07:K:1738"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_054", "name": "顺序表", "course_id": "C07", "candidate_node_ids": ["C07:K:182", "C07:K:1843"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_061", "name": "单链表", "course_id": "C07", "candidate_node_ids": ["C07:K:1833"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_062", "name": "结点", "course_id": "C07", "candidate_node_ids": ["C07:K:872"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_072", "name": "双链表", "course_id": "C07", "candidate_node_ids": ["C07:K:1831"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_075", "name": "循环链表", "course_id": "C07", "candidate_node_ids": ["C07:K:1825"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_076", "name": "循环单链表", "course_id": "C07", "candidate_node_ids": ["C07:K:1827"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_077", "name": "循环双链表", "course_id": "C07", "candidate_node_ids": ["C07:K:1829"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_078", "name": "静态链表", "course_id": "C07", "candidate_node_ids": ["C07:K:1837"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_079", "name": "顺序表和链表的比较", "course_id": "C07", "candidate_node_ids": ["C07:K:1845"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_081", "name": "栈", "course_id": "C07", "candidate_node_ids": ["C07:K:716", "C07:K:1740"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_087", "name": "顺序栈", "course_id": "C07", "candidate_node_ids": ["C07:K:724"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_089", "name": "共享栈", "course_id": "C07", "candidate_node_ids": ["C07:K:728"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_092", "name": "队列", "course_id": "C07", "candidate_node_ids": ["C07:K:1742"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_098", "name": "循环队列", "course_id": "C07", "candidate_node_ids": ["C07:K:774"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_119", "name": "特殊矩阵", "course_id": "C07", "candidate_node_ids": ["C07:K:824"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_120", "name": "对称矩阵", "course_id": "C07", "candidate_node_ids": ["C07:K:828"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_123", "name": "稀疏矩阵", "course_id": "C07", "candidate_node_ids": ["C07:K:842"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_146", "name": "树的基本概念", "course_id": "C07", "candidate_node_ids": ["C07:K:858", "C07:K:860"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_147", "name": "树", "course_id": "C07", "candidate_node_ids": ["C07:K:1746"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_151", "name": "分支结点", "course_id": "C07", "candidate_node_ids": ["C07:K:884"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_152", "name": "结点的度", "course_id": "C07", "candidate_node_ids": ["C07:K:876"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_153", "name": "树的度", "course_id": "C07", "candidate_node_ids": ["C07:K:910"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_154", "name": "孩子结点", "course_id": "C07", "candidate_node_ids": ["C07:K:902"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_155", "name": "双亲结点", "course_id": "C07", "candidate_node_ids": ["C07:K:898"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_156", "name": "兄弟结点", "course_id": "C07", "candidate_node_ids": ["C07:K:906"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_157", "name": "祖先结点", "course_id": "C07", "candidate_node_ids": ["C07:K:890"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_158", "name": "子孙结点", "course_id": "C07", "candidate_node_ids": ["C07:K:894"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_161", "name": "路径", "course_id": "C07", "candidate_node_ids": ["C07:K:414", "C07:K:1156"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_162", "name": "森林", "course_id": "C07", "candidate_node_ids": ["C07:K:930"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_167", "name": "满二叉树", "course_id": "C07", "candidate_node_ids": ["C07:K:990"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_168", "name": "完全二叉树", "course_id": "C07", "candidate_node_ids": ["C07:K:994"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_177", "name": "线索二叉树", "course_id": "C07", "candidate_node_ids": ["C07:K:1110"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_184", "name": "双亲表示法", "course_id": "C07", "candidate_node_ids": ["C07:K:942"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_185", "name": "孩子表示法", "course_id": "C07", "candidate_node_ids": ["C07:K:954"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_186", "name": "孩子兄弟表示法", "course_id": "C07", "candidate_node_ids": ["C07:K:970"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_194", "name": "权", "course_id": "C07", "candidate_node_ids": ["C07:K:418"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_204", "name": "图", "course_id": "C07", "candidate_node_ids": ["C07:K:370", "C07:K:1748"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_205", "name": "顶点", "course_id": "C07", "candidate_node_ids": ["C07:K:376"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_206", "name": "边", "course_id": "C07", "candidate_node_ids": ["C07:K:380"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_207", "name": "有向图", "course_id": "C07", "candidate_node_ids": ["C07:K:386", "C07:K:456"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_208", "name": "无向图", "course_id": "C07", "candidate_node_ids": ["C07:K:390", "C07:K:454"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_212", "name": "完全图", "course_id": "C07", "candidate_node_ids": ["C07:K:394"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_213", "name": "子图", "course_id": "C07", "candidate_node_ids": ["C07:K:432"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_218", "name": "连通图", "course_id": "C07", "candidate_node_ids": ["C07:K:436"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_219", "name": "强连通图", "course_id": "C07", "candidate_node_ids": ["C07:K:440"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_220", "name": "连通分量", "course_id": "C07", "candidate_node_ids": ["C07:K:464"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_222", "name": "生成树", "course_id": "C07", "candidate_node_ids": ["C07:K:444"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_223", "name": "路径长度", "course_id": "C07", "candidate_node_ids": ["C07:K:422", "C07:K:1158"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_226", "name": "邻接矩阵", "course_id": "C07", "candidate_node_ids": ["C07:K:450"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_227", "name": "邻接表", "course_id": "C07", "candidate_node_ids": ["C07:K:452"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_234", "name": "图的遍历", "course_id": "C07", "candidate_node_ids": ["C07:K:458"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_241", "name": "最小生成树", "course_id": "C07", "candidate_node_ids": ["C07:K:468"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_243", "name": "Kruskal算法", "course_id": "C07", "candidate_node_ids": ["C07:K:1758"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_244", "name": "最短路径", "course_id": "C07", "candidate_node_ids": ["C07:K:1755"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_245", "name": "Dijkstra算法", "course_id": "C07", "candidate_node_ids": ["C07:K:1769"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_246", "name": "Floyd算法", "course_id": "C07", "candidate_node_ids": ["C07:K:1771"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_257", "name": "查找", "course_id": "C07", "candidate_node_ids": ["C07:K:178"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_272", "name": "二叉排序树", "course_id": "C07", "candidate_node_ids": ["C07:K:196", "C07:K:1186"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_273", "name": "平衡二叉树", "course_id": "C07", "candidate_node_ids": ["C07:K:198"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_279", "name": "B树", "course_id": "C07", "candidate_node_ids": ["C07:K:102", "C07:K:202"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_280", "name": "B+树", "course_id": "C07", "candidate_node_ids": ["C07:K:118", "C07:K:204"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_286", "name": "散列函数", "course_id": "C07", "candidate_node_ids": ["C07:K:218"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_288", "name": "哈希冲突", "course_id": "C07", "candidate_node_ids": ["C07:K:214"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_298", "name": "排序", "course_id": "C07", "candidate_node_ids": ["C07:K:294"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_304", "name": "插入排序", "course_id": "C07", "candidate_node_ids": ["C07:K:316"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_305", "name": "直接插入排序", "course_id": "C07", "candidate_node_ids": ["C07:K:318"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_307", "name": "希尔排序", "course_id": "C07", "candidate_node_ids": ["C07:K:324"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_309", "name": "交换排序", "course_id": "C07", "candidate_node_ids": ["C07:K:346"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_310", "name": "冒泡排序", "course_id": "C07", "candidate_node_ids": ["C07:K:348"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_311", "name": "快速排序", "course_id": "C07", "candidate_node_ids": ["C07:K:354"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_315", "name": "选择排序", "course_id": "C07", "candidate_node_ids": ["C07:K:328", "C07:K:330"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_317", "name": "堆排序", "course_id": "C07", "candidate_node_ids": ["C07:K:340"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_323", "name": "归并排序", "course_id": "C07", "candidate_node_ids": ["C07:K:358", "C07:K:360"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_325", "name": "基数排序", "course_id": "C07", "candidate_node_ids": ["C07:K:368"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_326", "name": "计数排序", "course_id": "C07", "candidate_node_ids": ["C07:K:366"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_331", "name": "最好情况", "course_id": "C07", "candidate_node_ids": ["C07:K:632"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_332", "name": "最坏情况", "course_id": "C07", "candidate_node_ids": ["C07:K:628"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DS_TOP_333", "name": "平均情况", "course_id": "C07", "candidate_node_ids": ["C07:K:624"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_MEC_001", "name": "词法分析", "course_id": "C11", "candidate_node_ids": ["C11:K:1126"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_MEC_002", "name": "语法分析", "course_id": "C11", "candidate_node_ids": ["C11:K:1128"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_CON_007", "name": "字母表", "course_id": "C11", "candidate_node_ids": ["C11:K:1854"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_CON_010", "name": "文法", "course_id": "C11", "candidate_node_ids": ["C11:K:1819", "C11:K:1827", "C11:K:5438"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_OPR_002", "name": "推导", "course_id": "C11", "candidate_node_ids": ["C11:K:1949"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_CON_011", "name": "语言", "course_id": "C11", "candidate_node_ids": ["C11:K:1975", "C11:K:2997"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_MOD_009", "name": "上下文无关文法", "course_id": "C11", "candidate_node_ids": ["C11:K:1168", "C11:K:1831", "C11:K:2966"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_DS_001", "name": "语法树", "course_id": "C11", "candidate_node_ids": ["C11:K:2043"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_CON_012", "name": "短语", "course_id": "C11", "candidate_node_ids": ["C11:K:3790"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_CON_013", "name": "直接短语", "course_id": "C11", "candidate_node_ids": ["C11:K:3801"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_CON_015", "name": "句型", "course_id": "C11", "candidate_node_ids": ["C11:K:1971", "C11:K:2993"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_CON_016", "name": "句子", "course_id": "C11", "candidate_node_ids": ["C11:K:1973", "C11:K:2995"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_OPR_003", "name": "最左推导", "course_id": "C11", "candidate_node_ids": ["C11:K:2031"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_OPR_004", "name": "最右推导", "course_id": "C11", "candidate_node_ids": ["C11:K:2033"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_ALG_001", "name": "自上而下分析", "course_id": "C11", "candidate_node_ids": ["C11:K:8193"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_ALG_002", "name": "自下而上分析", "course_id": "C11", "candidate_node_ids": ["C11:K:7416"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_MEC_009", "name": "状态转换函数", "course_id": "C11", "candidate_node_ids": ["C11:K:4363"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_APP_001", "name": "lex", "course_id": "C11", "candidate_node_ids": ["C11:K:2918"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_MOD_016", "name": "LL(1)文法", "course_id": "C11", "candidate_node_ids": ["C11:K:3370"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_OPR_008", "name": "归约", "course_id": "C11", "candidate_node_ids": ["C11:K:3986"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_DS_007", "name": "优先关系", "course_id": "C11", "candidate_node_ids": ["C11:K:3832"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_MOD_018", "name": "算符优先文法", "course_id": "C11", "candidate_node_ids": ["C11:K:3795", "C11:K:3843"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_ALG_010", "name": "算符优先分析算法", "course_id": "C11", "candidate_node_ids": ["C11:K:3799", "C11:K:3978"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_DS_010", "name": "LR分析表", "course_id": "C11", "candidate_node_ids": ["C11:K:4129"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_SYN_014", "name": "LR(0)项目", "course_id": "C11", "candidate_node_ids": ["C11:K:4248"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_CON_018", "name": "活前缀", "course_id": "C11", "candidate_node_ids": ["C11:K:4204", "C11:K:4216"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_DS_014", "name": "LR(0)项目集规范族", "course_id": "C11", "candidate_node_ids": ["C11:K:4311"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_MOD_019", "name": "属性文法", "course_id": "C11", "candidate_node_ids": ["C11:K:1187", "C11:K:4548"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_CON_020", "name": "综合属性", "course_id": "C11", "candidate_node_ids": ["C11:K:4562", "C11:K:4624", "C11:K:4846", "C11:K:4990"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_CON_021", "name": "继承属性", "course_id": "C11", "candidate_node_ids": ["C11:K:4574", "C11:K:4626", "C11:K:4850", "C11:K:4988"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_SYN_016", "name": "语义规则", "course_id": "C11", "candidate_node_ids": ["C11:K:1183", "C11:K:4614", "C11:K:4872"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_MOD_022", "name": "翻译模式", "course_id": "C11", "candidate_node_ids": ["C11:K:4791", "C11:K:4866", "C11:K:4874"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_CON_023", "name": "作用域", "course_id": "C11", "candidate_node_ids": ["C11:K:5986"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_MEC_014", "name": "类型检查", "course_id": "C11", "candidate_node_ids": ["C11:K:6858"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_DS_021", "name": "四元式", "course_id": "C11", "candidate_node_ids": ["C11:K:5085"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_DS_022", "name": "三元式", "course_id": "C11", "candidate_node_ids": ["C11:K:5083"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_DS_025", "name": "活动记录", "course_id": "C11", "candidate_node_ids": ["C11:K:6251", "C11:K:6272"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_DS_026", "name": "动态链", "course_id": "C11", "candidate_node_ids": ["C11:K:6368"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_DS_027", "name": "静态链", "course_id": "C11", "candidate_node_ids": ["C11:K:6370"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_MEC_022", "name": "过程调用", "course_id": "C11", "candidate_node_ids": ["C11:K:6080"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_MEC_023", "name": "参数传递", "course_id": "C11", "candidate_node_ids": ["C11:K:6040", "C11:K:6056", "C11:K:6070"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_MEC_024", "name": "动态绑定", "course_id": "C11", "candidate_node_ids": ["C11:K:1612"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_CON_026", "name": "基本块", "course_id": "C11", "candidate_node_ids": ["C11:K:6585"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_DS_031", "name": "流图", "course_id": "C11", "candidate_node_ids": ["C11:K:6500"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_ALG_019", "name": "强度削弱", "course_id": "C11", "candidate_node_ids": ["C11:K:6733"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_ALG_020", "name": "局部优化", "course_id": "C11", "candidate_node_ids": ["C11:K:6496", "C11:K:6545", "C11:K:6581"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_ALG_021", "name": "循环优化", "course_id": "C11", "candidate_node_ids": ["C11:K:6547", "C11:K:6741"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_ALG_022", "name": "全局优化", "course_id": "C11", "candidate_node_ids": ["C11:K:6549"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CP_ALG_027", "name": "寄存器分配", "course_id": "C11", "candidate_node_ids": ["C11:K:7004"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_TOP_015", "name": "主存储器", "course_id": "C08", "candidate_node_ids": ["C08:K:122", "C08:K:588"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_TOP_018", "name": "高速缓冲存储器", "course_id": "C08", "candidate_node_ids": ["C08:K:590", "C08:K:750"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_TOP_019", "name": "虚拟存储器", "course_id": "C08", "candidate_node_ids": ["C08:K:844"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_TOP_020", "name": "指令系统", "course_id": "C08", "candidate_node_ids": ["C08:K:1340"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_TOP_029", "name": "指令流水线", "course_id": "C08", "candidate_node_ids": ["C08:K:1800"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OBJ_002", "name": "运算器", "course_id": "C08", "candidate_node_ids": ["C08:K:118", "C08:K:234", "C08:K:1530"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OBJ_003", "name": "控制器", "course_id": "C08", "candidate_node_ids": ["C08:K:120", "C08:K:266", "C08:K:1552"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OBJ_004", "name": "存储器", "course_id": "C08", "candidate_node_ids": ["C08:K:248", "C08:K:414"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OBJ_005", "name": "输入设备", "course_id": "C08", "candidate_node_ids": ["C08:K:128", "C08:K:288", "C08:K:2250"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OBJ_006", "name": "输出设备", "course_id": "C08", "candidate_node_ids": ["C08:K:130", "C08:K:294", "C08:K:2256"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OBJ_007", "name": "总线", "course_id": "C08", "candidate_node_ids": ["C08:K:1874"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_CON_009", "name": "系统软件", "course_id": "C08", "candidate_node_ids": ["C08:K:138"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_CON_010", "name": "应用软件", "course_id": "C08", "candidate_node_ids": ["C08:K:154"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_CON_017", "name": "操作系统", "course_id": "C08", "candidate_node_ids": ["C08:K:144"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MET_001", "name": "吞吐量", "course_id": "C08", "candidate_node_ids": ["C08:K:392"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MET_002", "name": "响应时间", "course_id": "C08", "candidate_node_ids": ["C08:K:402"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MET_007", "name": "MIPS", "course_id": "C08", "candidate_node_ids": ["C08:K:380"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_CON_018", "name": "进位计数制", "course_id": "C08", "candidate_node_ids": ["C08:K:896"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_CON_019", "name": "二进制", "course_id": "C08", "candidate_node_ids": ["C08:K:900"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_CON_020", "name": "原码", "course_id": "C08", "candidate_node_ids": ["C08:K:1098"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_CON_021", "name": "反码", "course_id": "C08", "candidate_node_ids": ["C08:K:1108"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_CON_022", "name": "补码", "course_id": "C08", "candidate_node_ids": ["C08:K:1118", "C08:K:1154"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_CON_023", "name": "移码", "course_id": "C08", "candidate_node_ids": ["C08:K:1128"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_CON_024", "name": "定点整数", "course_id": "C08", "candidate_node_ids": ["C08:K:1082"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OBJ_008", "name": "算术逻辑单元", "course_id": "C08", "candidate_node_ids": ["C08:K:1538"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OBJ_009", "name": "加法器", "course_id": "C08", "candidate_node_ids": ["C08:K:1320"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OPE_002", "name": "移位运算", "course_id": "C08", "candidate_node_ids": ["C08:K:1138"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_PRB_001", "name": "溢出", "course_id": "C08", "candidate_node_ids": ["C08:K:1176"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OPE_008", "name": "对阶", "course_id": "C08", "candidate_node_ids": ["C08:K:1278"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OPE_009", "name": "舍入", "course_id": "C08", "candidate_node_ids": ["C08:K:1288"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MET_010", "name": "存储容量", "course_id": "C08", "candidate_node_ids": ["C08:K:656"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MET_011", "name": "存取时间", "course_id": "C08", "candidate_node_ids": ["C08:K:578"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OBJ_013", "name": "DRAM", "course_id": "C08", "candidate_node_ids": ["C08:K:494"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OBJ_014", "name": "ROM", "course_id": "C08", "candidate_node_ids": ["C08:K:636"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_002", "name": "多模块存储器", "course_id": "C08", "candidate_node_ids": ["C08:K:716"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_003", "name": "位扩展", "course_id": "C08", "candidate_node_ids": ["C08:K:684"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OBJ_016", "name": "磁盘存储器", "course_id": "C08", "candidate_node_ids": ["C08:K:2186"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OBJ_017", "name": "固态硬盘", "course_id": "C08", "candidate_node_ids": ["C08:K:562"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_PRP_001", "name": "局部性原理", "course_id": "C08", "candidate_node_ids": ["C08:K:754"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_006", "name": "直接映射", "course_id": "C08", "candidate_node_ids": ["C08:K:800"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_007", "name": "全相联映射", "course_id": "C08", "candidate_node_ids": ["C08:K:794"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MET_014", "name": "命中率", "course_id": "C08", "candidate_node_ids": ["C08:K:772"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_011", "name": "页式虚拟存储器", "course_id": "C08", "candidate_node_ids": ["C08:K:864"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_DST_001", "name": "页表", "course_id": "C08", "candidate_node_ids": ["C08:K:868"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_012", "name": "段式虚拟存储器", "course_id": "C08", "candidate_node_ids": ["C08:K:874"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_CON_035", "name": "指令格式", "course_id": "C08", "candidate_node_ids": ["C08:K:1344"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_CON_036", "name": "操作码", "course_id": "C08", "candidate_node_ids": ["C08:K:314", "C08:K:1506"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_CON_037", "name": "地址码", "course_id": "C08", "candidate_node_ids": ["C08:K:320", "C08:K:1512"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_015", "name": "指令寻址", "course_id": "C08", "candidate_node_ids": ["C08:K:1378"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_016", "name": "数据寻址", "course_id": "C08", "candidate_node_ids": ["C08:K:1414"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_017", "name": "立即寻址", "course_id": "C08", "candidate_node_ids": ["C08:K:1422"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_018", "name": "直接寻址", "course_id": "C08", "candidate_node_ids": ["C08:K:1428"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_019", "name": "间接寻址", "course_id": "C08", "candidate_node_ids": ["C08:K:1434"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_021", "name": "寄存器间接寻址", "course_id": "C08", "candidate_node_ids": ["C08:K:1446"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_022", "name": "基址寻址", "course_id": "C08", "candidate_node_ids": ["C08:K:1462"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_023", "name": "变址寻址", "course_id": "C08", "candidate_node_ids": ["C08:K:1468"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_024", "name": "相对寻址", "course_id": "C08", "candidate_node_ids": ["C08:K:1474"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OBJ_023", "name": "程序计数器", "course_id": "C08", "candidate_node_ids": ["C08:K:1570"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OBJ_024", "name": "指令寄存器", "course_id": "C08", "candidate_node_ids": ["C08:K:1572"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_CON_043", "name": "指令周期", "course_id": "C08", "candidate_node_ids": ["C08:K:1612"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OBJ_027", "name": "数据通路", "course_id": "C08", "candidate_node_ids": ["C08:K:1670"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_027", "name": "专用数据通路", "course_id": "C08", "candidate_node_ids": ["C08:K:1682"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OBJ_030", "name": "微程序控制器", "course_id": "C08", "candidate_node_ids": ["C08:K:1722"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_CON_044", "name": "微指令", "course_id": "C08", "candidate_node_ids": ["C08:K:1752"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OPE_016", "name": "微操作", "course_id": "C08", "candidate_node_ids": ["C08:K:1708"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_033", "name": "分支预测", "course_id": "C08", "candidate_node_ids": ["C08:K:1868"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OBJ_036", "name": "片内总线", "course_id": "C08", "candidate_node_ids": ["C08:K:1916"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OBJ_037", "name": "系统总线", "course_id": "C08", "candidate_node_ids": ["C08:K:1922"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_037", "name": "同步定时", "course_id": "C08", "candidate_node_ids": ["C08:K:2096"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_038", "name": "异步定时", "course_id": "C08", "candidate_node_ids": ["C08:K:2114"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_PRB_007", "name": "总线仲裁", "course_id": "C08", "candidate_node_ids": ["C08:K:2010"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_OBJ_039", "name": "外部设备", "course_id": "C08", "candidate_node_ids": ["C08:K:2246"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_040", "name": "统一编址", "course_id": "C08", "candidate_node_ids": ["C08:K:2296"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_041", "name": "独立编址", "course_id": "C08", "candidate_node_ids": ["C08:K:2302"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_042", "name": "程序查询方式", "course_id": "C08", "candidate_node_ids": ["C08:K:2164"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_043", "name": "程序中断方式", "course_id": "C08", "candidate_node_ids": ["C08:K:2170"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_MEC_044", "name": "DMA方式", "course_id": "C08", "candidate_node_ids": ["C08:K:2176"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CO_PRP_007", "name": "非易失性", "course_id": "C08", "candidate_node_ids": ["C08:K:534"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_012", "name": "电路交换", "course_id": "C10", "candidate_node_ids": ["C10:K:293"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_013", "name": "报文交换", "course_id": "C10", "candidate_node_ids": ["C10:K:295"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_014", "name": "分组交换", "course_id": "C10", "candidate_node_ids": ["C10:K:297", "C10:K:1857"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_026", "name": "接口", "course_id": "C10", "candidate_node_ids": ["C10:K:2473"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_027", "name": "服务", "course_id": "C10", "candidate_node_ids": ["C10:K:156"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_029", "name": "OSI参考模型", "course_id": "C10", "candidate_node_ids": ["C10:K:430"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_048", "name": "双绞线", "course_id": "C10", "candidate_node_ids": ["C10:K:4217"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_049", "name": "同轴电缆", "course_id": "C10", "candidate_node_ids": ["C10:K:4216"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_050", "name": "光纤", "course_id": "C10", "candidate_node_ids": ["C10:K:4215"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_061", "name": "流量控制", "course_id": "C10", "candidate_node_ids": ["C10:K:490", "C10:K:532"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_063", "name": "组帧", "course_id": "C10", "candidate_node_ids": ["C10:K:484", "C10:K:3731"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_068", "name": "差错控制", "course_id": "C10", "candidate_node_ids": ["C10:K:492", "C10:K:534"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_097", "name": "CSMA/CD协议", "course_id": "C10", "candidate_node_ids": ["C10:K:3183"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_102", "name": "CSMA/CA协议", "course_id": "C10", "candidate_node_ids": ["C10:K:3777"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_118", "name": "路由与转发", "course_id": "C10", "candidate_node_ids": ["C10:K:1925"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_133", "name": "路由聚合", "course_id": "C10", "candidate_node_ids": ["C10:K:2547", "C10:K:2548"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_137", "name": "地址解析协议（ARP）", "course_id": "C10", "candidate_node_ids": ["C10:K:3719"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_142", "name": "IPv6", "course_id": "C10", "candidate_node_ids": ["C10:K:1941"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_148", "name": "路由算法", "course_id": "C10", "candidate_node_ids": ["C10:K:1926", "C10:K:2643"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_167", "name": "BGP路由选择", "course_id": "C10", "candidate_node_ids": ["C10:K:2780"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_188", "name": "差错检测", "course_id": "C10", "candidate_node_ids": ["C10:K:3733"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_193", "name": "套接字", "course_id": "C10", "candidate_node_ids": ["C10:K:5654"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_195", "name": "UDP", "course_id": "C10", "candidate_node_ids": ["C10:K:1312"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_200", "name": "TCP", "course_id": "C10", "candidate_node_ids": ["C10:K:1316"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_204", "name": "TCP连接的建立", "course_id": "C10", "candidate_node_ids": ["C10:K:1676"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_205", "name": "TCP连接的释放", "course_id": "C10", "candidate_node_ids": ["C10:K:1686"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_212", "name": "慢开始和拥塞避免", "course_id": "C10", "candidate_node_ids": ["C10:K:1786"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_213", "name": "快重传和快恢复", "course_id": "C10", "candidate_node_ids": ["C10:K:1790"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_220", "name": "域名服务器", "course_id": "C10", "candidate_node_ids": ["C10:K:1147"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_221", "name": "根域名服务器", "course_id": "C10", "candidate_node_ids": ["C10:K:1142"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_222", "name": "顶级域名服务器", "course_id": "C10", "candidate_node_ids": ["C10:K:1141"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CN_TOP_224", "name": "本地域名服务器", "course_id": "C10", "candidate_node_ids": ["C10:K:1139"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CG_TOP_057", "name": "亮度", "course_id": "C26", "candidate_node_ids": ["C26:K:398"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CG_CON_001", "name": "计算机图形学", "course_id": "C26", "candidate_node_ids": ["C26:K:101"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CG_CON_006", "name": "光照模型", "course_id": "C26", "candidate_node_ids": ["C26:K:523"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CG_CON_019", "name": "纹理映射", "course_id": "C26", "candidate_node_ids": ["C26:K:2343"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CG_CON_038", "name": "设备坐标系", "course_id": "C26", "candidate_node_ids": ["C26:K:1053"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CG_CON_041", "name": "平移变换", "course_id": "C26", "candidate_node_ids": ["C26:K:1103"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:CG_CON_090", "name": "环境光", "course_id": "C26", "candidate_node_ids": ["C26:K:428"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_TOP_013", "name": "等值演算", "course_id": "C05", "candidate_node_ids": ["C05:K:143"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_TOP_014", "name": "范式", "course_id": "C05", "candidate_node_ids": ["C05:K:224"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_TOP_015", "name": "联结词全功能集", "course_id": "C05", "candidate_node_ids": ["C05:K:281"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_TOP_016", "name": "组合电路", "course_id": "C05", "candidate_node_ids": ["C05:K:1203"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_TOP_017", "name": "推理理论", "course_id": "C05", "candidate_node_ids": ["C05:K:360"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_TOP_029", "name": "关系的运算", "course_id": "C05", "candidate_node_ids": ["C05:K:632"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_TOP_030", "name": "关系的性质", "course_id": "C05", "candidate_node_ids": ["C05:K:660"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_TOP_031", "name": "关系的闭包", "course_id": "C05", "candidate_node_ids": ["C05:K:676"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_TOP_038", "name": "图的矩阵表示", "course_id": "C05", "candidate_node_ids": ["C05:K:1077"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_TOP_041", "name": "二部图", "course_id": "C05", "candidate_node_ids": ["C05:K:1147"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_TOP_042", "name": "欧拉图", "course_id": "C05", "candidate_node_ids": ["C05:K:1149"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_TOP_043", "name": "哈密顿图", "course_id": "C05", "candidate_node_ids": ["C05:K:1151"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_TOP_044", "name": "平面图", "course_id": "C05", "candidate_node_ids": ["C05:K:1153"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0001", "name": "命题", "course_id": "C05", "candidate_node_ids": ["C05:K:104"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0004", "name": "复合命题", "course_id": "C05", "candidate_node_ids": ["C05:K:110"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0005", "name": "命题变项", "course_id": "C05", "candidate_node_ids": ["C05:K:293"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0012", "name": "赋值", "course_id": "C05", "candidate_node_ids": ["C05:K:472"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0013", "name": "真值表", "course_id": "C05", "candidate_node_ids": ["C05:K:299", "C05:K:303"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0016", "name": "可满足式", "course_id": "C05", "candidate_node_ids": ["C05:K:138", "C05:K:484"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0018", "name": "等值演算", "course_id": "C05", "candidate_node_ids": ["C05:K:143"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0028", "name": "简单析取式", "course_id": "C05", "candidate_node_ids": ["C05:K:309"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0029", "name": "简单合取式", "course_id": "C05", "candidate_node_ids": ["C05:K:311"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0030", "name": "析取范式", "course_id": "C05", "candidate_node_ids": ["C05:K:228"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0031", "name": "合取范式", "course_id": "C05", "candidate_node_ids": ["C05:K:230"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0034", "name": "主析取范式", "course_id": "C05", "candidate_node_ids": ["C05:K:250"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0035", "name": "主合取范式", "course_id": "C05", "candidate_node_ids": ["C05:K:274"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0037", "name": "与非联结词", "course_id": "C05", "candidate_node_ids": ["C05:K:356"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0038", "name": "或非联结词", "course_id": "C05", "candidate_node_ids": ["C05:K:358"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0039", "name": "组合电路", "course_id": "C05", "candidate_node_ids": ["C05:K:1203"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0047", "name": "推理定律", "course_id": "C05", "candidate_node_ids": ["C05:K:374"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0049", "name": "附加前提证明法", "course_id": "C05", "candidate_node_ids": ["C05:K:387"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0051", "name": "个体域", "course_id": "C05", "candidate_node_ids": ["C05:K:401"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0056", "name": "n元谓词", "course_id": "C05", "candidate_node_ids": ["C05:K:417"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0057", "name": "全称量词", "course_id": "C05", "candidate_node_ids": ["C05:K:435"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0058", "name": "存在量词", "course_id": "C05", "candidate_node_ids": ["C05:K:436"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0059", "name": "原子公式", "course_id": "C05", "candidate_node_ids": ["C05:K:447"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0063", "name": "闭式", "course_id": "C05", "candidate_node_ids": ["C05:K:459"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0064", "name": "解释", "course_id": "C05", "candidate_node_ids": ["C05:K:462"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0067", "name": "一阶逻辑等值式", "course_id": "C05", "candidate_node_ids": ["C05:K:471"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0070", "name": "前束范式", "course_id": "C05", "candidate_node_ids": ["C05:K:510"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0071", "name": "换名规则", "course_id": "C05", "candidate_node_ids": ["C05:K:516"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0078", "name": "集合", "course_id": "C05", "candidate_node_ids": ["C05:K:522"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0082", "name": "真子集", "course_id": "C05", "candidate_node_ids": ["C05:K:1243"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0083", "name": "空集", "course_id": "C05", "candidate_node_ids": ["C05:K:1238"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0084", "name": "全集", "course_id": "C05", "candidate_node_ids": ["C05:K:536"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0085", "name": "集合相等", "course_id": "C05", "candidate_node_ids": ["C05:K:1240"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0086", "name": "幂集", "course_id": "C05", "candidate_node_ids": ["C05:K:532"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0092", "name": "对称差", "course_id": "C05", "candidate_node_ids": ["C05:K:552"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0093", "name": "文氏图", "course_id": "C05", "candidate_node_ids": ["C05:K:1258"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0101", "name": "有序对", "course_id": "C05", "candidate_node_ids": ["C05:K:585"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0102", "name": "笛卡尔积", "course_id": "C05", "candidate_node_ids": ["C05:K:591"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0103", "name": "二元关系", "course_id": "C05", "candidate_node_ids": ["C05:K:607"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0104", "name": "空关系", "course_id": "C05", "candidate_node_ids": ["C05:K:616"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0118", "name": "传递性", "course_id": "C05", "candidate_node_ids": ["C05:K:668"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0123", "name": "等价关系", "course_id": "C05", "candidate_node_ids": ["C05:K:690"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0127", "name": "偏序关系", "course_id": "C05", "candidate_node_ids": ["C05:K:700"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0147", "name": "无向图", "course_id": "C05", "candidate_node_ids": ["C05:K:1079"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0148", "name": "有向图", "course_id": "C05", "candidate_node_ids": ["C05:K:1081"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0149", "name": "顶点", "course_id": "C05", "candidate_node_ids": ["C05:K:770"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0151", "name": "环", "course_id": "C05", "candidate_node_ids": ["C05:K:963"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0153", "name": "简单图", "course_id": "C05", "candidate_node_ids": ["C05:K:989"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0154", "name": "多重图", "course_id": "C05", "candidate_node_ids": ["C05:K:987"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0157", "name": "入度", "course_id": "C05", "candidate_node_ids": ["C05:K:1002"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0158", "name": "出度", "course_id": "C05", "candidate_node_ids": ["C05:K:1000"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0159", "name": "握手定理", "course_id": "C05", "candidate_node_ids": ["C05:K:1006"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0160", "name": "子图", "course_id": "C05", "candidate_node_ids": ["C05:K:1016"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0161", "name": "生成子图", "course_id": "C05", "candidate_node_ids": ["C05:K:1022"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0166", "name": "简单通路", "course_id": "C05", "candidate_node_ids": ["C05:K:1040"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0168", "name": "初级通路", "course_id": "C05", "candidate_node_ids": ["C05:K:1042"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0175", "name": "关联矩阵", "course_id": "C05", "candidate_node_ids": ["C05:K:1085", "C05:K:1089"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0176", "name": "邻接矩阵", "course_id": "C05", "candidate_node_ids": ["C05:K:1091"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0177", "name": "可达矩阵", "course_id": "C05", "candidate_node_ids": ["C05:K:1093"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0189", "name": "二部图", "course_id": "C05", "candidate_node_ids": ["C05:K:1147"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0190", "name": "欧拉图", "course_id": "C05", "candidate_node_ids": ["C05:K:1149"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0191", "name": "哈密顿图", "course_id": "C05", "candidate_node_ids": ["C05:K:1151"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0192", "name": "平面图", "course_id": "C05", "candidate_node_ids": ["C05:K:1153"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0194", "name": "无向树", "course_id": "C05", "candidate_node_ids": ["C05:K:797"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0195", "name": "生成树", "course_id": "C05", "candidate_node_ids": ["C05:K:813"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0196", "name": "根树", "course_id": "C05", "candidate_node_ids": ["C05:K:855"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DM_KN_0209", "name": "字母表", "course_id": "C05", "candidate_node_ids": ["C05:K:1223"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_003", "name": "数据模型", "course_id": "C12", "candidate_node_ids": ["C12:K:176", "C12:K:184"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_009", "name": "关系操作", "course_id": "C12", "candidate_node_ids": ["C12:K:447"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_011", "name": "关系代数", "course_id": "C12", "candidate_node_ids": ["C12:K:268"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_012", "name": "关系演算", "course_id": "C12", "candidate_node_ids": ["C12:K:270"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_015", "name": "数据定义", "course_id": "C12", "candidate_node_ids": ["C12:K:156"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_016", "name": "数据查询", "course_id": "C12", "candidate_node_ids": ["C12:K:134"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_023", "name": "视图机制", "course_id": "C12", "candidate_node_ids": ["C12:K:1271"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_025", "name": "数据加密", "course_id": "C12", "candidate_node_ids": ["C12:K:1291"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_029", "name": "实体完整性", "course_id": "C12", "candidate_node_ids": ["C12:K:276", "C12:K:435", "C12:K:956"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_030", "name": "参照完整性", "course_id": "C12", "candidate_node_ids": ["C12:K:278", "C12:K:439", "C12:K:974"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_031", "name": "用户定义的完整性", "course_id": "C12", "candidate_node_ids": ["C12:K:1010"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_032", "name": "完整性约束命名子句", "course_id": "C12", "candidate_node_ids": ["C12:K:1026"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_034", "name": "触发器", "course_id": "C12", "candidate_node_ids": ["C12:K:1056"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_050", "name": "过程化SQL", "course_id": "C12", "candidate_node_ids": ["C12:K:2344"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_059", "name": "代数优化", "course_id": "C12", "candidate_node_ids": ["C12:K:1471", "C12:K:3872", "C12:K:3873"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_060", "name": "物理优化", "course_id": "C12", "candidate_node_ids": ["C12:K:1481", "C12:K:3874", "C12:K:3877"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_064", "name": "数据库恢复概述", "course_id": "C12", "candidate_node_ids": ["C12:K:1539"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_065", "name": "故障的种类", "course_id": "C12", "candidate_node_ids": ["C12:K:1541"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_066", "name": "恢复的实现技术", "course_id": "C12", "candidate_node_ids": ["C12:K:1551"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_067", "name": "恢复策略", "course_id": "C12", "candidate_node_ids": ["C12:K:1615"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_068", "name": "具有检查点的恢复技术", "course_id": "C12", "candidate_node_ids": ["C12:K:1623"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_069", "name": "数据库镜像", "course_id": "C12", "candidate_node_ids": ["C12:K:1625"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_071", "name": "并发控制概述", "course_id": "C12", "candidate_node_ids": ["C12:K:3882"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_073", "name": "封锁", "course_id": "C12", "candidate_node_ids": ["C12:K:1631"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_074", "name": "封锁协议", "course_id": "C12", "candidate_node_ids": ["C12:K:1639"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_077", "name": "两段锁协议", "course_id": "C12", "candidate_node_ids": ["C12:K:1723"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_TOP_078", "name": "封锁的粒度", "course_id": "C12", "candidate_node_ids": ["C12:K:3884"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_001", "name": "数据", "course_id": "C12", "candidate_node_ids": ["C12:K:106"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_OBJ_001", "name": "数据库", "course_id": "C12", "candidate_node_ids": ["C12:K:101", "C12:K:126", "C12:K:168"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_OBJ_002", "name": "数据库管理系统", "course_id": "C12", "candidate_node_ids": ["C12:K:1443"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_MOD_001", "name": "数据模型", "course_id": "C12", "candidate_node_ids": ["C12:K:176", "C12:K:184"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_MOD_002", "name": "概念模型", "course_id": "C12", "candidate_node_ids": ["C12:K:180"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_003", "name": "数据模型三要素", "course_id": "C12", "candidate_node_ids": ["C12:K:198"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_MOD_004", "name": "关系模型", "course_id": "C12", "candidate_node_ids": ["C12:K:242", "C12:K:4172"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_004", "name": "外模式", "course_id": "C12", "candidate_node_ids": ["C12:K:290"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_005", "name": "模式", "course_id": "C12", "candidate_node_ids": ["C12:K:298", "C12:K:563", "C12:K:571"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_006", "name": "内模式", "course_id": "C12", "candidate_node_ids": ["C12:K:306", "C12:K:3654"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_007", "name": "关系", "course_id": "C12", "candidate_node_ids": ["C12:K:3628", "C12:K:3634"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_008", "name": "属性", "course_id": "C12", "candidate_node_ids": ["C12:K:369", "C12:K:4078", "C12:K:4099", "C12:K:4125", "C12:K:4151"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_010", "name": "候选码", "course_id": "C12", "candidate_node_ids": ["C12:K:393", "C12:K:2051", "C12:K:4091"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_011", "name": "主码", "course_id": "C12", "candidate_node_ids": ["C12:K:387", "C12:K:2067", "C12:K:4093"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_012", "name": "外码", "course_id": "C12", "candidate_node_ids": ["C12:K:3747"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_MOD_006", "name": "关系模式", "course_id": "C12", "candidate_node_ids": ["C12:K:3717"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_PRP_002", "name": "实体完整性", "course_id": "C12", "candidate_node_ids": ["C12:K:276", "C12:K:435", "C12:K:956"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_PRP_003", "name": "参照完整性", "course_id": "C12", "candidate_node_ids": ["C12:K:278", "C12:K:439", "C12:K:974"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_MOD_007", "name": "关系代数", "course_id": "C12", "candidate_node_ids": ["C12:K:268"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_DST_002", "name": "索引", "course_id": "C12", "candidate_node_ids": ["C12:K:671"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_DST_003", "name": "数据字典", "course_id": "C12", "candidate_node_ids": ["C12:K:701", "C12:K:1819"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_MEC_002", "name": "连接查询", "course_id": "C12", "candidate_node_ids": ["C12:K:764"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_MEC_003", "name": "嵌套查询", "course_id": "C12", "candidate_node_ids": ["C12:K:786", "C12:K:3693"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_OPE_006", "name": "集合查询", "course_id": "C12", "candidate_node_ids": ["C12:K:812"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_SYN_011", "name": "INSERT", "course_id": "C12", "candidate_node_ids": ["C12:K:882"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_SYN_013", "name": "DELETE", "course_id": "C12", "candidate_node_ids": ["C12:K:884"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_MEC_007", "name": "强制存取控制", "course_id": "C12", "candidate_node_ids": ["C12:K:1219"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_OPE_007", "name": "授权", "course_id": "C12", "candidate_node_ids": ["C12:K:1191"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_014", "name": "数据库角色", "course_id": "C12", "candidate_node_ids": ["C12:K:1163"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_015", "name": "主体", "course_id": "C12", "candidate_node_ids": ["C12:K:1231"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_016", "name": "客体", "course_id": "C12", "candidate_node_ids": ["C12:K:1237"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_MEC_010", "name": "数据加密", "course_id": "C12", "candidate_node_ids": ["C12:K:1291"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_PRP_007", "name": "完整性约束", "course_id": "C12", "candidate_node_ids": ["C12:K:204", "C12:K:272", "C12:K:952"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_MEC_012", "name": "触发器", "course_id": "C12", "candidate_node_ids": ["C12:K:1056"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_017", "name": "触发事件", "course_id": "C12", "candidate_node_ids": ["C12:K:1075"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_019", "name": "函数依赖", "course_id": "C12", "candidate_node_ids": ["C12:K:2023"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_021", "name": "完全函数依赖", "course_id": "C12", "candidate_node_ids": ["C12:K:2033"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_022", "name": "部分函数依赖", "course_id": "C12", "candidate_node_ids": ["C12:K:2035"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_024", "name": "超码", "course_id": "C12", "candidate_node_ids": ["C12:K:383", "C12:K:2061", "C12:K:4097"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_026", "name": "主属性", "course_id": "C12", "candidate_node_ids": ["C12:K:2057"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_PRP_015", "name": "BCNF", "course_id": "C12", "candidate_node_ids": ["C12:K:2095"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_ALG_004", "name": "数据库设计", "course_id": "C12", "candidate_node_ids": ["C12:K:1773", "C12:K:1775"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_030", "name": "联系", "course_id": "C12", "candidate_node_ids": ["C12:K:4123", "C12:K:4150"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_031", "name": "一对一联系", "course_id": "C12", "candidate_node_ids": ["C12:K:980"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_032", "name": "一对多联系", "course_id": "C12", "candidate_node_ids": ["C12:K:982"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_CON_033", "name": "多对多联系", "course_id": "C12", "candidate_node_ids": ["C12:K:984"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_OPE_010", "name": "数据库试运行", "course_id": "C12", "candidate_node_ids": ["C12:K:2003"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_SYN_022", "name": "过程化SQL", "course_id": "C12", "candidate_node_ids": ["C12:K:2344"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DB_MEC_016", "name": "游标", "course_id": "C12", "candidate_node_ids": ["C12:K:2312"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_TOP_019", "name": "半导体二极管门电路", "course_id": "C23", "candidate_node_ids": ["C23:K:284"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_TOP_020", "name": "CMOS门电路", "course_id": "C23", "candidate_node_ids": ["C23:K:286"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_TOP_021", "name": "TTL门电路", "course_id": "C23", "candidate_node_ids": ["C23:K:418"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_TOP_024", "name": "不同类型数字集成电路间的接口", "course_id": "C23", "candidate_node_ids": ["C23:K:514"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_TOP_030", "name": "层次化和模块化的设计方法", "course_id": "C23", "candidate_node_ids": ["C23:K:630"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_TOP_032", "name": "硬件描述语言", "course_id": "C23", "candidate_node_ids": ["C23:K:234"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_TOP_037", "name": "SR锁存器", "course_id": "C23", "candidate_node_ids": ["C23:K:668"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_TOP_038", "name": "触发器", "course_id": "C23", "candidate_node_ids": ["C23:K:670"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_TOP_039", "name": "寄存器", "course_id": "C23", "candidate_node_ids": ["C23:K:676", "C23:K:680", "C23:K:1344"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_TOP_040", "name": "存储器", "course_id": "C23", "candidate_node_ids": ["C23:K:682", "C23:K:700", "C23:K:790"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_TOP_050", "name": "施密特触发电路", "course_id": "C23", "candidate_node_ids": ["C23:K:1003"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_TOP_051", "name": "单稳态电路", "course_id": "C23", "candidate_node_ids": ["C23:K:1005"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_TOP_052", "name": "多谐振荡电路", "course_id": "C23", "candidate_node_ids": ["C23:K:1007"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_CON_004", "name": "十进制", "course_id": "C23", "candidate_node_ids": ["C23:K:130"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_CON_005", "name": "二进制", "course_id": "C23", "candidate_node_ids": ["C23:K:132"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_CON_006", "name": "八进制", "course_id": "C23", "candidate_node_ids": ["C23:K:134"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_CON_007", "name": "十六进制", "course_id": "C23", "candidate_node_ids": ["C23:K:136"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_CON_011", "name": "格雷码", "course_id": "C23", "candidate_node_ids": ["C23:K:180"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_MEC_001", "name": "代入定理", "course_id": "C23", "candidate_node_ids": ["C23:K:200"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_MEC_002", "name": "反演定理", "course_id": "C23", "candidate_node_ids": ["C23:K:202"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_MEC_003", "name": "对偶定理", "course_id": "C23", "candidate_node_ids": ["C23:K:204"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_CON_014", "name": "逻辑函数", "course_id": "C23", "candidate_node_ids": ["C23:K:208"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_MOD_002", "name": "逻辑函数式", "course_id": "C23", "candidate_node_ids": ["C23:K:226"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_MOD_003", "name": "逻辑图", "course_id": "C23", "candidate_node_ids": ["C23:K:228"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_MOD_004", "name": "波形图", "course_id": "C23", "candidate_node_ids": ["C23:K:230"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_ALG_004", "name": "公式化简法", "course_id": "C23", "candidate_node_ids": ["C23:K:236"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_ALG_005", "name": "卡诺图化简法", "course_id": "C23", "candidate_node_ids": ["C23:K:238"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_001", "name": "二极管与门", "course_id": "C23", "candidate_node_ids": ["C23:K:294"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_002", "name": "二极管或门", "course_id": "C23", "candidate_node_ids": ["C23:K:300"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_PRP_008", "name": "电压传输特性", "course_id": "C23", "candidate_node_ids": ["C23:K:494"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_MET_006", "name": "传输延迟时间", "course_id": "C23", "candidate_node_ids": ["C23:K:408", "C23:K:470", "C23:K:784"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_008", "name": "TTL反相器", "course_id": "C23", "candidate_node_ids": ["C23:K:432"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_CON_017", "name": "组合逻辑电路", "course_id": "C23", "candidate_node_ids": ["C23:K:108", "C23:K:540"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_013", "name": "编码器", "course_id": "C23", "candidate_node_ids": ["C23:K:588"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_014", "name": "优先编码器", "course_id": "C23", "candidate_node_ids": ["C23:K:596"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_015", "name": "译码器", "course_id": "C23", "candidate_node_ids": ["C23:K:590"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_016", "name": "二进制译码器", "course_id": "C23", "candidate_node_ids": ["C23:K:598"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_017", "name": "显示译码器", "course_id": "C23", "candidate_node_ids": ["C23:K:602"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_018", "name": "数据选择器", "course_id": "C23", "candidate_node_ids": ["C23:K:592"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_020", "name": "半加器", "course_id": "C23", "candidate_node_ids": ["C23:K:1317"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_021", "name": "全加器", "course_id": "C23", "candidate_node_ids": ["C23:K:1319"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_022", "name": "多位加法器", "course_id": "C23", "candidate_node_ids": ["C23:K:612"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_023", "name": "数值比较器", "course_id": "C23", "candidate_node_ids": ["C23:K:620"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_030", "name": "D触发器", "course_id": "C23", "candidate_node_ids": ["C23:K:776"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_031", "name": "JK触发器", "course_id": "C23", "candidate_node_ids": ["C23:K:772"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_032", "name": "T触发器", "course_id": "C23", "candidate_node_ids": ["C23:K:774"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_MET_009", "name": "建立时间", "course_id": "C23", "candidate_node_ids": ["C23:K:780"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_MET_010", "name": "保持时间", "course_id": "C23", "candidate_node_ids": ["C23:K:782"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_034", "name": "静态随机存储器", "course_id": "C23", "candidate_node_ids": ["C23:K:706", "C23:K:792"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_035", "name": "动态随机存储器", "course_id": "C23", "candidate_node_ids": ["C23:K:708", "C23:K:794"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_036", "name": "只读存储器", "course_id": "C23", "candidate_node_ids": ["C23:K:704", "C23:K:796"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_CON_020", "name": "时序逻辑电路", "course_id": "C23", "candidate_node_ids": ["C23:K:542", "C23:K:664"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_CON_022", "name": "同步时序逻辑电路", "course_id": "C23", "candidate_node_ids": ["C23:K:1369"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_CON_023", "name": "异步时序逻辑电路", "course_id": "C23", "candidate_node_ids": ["C23:K:1371"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_MOD_012", "name": "状态转换表", "course_id": "C23", "candidate_node_ids": ["C23:K:925"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_MOD_013", "name": "状态转换图", "course_id": "C23", "candidate_node_ids": ["C23:K:923"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_MOD_014", "name": "状态机流程图", "course_id": "C23", "candidate_node_ids": ["C23:K:927"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_MOD_015", "name": "时序图", "course_id": "C23", "candidate_node_ids": ["C23:K:929"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_037", "name": "移位寄存器", "course_id": "C23", "candidate_node_ids": ["C23:K:931"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_038", "name": "计数器", "course_id": "C23", "candidate_node_ids": ["C23:K:933"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_039", "name": "同步计数器", "course_id": "C23", "candidate_node_ids": ["C23:K:943"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_040", "name": "异步计数器", "course_id": "C23", "candidate_node_ids": ["C23:K:945"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_ALG_011", "name": "状态化简", "course_id": "C23", "candidate_node_ids": ["C23:K:991"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_053", "name": "555定时器", "course_id": "C23", "candidate_node_ids": ["C23:K:1106"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_057", "name": "D/A转换器", "course_id": "C23", "candidate_node_ids": ["C23:K:1062"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_058", "name": "权电阻网络D/A转换器", "course_id": "C23", "candidate_node_ids": ["C23:K:1123"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_059", "name": "倒T形电阻网络D/A转换器", "course_id": "C23", "candidate_node_ids": ["C23:K:1125"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_060", "name": "权电流型D/A转换器", "course_id": "C23", "candidate_node_ids": ["C23:K:1127"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_062", "name": "A/D转换器", "course_id": "C23", "candidate_node_ids": ["C23:K:1064"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_064", "name": "并联比较型A/D转换器", "course_id": "C23", "candidate_node_ids": ["C23:K:1233"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_066", "name": "逐次逼近型A/D转换器", "course_id": "C23", "candidate_node_ids": ["C23:K:1235"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_067", "name": "双积分型A/D转换器", "course_id": "C23", "candidate_node_ids": ["C23:K:1237"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}
+{"legacy_node_id": "LEGACY:DE_OBJ_069", "name": "V-F变换型A/D转换器", "course_id": "C23", "candidate_node_ids": ["C23:K:1239"], "status": "pending_review", "basis": "同课程名称完全匹配；尚未验证语义与层级，不作为图谱等价关系"}

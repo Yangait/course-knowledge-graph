@@ -1,0 +1,93 @@
+{
+  "status": "passed",
+  "route": "POST /api/ask",
+  "question": "栈有什么特点？结合导图举一个应用例子。",
+  "result": {
+    "answer": "根据提供的知识图谱证据，栈的特点及应用如下：\n\n### 1. 栈的核心特点\n根据图谱中“特点：后进先出”以及“只允许一端插入数据和删除数据的特殊线性表”的描述，栈具有以下显著特点：\n\n*   **后进先出（LIFO）**：这是栈最本质的特征。最后进入栈的数据元素，必须最先被取出。\n*   **操作受限**：栈是一种特殊的线性表，它**只允许在表的一端**（即栈顶）进行插入（入栈/PUSH）和删除（出栈/POP）操作。另一端（栈底）是固定的，不能进行操作。\n    *   *对比说明*：虽然顺序栈和顺序表在数据成员上可能相同（如都使用数组），但顺序表可以在任意位置插入删除，而顺序栈的操作严格限制在栈顶。\n\n### 2. 结合导图的应用例子\n图谱中明确提到了两个具体的应用场景，您可以任选其一理解：\n\n#### 例子一：二叉树的遍历\n*   **依据**：图谱指出“二叉树的多种操作中要依靠栈来实现”。\n*   **解释**：在计算机处理二叉树时，无论是前序、中序还是后序遍历，递归算法的本质就是利用系统栈来保存当前节点的状态和待访问的子节点信息。当需要回溯到父节点继续处理其他分支时，正是利用了栈“后进先出”的特性，将最近访问的节点状态弹出并恢复。\n\n#### 例子二：操作系统中的内存管理（线程堆栈）\n*   **依据**：图谱描述“在操作系统中栈非常重要……每一个线程有自己的堆栈……主要用来给线程提供一个暂时存放数据的区域”。\n*   **解释**：\n    *   在操作系统层面，每个线程都拥有一块独立的连续内存空间作为其“堆栈”。\n    *   程序执行函数调用时，会将局部变量、返回地址等信息压入（PUSH）该线程的栈中；函数执行完毕后，这些信息按相反顺序弹出（POP）。\n    *   这种机制确保了不同线程之间的数据互不干扰，且能精确地管理函数调用的层级关系。\n\n**总结**：栈通过“后进先出”和“单端操作”的规则，完美解决了需要“回溯”或“临时存储上下文”的问题，如代码执行流程管理和复杂数据结构（如树）的遍历。",
+    "answer_mode": "hybrid",
+    "model": "qwen3.5-flash",
+    "total_tokens": 3097,
+    "evidence": [
+      {
+        "node_id": "C07:K:716",
+        "course_id": "C07",
+        "direction": "outgoing",
+        "core_concept": "栈",
+        "related_concept": "线性表（C语言中学习了结构体变量，结点需要用结构体变量来表示其不同的数据，它们有内在联系并且成组出现）",
+        "relation": "只允许一端插入数据和删除数据的特殊线性表",
+        "course": "数据结构",
+        "source": "！！！最终emmx版本/刘世杰/数据结构/数据结构.emmx"
+      },
+      {
+        "node_id": "C07:K:716",
+        "course_id": "C07",
+        "direction": "outgoing",
+        "core_concept": "栈",
+        "related_concept": "二叉树的遍历",
+        "relation": "二叉树的多种操作中要依靠栈来实现",
+        "course": "数据结构",
+        "source": "！！！最终emmx版本/刘世杰/数据结构/数据结构.emmx"
+      },
+      {
+        "node_id": "C07:K:716",
+        "course_id": "C07",
+        "direction": "outgoing",
+        "core_concept": "栈",
+        "related_concept": "特点：后进先出",
+        "relation": "包含",
+        "course": "数据结构",
+        "source": "！！！最终emmx版本/刘世杰/数据结构/数据结构.emmx"
+      },
+      {
+        "node_id": "C07:K:716",
+        "course_id": "C07",
+        "direction": "outgoing",
+        "core_concept": "栈",
+        "related_concept": "顺序栈",
+        "relation": "包含",
+        "course": "数据结构",
+        "source": "！！！最终emmx版本/刘世杰/数据结构/数据结构.emmx"
+      },
+      {
+        "node_id": "C07:K:716",
+        "course_id": "C07",
+        "direction": "outgoing",
+        "core_concept": "栈",
+        "related_concept": "共享栈",
+        "relation": "包含",
+        "course": "数据结构",
+        "source": "！！！最终emmx版本/刘世杰/数据结构/数据结构.emmx"
+      },
+      {
+        "node_id": "C07:K:716",
+        "course_id": "C07",
+        "direction": "outgoing",
+        "core_concept": "栈",
+        "related_concept": "链式栈",
+        "relation": "包含",
+        "course": "数据结构",
+        "source": "！！！最终emmx版本/刘世杰/数据结构/数据结构.emmx"
+      },
+      {
+        "node_id": "C07:K:716",
+        "course_id": "C07",
+        "direction": "outgoing",
+        "core_concept": "栈",
+        "related_concept": "栈的应用（在操作系统中栈非常重要，从内存管理角度看,堆栈是一块连续的内存空间,对它的操作采用先入后出的规则，每一个线程有自己的堆栈,它主要用来给线程提供一个暂时存放数据的区域,程序使用POP/PUSH指令来对堆栈进行操作. ）",
+        "relation": "包含",
+        "course": "数据结构",
+        "source": "！！！最终emmx版本/刘世杰/数据结构/数据结构.emmx"
+      },
+      {
+        "node_id": "C07:K:716",
+        "course_id": "C07",
+        "direction": "incoming",
+        "core_concept": "栈",
+        "related_concept": "数据结构",
+        "relation": "包含",
+        "course": "数据结构",
+        "source": "！！！最终emmx版本/刘世杰/数据结构/数据结构.emmx"
+      }
+    ]
+  }
+}

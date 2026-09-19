@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self'; style-src-attr 'unsafe-inline'; script-src 'self'; connect-src 'self'; img-src 'self' data:; object-src 'none'; base-uri 'none'; form-action 'self'">
+    <title>回答排版回归检查</title>
+    <link rel="stylesheet" href="/static/vendor/katex/dist/katex.min.css">
+    <link rel="stylesheet" href="/static/vendor/highlightjs/styles/github.min.css">
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="/tests/rendering.css">
+    <script src="/static/vendor/markdown-it/dist/browser/markdown-it.umd.min.js" defer></script>
+    <script src="/static/vendor/dompurify/dist/purify.min.js" defer></script>
+    <script src="/static/vendor/katex/dist/katex.min.js" defer></script>
+    <script src="/static/vendor/markdown-it-texmath/texmath.js" defer></script>
+    <script src="/static/vendor/highlightjs/highlight.min.js" defer></script>
+    <script src="/static/answer-renderer.js" defer></script>
+    <script src="/tests/rendering.js" defer></script>
+</head>
+<body>
+    <main class="rendering-preview">
+        <p id="test-status" role="status">正在检查…</p>
+        <div id="preview" class="message-bubble markdown-content"></div>
+        <details><summary>回归检查结果</summary><ol id="test-results"></ol></details>
+    </main>
+</body>
+</html>

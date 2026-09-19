@@ -1,0 +1,4 @@
+body { overflow: auto; }
+.rendering-preview { width: min(768px,100%); margin: 0 auto; padding: 28px 24px; }
+#test-status { padding: 12px 16px; border-radius: 10px; background: #f4f4f4; font-size: 14px; }
+#test-results { font-size: 13px; }

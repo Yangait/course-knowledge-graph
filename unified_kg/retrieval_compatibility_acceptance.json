@@ -1,0 +1,108 @@
+{
+  "question": "虚拟内存需要先学什么？",
+  "status_code": 200,
+  "result": {
+    "answer": "根据现有知识图谱证据，本次检索未找到指向“虚拟内存”的明确先修关系节点。图谱中仅显示虚拟内存“使用或依赖”局部性原理，这属于概念支撑而非严格的学习先后顺序，因此无法直接列出强制先修课程。\n\n基于此限制及知识逻辑，建议如下：\n1. **理解局部性原理**：这是虚拟内存设计的核心基础，需结合进程与内存管理概念进行理解（依据：图谱显示虚拟内存基于程序访问的局部性）。\n2. **掌握内存管理基本概念**：包括页表结构、地址翻译机制等，这些是理解请求分页和页面置换的前提（依据：图谱中虚拟内存包含对页表和缺页中断机构的详细讲解）。\n3. **熟悉操作系统整体资源管理框架**：了解操作系统如何调度处理机、内存及I/O设备，有助于建立宏观认知（依据：虚拟内存属于操作系统课程的核心内容）。\n\n补充说明：虽然计算机组成原理中的“虚拟存储器”涉及硬件层面的地址转换，可作为跨课程对比参考，但操作系统中的虚拟内存更侧重软件策略（如按需调页），两者侧重点不同，建议以操作系统课程为主线学习。",
+    "answer_mode": "hybrid",
+    "model": "qwen3.5-flash",
+    "total_tokens": 4209,
+    "evidence": [
+      {
+        "node_id": "LEGACY:OS_CON_065",
+        "course_id": "C09",
+        "direction": "outgoing",
+        "core_concept": "虚拟内存",
+        "related_concept": "局部性原理",
+        "relation": "使用或依赖",
+        "reason": "虚拟内存基于程序访问的局部性。",
+        "course": "操作系统",
+        "source": "王道2027操作系统，3.2 虚拟内存管理，教材p212",
+        "confidence": 0.95
+      },
+      {
+        "node_id": "LEGACY:OS_CON_065",
+        "course_id": "C09",
+        "direction": "incoming",
+        "core_concept": "虚拟内存",
+        "related_concept": "3.2 虚拟内存管理",
+        "relation": "包含",
+        "reason": "小节展开讲解该知识点。",
+        "course": "操作系统",
+        "source": "王道2027操作系统，3.2 虚拟内存管理，教材p212（页码：212）",
+        "confidence": 0.98
+      },
+      {
+        "node_id": "LEGACY:OS_CON_065",
+        "course_id": "C09",
+        "direction": "outgoing",
+        "core_concept": "虚拟内存",
+        "related_concept": "3.2 虚拟内存管理",
+        "relation": "属于主题",
+        "reason": "知识点归属到该小节。",
+        "course": "操作系统",
+        "source": "王道2027操作系统，3.2 虚拟内存管理，教材p212（页码：212）",
+        "confidence": 0.98
+      },
+      {
+        "node_id": "LEGACY:OS_CON_065",
+        "course_id": "C09",
+        "direction": "outgoing",
+        "core_concept": "虚拟内存",
+        "related_concept": "操作系统",
+        "relation": "属于课程",
+        "reason": "知识点属于操作系统课程。",
+        "course": "操作系统",
+        "source": "王道2027操作系统，内容简介，教材p2（页码：212）",
+        "confidence": 0.98
+      },
+      {
+        "node_id": "LEGACY:OS_CON_065",
+        "course_id": "C09",
+        "direction": "outgoing",
+        "core_concept": "虚拟内存",
+        "related_concept": "局部性原理",
+        "relation": "使用或依赖",
+        "reason": "虚拟内存基于程序访问的局部性。",
+        "course": "操作系统",
+        "source": "王道2027操作系统，3.2 虚拟内存管理，教材p212（页码：212）",
+        "confidence": 0.95
+      },
+      {
+        "node_id": "LEGACY:OS_CON_065",
+        "course_id": "C09",
+        "direction": "outgoing",
+        "core_concept": "虚拟内存",
+        "related_concept": "有效访问时间",
+        "relation": "评价指标",
+        "reason": "虚拟内存性能与该指标密切相关。",
+        "course": "操作系统",
+        "source": "王道2027操作系统，3.2 虚拟内存管理，教材p212（页码：212）",
+        "confidence": 0.95
+      },
+      {
+        "node_id": "LEGACY:OS_CON_065",
+        "course_id": "C09",
+        "direction": "outgoing",
+        "core_concept": "虚拟内存",
+        "related_concept": "缺页率",
+        "relation": "评价指标",
+        "reason": "虚拟内存性能与该指标密切相关。",
+        "course": "操作系统",
+        "source": "王道2027操作系统，3.2 虚拟内存管理，教材p212（页码：212）",
+        "confidence": 0.95
+      },
+      {
+        "node_id": "LEGACY:OS_CON_065",
+        "course_id": "C09",
+        "direction": "incoming",
+        "core_concept": "虚拟内存",
+        "related_concept": "虚拟存储器",
+        "relation": "对比",
+        "reason": "组成原理中的虚拟存储器强调硬件地址转换支持，操作系统中的虚拟内存强调按需调页和内存管理策略。",
+        "course": "操作系统",
+        "source": "跨课程关系整理；参考：王道2027计组，虚拟存储器，教材p130（PDF页141）; 王道2027操作系统，3.2 虚拟内存管理，教材p212（页码：212）",
+        "confidence": 0.94
+      }
+    ]
+  }
+}

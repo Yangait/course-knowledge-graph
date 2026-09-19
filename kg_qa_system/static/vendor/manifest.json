@@ -1,0 +1,27 @@
+{
+  "markdown-it": {
+    "version": "15.0.2",
+    "integrity": "sha512-q4IGxMv56jCqT4OCRCADBoDP3LO4MhmTXjFbphHPXs4g3j9Xg5RDnxqN8IF/3vIWEU+VCnUq+7JUg/cfy2E6Qw==",
+    "source": "https://registry.npmjs.org/markdown-it/-/markdown-it-15.0.2.tgz"
+  },
+  "dompurify": {
+    "version": "3.4.15",
+    "integrity": "sha512-EUBjM+B+lkDE41iE82DDSCfkoPGfXx8IxFxPMjNzm/Uk4xDet77rTN9wqlxlVg71kK7XGuUMv6wUxJUwwv+Xyw==",
+    "source": "https://registry.npmjs.org/dompurify/-/dompurify-3.4.15.tgz"
+  },
+  "katex": {
+    "version": "0.18.7",
+    "integrity": "sha512-h+UCwkZ+4Jz8WQ7MLGfj7UVFrRCizGb912fwF4luGdYsC5paYG1vx+jy+KRcC/XkpjGva/P7nAWuxNnPzRvzHw==",
+    "source": "https://registry.npmjs.org/katex/-/katex-0.18.7.tgz"
+  },
+  "markdown-it-texmath": {
+    "version": "1.0.0",
+    "integrity": "sha512-4hhkiX8/gus+6e53PLCUmUrsa6ZWGgJW2XCW6O0ASvZUiezIK900ZicinTDtG3kAO2kon7oUA/ReWmpW2FByxg==",
+    "source": "https://registry.npmjs.org/markdown-it-texmath/-/markdown-it-texmath-1.0.0.tgz"
+  },
+  "@highlightjs/cdn-assets": {
+    "version": "11.12.0",
+    "integrity": "sha512-KvOKXODaiFmId9xaq3xc5xCL66wVLUuOngDbO9B/kewbFTqdGbn2nJxNhN3H5R1cgDTVj6R8vH0zgiNDEGjpDw==",
+    "source": "https://registry.npmjs.org/@highlightjs/cdn-assets/-/cdn-assets-11.12.0.tgz"
+  }
+}

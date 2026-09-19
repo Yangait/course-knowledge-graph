@@ -1,0 +1,1429 @@
+{
+  "meta": {
+    "course_id": "M03",
+    "course_name": "导图",
+    "map_kind": "overview",
+    "conversion_status": "converted",
+    "source_file": "知识导图/导图.emmx"
+  },
+  "knowledge_nodes": [
+    {
+      "id": "M03:K:101",
+      "source_id": "101",
+      "label": "导图",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2420.3,
+        "y": 1210.38,
+        "width": 152.4,
+        "height": 62.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:130",
+      "source_id": "130",
+      "label": "数字电子技术",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2241.36,
+        "y": 1289.29,
+        "width": 137.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:131",
+      "source_id": "131",
+      "label": "数制与码制",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2587.64,
+        "y": 1125.0,
+        "width": 121.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:133",
+      "source_id": "133",
+      "label": "逻辑代数",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2592.5,
+        "y": 1345.0,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:135",
+      "source_id": "135",
+      "label": "门电路",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2514.5,
+        "y": 1553.57,
+        "width": 89.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:137",
+      "source_id": "137",
+      "label": "脉冲波形的产生和整形电路",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2203.64,
+        "y": 1590.71,
+        "width": 233.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:139",
+      "source_id": "139",
+      "label": "时序逻辑电路",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1774.21,
+        "y": 1235.65,
+        "width": 137.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:141",
+      "source_id": "141",
+      "label": "半导体存储电路",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2044.42,
+        "y": 983.83,
+        "width": 153.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:143",
+      "source_id": "143",
+      "label": "组合逻辑电路",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2383.56,
+        "y": 984.35,
+        "width": 137.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:145",
+      "source_id": "145",
+      "label": "数模转换",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1894.06,
+        "y": 1535.13,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:147",
+      "source_id": "147",
+      "label": "计算机的计算",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2993.07,
+        "y": 1091.29,
+        "width": 137.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:149",
+      "source_id": "149",
+      "label": "计算机组成原理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3341.43,
+        "y": 1010.21,
+        "width": 153.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:151",
+      "source_id": "151",
+      "label": "命题逻辑",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2938.5,
+        "y": 1225.57,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:153",
+      "source_id": "153",
+      "label": "离散数学",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3324.21,
+        "y": 1268.43,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:155",
+      "source_id": "155",
+      "label": "半导体基础",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2785.07,
+        "y": 1742.71,
+        "width": 121.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:161",
+      "source_id": "161",
+      "label": "模拟电子技术",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2498.79,
+        "y": 2014.14,
+        "width": 137.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:163",
+      "source_id": "163",
+      "label": "波形的产生与信号的转换",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2305.93,
+        "y": 1789.86,
+        "width": 217.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:166",
+      "source_id": "166",
+      "label": "嵌入式硬件部分",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3250.5,
+        "y": 1544.14,
+        "width": 153.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:168",
+      "source_id": "168",
+      "label": "一阶逻辑",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2974.0,
+        "y": 1387.86,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:172",
+      "source_id": "172",
+      "label": "中央处理器",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3010.88,
+        "y": 909.16,
+        "width": 121.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:178",
+      "source_id": "178",
+      "label": "存储器",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3205.82,
+        "y": 728.18,
+        "width": 89.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:180",
+      "source_id": "180",
+      "label": "半导体存储器",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1587.64,
+        "y": 964.55,
+        "width": 137.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:182",
+      "source_id": "182",
+      "label": "微机原理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1453.09,
+        "y": 713.64,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:184",
+      "source_id": "184",
+      "label": "微型计算机基础",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1878.0,
+        "y": 680.91,
+        "width": 153.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:189",
+      "source_id": "189",
+      "label": "数据库基础",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1494.36,
+        "y": 1095.45,
+        "width": 121.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:191",
+      "source_id": "191",
+      "label": "数据库",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1207.09,
+        "y": 960.91,
+        "width": 89.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:193",
+      "source_id": "193",
+      "label": "嵌入式",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3385.27,
+        "y": 1731.82,
+        "width": 89.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:196",
+      "source_id": "196",
+      "label": "信号的运算和处理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2076.18,
+        "y": 1957.27,
+        "width": 169.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:198",
+      "source_id": "198",
+      "label": "图像增强",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1778.0,
+        "y": 2090.0,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:200",
+      "source_id": "200",
+      "label": "数字图像处理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1459.82,
+        "y": 2088.18,
+        "width": 137.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:202",
+      "source_id": "202",
+      "label": "内存管理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3843.23,
+        "y": 960.0,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:204",
+      "source_id": "204",
+      "label": "中央处理器",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1365.27,
+        "y": 1313.64,
+        "width": 121.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:206",
+      "source_id": "206",
+      "label": "计算机组成原理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 958.0,
+        "y": 1464.55,
+        "width": 153.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:208",
+      "source_id": "208",
+      "label": "计算机的计算",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1465.45,
+        "y": 1473.64,
+        "width": 137.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:213",
+      "source_id": "213",
+      "label": "模拟量的输入和输出",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 632.73,
+        "y": 1539.09,
+        "width": 185.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:216",
+      "source_id": "216",
+      "label": "物理层",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1472.73,
+        "y": 1822.73,
+        "width": 89.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:218",
+      "source_id": "218",
+      "label": "计算机网络",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1060.23,
+        "y": 1900.91,
+        "width": 121.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:220",
+      "source_id": "220",
+      "label": "操作系统",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4190.0,
+        "y": 954.29,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:228",
+      "source_id": "228",
+      "label": "进程管理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4324.29,
+        "y": 1192.86,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:230",
+      "source_id": "230",
+      "label": "I/O管理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3993.9,
+        "y": 1151.56,
+        "width": 99.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:232",
+      "source_id": "232",
+      "label": "文件管理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4002.86,
+        "y": 765.71,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:237",
+      "source_id": "237",
+      "label": "嵌入式软件",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3694.29,
+        "y": 1522.86,
+        "width": 121.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:243",
+      "source_id": "243",
+      "label": "数据库管理系统",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4270.0,
+        "y": 1465.0,
+        "width": 153.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:245",
+      "source_id": "245",
+      "label": "数据库",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4112.73,
+        "y": 1748.18,
+        "width": 89.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:247",
+      "source_id": "247",
+      "label": "文件",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3725.45,
+        "y": 639.09,
+        "width": 73.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:249",
+      "source_id": "249",
+      "label": "数据结构",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3583.64,
+        "y": 464.55,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:253",
+      "source_id": "253",
+      "label": "文件",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4292.73,
+        "y": 640.91,
+        "width": 73.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:256",
+      "source_id": "256",
+      "label": "C语言",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4501.82,
+        "y": 855.45,
+        "width": 84.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:258",
+      "source_id": "258",
+      "label": "数据类型",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4430.91,
+        "y": 999.09,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:261",
+      "source_id": "261",
+      "label": "汇编语言",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3081.82,
+        "y": 364.55,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:267",
+      "source_id": "267",
+      "label": "内存访问",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3232.73,
+        "y": 487.27,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:269",
+      "source_id": "269",
+      "label": "线性表",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3440.0,
+        "y": 618.18,
+        "width": 89.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:274",
+      "source_id": "274",
+      "label": "包含多个段的程序",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3383.64,
+        "y": 276.36,
+        "width": 169.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:279",
+      "source_id": "279",
+      "label": "寻址方法",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3087.5,
+        "y": 555.0,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:281",
+      "source_id": "281",
+      "label": "指令系统",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3655.0,
+        "y": 1050.0,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:287",
+      "source_id": "287",
+      "label": "中断处理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2825.71,
+        "y": 521.43,
+        "width": 105.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M03:K:290",
+      "source_id": "290",
+      "label": "IO系统",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2650.0,
+        "y": 658.57,
+        "width": 92.0,
+        "height": 37.0
+      },
+      "image_ids": []
+    }
+  ],
+  "main_tree": [
+    {
+      "id": "M03:K:101",
+      "source_id": "101",
+      "label": "导图",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2420.3,
+        "y": 1210.38,
+        "width": 152.4,
+        "height": 62.0
+      },
+      "image_ids": [],
+      "children": []
+    }
+  ],
+  "hierarchy_relations": [],
+  "semantic_relations": [
+    {
+      "id": "M03:R:132",
+      "source_id": "M03:K:130",
+      "target_id": "M03:K:131",
+      "source_label": "数字电子技术",
+      "target_label": "数制与码制",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:134",
+      "source_id": "M03:K:130",
+      "target_id": "M03:K:133",
+      "source_label": "数字电子技术",
+      "target_label": "逻辑代数",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:136",
+      "source_id": "M03:K:130",
+      "target_id": "M03:K:135",
+      "source_label": "数字电子技术",
+      "target_label": "门电路",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:138",
+      "source_id": "M03:K:130",
+      "target_id": "M03:K:137",
+      "source_label": "数字电子技术",
+      "target_label": "脉冲波形的产生和整形电路",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:140",
+      "source_id": "M03:K:130",
+      "target_id": "M03:K:139",
+      "source_label": "数字电子技术",
+      "target_label": "时序逻辑电路",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:142",
+      "source_id": "M03:K:130",
+      "target_id": "M03:K:141",
+      "source_label": "数字电子技术",
+      "target_label": "半导体存储电路",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:144",
+      "source_id": "M03:K:130",
+      "target_id": "M03:K:143",
+      "source_label": "数字电子技术",
+      "target_label": "组合逻辑电路",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:146",
+      "source_id": "M03:K:130",
+      "target_id": "M03:K:145",
+      "source_label": "数字电子技术",
+      "target_label": "数模转换",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:148",
+      "source_id": "M03:K:131",
+      "target_id": "M03:K:147",
+      "source_label": "数制与码制",
+      "target_label": "计算机的计算",
+      "relation_text": "数制、码制及其转换",
+      "direction": "none"
+    },
+    {
+      "id": "M03:R:150",
+      "source_id": "M03:K:147",
+      "target_id": "M03:K:149",
+      "source_label": "计算机的计算",
+      "target_label": "计算机组成原理",
+      "relation_text": null,
+      "direction": "backward"
+    },
+    {
+      "id": "M03:R:152",
+      "source_id": "M03:K:133",
+      "target_id": "M03:K:151",
+      "source_label": "逻辑代数",
+      "target_label": "命题逻辑",
+      "relation_text": "组合电路",
+      "direction": "none"
+    },
+    {
+      "id": "M03:R:154",
+      "source_id": "M03:K:151",
+      "target_id": "M03:K:153",
+      "source_label": "命题逻辑",
+      "target_label": "离散数学",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:156",
+      "source_id": "M03:K:135",
+      "target_id": "M03:K:155",
+      "source_label": "门电路",
+      "target_label": "半导体基础",
+      "relation_text": "MOS管",
+      "direction": "none"
+    },
+    {
+      "id": "M03:R:162",
+      "source_id": "M03:K:155",
+      "target_id": "M03:K:161",
+      "source_label": "半导体基础",
+      "target_label": "模拟电子技术",
+      "relation_text": null,
+      "direction": "backward"
+    },
+    {
+      "id": "M03:R:164",
+      "source_id": "M03:K:137",
+      "target_id": "M03:K:163",
+      "source_label": "脉冲波形的产生和整形电路",
+      "target_label": "波形的产生与信号的转换",
+      "relation_text": "正弦波振荡电路、电压比较器、基本运算电路的应用",
+      "direction": "none"
+    },
+    {
+      "id": "M03:R:165",
+      "source_id": "M03:K:161",
+      "target_id": "M03:K:163",
+      "source_label": "模拟电子技术",
+      "target_label": "波形的产生与信号的转换",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:167",
+      "source_id": "M03:K:135",
+      "target_id": "M03:K:166",
+      "source_label": "门电路",
+      "target_label": "嵌入式硬件部分",
+      "relation_text": "嵌入式硬件的电路设计",
+      "direction": "none"
+    },
+    {
+      "id": "M03:R:169",
+      "source_id": "M03:K:133",
+      "target_id": "M03:K:168",
+      "source_label": "逻辑代数",
+      "target_label": "一阶逻辑",
+      "relation_text": "逻辑符号化、逻辑公式",
+      "direction": "none"
+    },
+    {
+      "id": "M03:R:170",
+      "source_id": "M03:K:168",
+      "target_id": "M03:K:153",
+      "source_label": "一阶逻辑",
+      "target_label": "离散数学",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:171",
+      "source_id": "M03:K:147",
+      "target_id": "M03:K:143",
+      "source_label": "计算机的计算",
+      "target_label": "组合逻辑电路",
+      "relation_text": "计算机执行加法运算用到了组合逻辑电路中的加法器",
+      "direction": "none"
+    },
+    {
+      "id": "M03:R:173",
+      "source_id": "M03:K:149",
+      "target_id": "M03:K:172",
+      "source_label": "计算机组成原理",
+      "target_label": "中央处理器",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:175",
+      "source_id": "M03:K:143",
+      "target_id": "M03:K:172",
+      "source_label": "组合逻辑电路",
+      "target_label": "中央处理器",
+      "relation_text": "硬布线控制器是一种组合逻辑电路",
+      "direction": "none"
+    },
+    {
+      "id": "M03:R:179",
+      "source_id": "M03:K:149",
+      "target_id": "M03:K:178",
+      "source_label": "计算机组成原理",
+      "target_label": "存储器",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:181",
+      "source_id": "M03:K:141",
+      "target_id": "M03:K:180",
+      "source_label": "半导体存储电路",
+      "target_label": "半导体存储器",
+      "relation_text": "电路的设计",
+      "direction": "none"
+    },
+    {
+      "id": "M03:R:183",
+      "source_id": "M03:K:182",
+      "target_id": "M03:K:180",
+      "source_label": "微机原理",
+      "target_label": "半导体存储器",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:185",
+      "source_id": "M03:K:182",
+      "target_id": "M03:K:184",
+      "source_label": "微机原理",
+      "target_label": "微型计算机基础",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:187",
+      "source_id": "M03:K:141",
+      "target_id": "M03:K:178",
+      "source_label": "半导体存储电路",
+      "target_label": "存储器",
+      "relation_text": "电路实现",
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:188",
+      "source_id": "M03:K:184",
+      "target_id": "M03:K:131",
+      "source_label": "微型计算机基础",
+      "target_label": "数制与码制",
+      "relation_text": "相同内容",
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:190",
+      "source_id": "M03:K:141",
+      "target_id": "M03:K:189",
+      "source_label": "半导体存储电路",
+      "target_label": "数据库基础",
+      "relation_text": "两门课中的触发器的概念不同",
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:192",
+      "source_id": "M03:K:191",
+      "target_id": "M03:K:189",
+      "source_label": "数据库",
+      "target_label": "数据库基础",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:194",
+      "source_id": "M03:K:193",
+      "target_id": "M03:K:166",
+      "source_label": "嵌入式",
+      "target_label": "嵌入式硬件部分",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:195",
+      "source_id": "M03:K:155",
+      "target_id": "M03:K:166",
+      "source_label": "半导体基础",
+      "target_label": "嵌入式硬件部分",
+      "relation_text": "嵌入式硬件部分的半导体基础",
+      "direction": "none"
+    },
+    {
+      "id": "M03:R:197",
+      "source_id": "M03:K:161",
+      "target_id": "M03:K:196",
+      "source_label": "模拟电子技术",
+      "target_label": "信号的运算和处理",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:199",
+      "source_id": "M03:K:196",
+      "target_id": "M03:K:198",
+      "source_label": "信号的运算和处理",
+      "target_label": "图像增强",
+      "relation_text": "模拟电子技术中的滤波电路用于对图像的频率域进行增强",
+      "direction": "none"
+    },
+    {
+      "id": "M03:R:201",
+      "source_id": "M03:K:200",
+      "target_id": "M03:K:198",
+      "source_label": "数字图像处理",
+      "target_label": "图像增强",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:205",
+      "source_id": "M03:K:139",
+      "target_id": "M03:K:204",
+      "source_label": "时序逻辑电路",
+      "target_label": "中央处理器",
+      "relation_text": "微操作控制器是一种实现逻辑电路",
+      "direction": "none"
+    },
+    {
+      "id": "M03:R:207",
+      "source_id": "M03:K:206",
+      "target_id": "M03:K:204",
+      "source_label": "计算机组成原理",
+      "target_label": "中央处理器",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:209",
+      "source_id": "M03:K:206",
+      "target_id": "M03:K:208",
+      "source_label": "计算机组成原理",
+      "target_label": "计算机的计算",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:210",
+      "source_id": "M03:K:208",
+      "target_id": "M03:K:139",
+      "source_label": "计算机的计算",
+      "target_label": "时序逻辑电路",
+      "relation_text": "移位运算使用的移位寄存器是一种时序逻辑电路",
+      "direction": "none"
+    },
+    {
+      "id": "M03:R:214",
+      "source_id": "M03:K:182",
+      "target_id": "M03:K:213",
+      "source_label": "微机原理",
+      "target_label": "模拟量的输入和输出",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:215",
+      "source_id": "M03:K:213",
+      "target_id": "M03:K:145",
+      "source_label": "模拟量的输入和输出",
+      "target_label": "数模转换",
+      "relation_text": "微机原理中介绍具体型号的数模转换器",
+      "direction": "none"
+    },
+    {
+      "id": "M03:R:217",
+      "source_id": "M03:K:145",
+      "target_id": "M03:K:216",
+      "source_label": "数模转换",
+      "target_label": "物理层",
+      "relation_text": "编码与调制",
+      "direction": "none"
+    },
+    {
+      "id": "M03:R:219",
+      "source_id": "M03:K:218",
+      "target_id": "M03:K:216",
+      "source_label": "计算机网络",
+      "target_label": "物理层",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:221",
+      "source_id": "M03:K:220",
+      "target_id": "M03:K:202",
+      "source_label": "操作系统",
+      "target_label": "内存管理",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:229",
+      "source_id": "M03:K:220",
+      "target_id": "M03:K:228",
+      "source_label": "操作系统",
+      "target_label": "进程管理",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:231",
+      "source_id": "M03:K:220",
+      "target_id": "M03:K:230",
+      "source_label": "操作系统",
+      "target_label": "I/O管理",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:233",
+      "source_id": "M03:K:220",
+      "target_id": "M03:K:232",
+      "source_label": "操作系统",
+      "target_label": "文件管理",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:238",
+      "source_id": "M03:K:193",
+      "target_id": "M03:K:237",
+      "source_label": "嵌入式",
+      "target_label": "嵌入式软件",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:239",
+      "source_id": "M03:K:237",
+      "target_id": "M03:K:202",
+      "source_label": "嵌入式软件",
+      "target_label": "内存管理",
+      "relation_text": "嵌入式操作系统",
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:240",
+      "source_id": "M03:K:237",
+      "target_id": "M03:K:230",
+      "source_label": "嵌入式软件",
+      "target_label": "I/O管理",
+      "relation_text": "嵌入式操作系统",
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:241",
+      "source_id": "M03:K:237",
+      "target_id": "M03:K:228",
+      "source_label": "嵌入式软件",
+      "target_label": "进程管理",
+      "relation_text": "嵌入式操作系统",
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:242",
+      "source_id": "M03:K:178",
+      "target_id": "M03:K:202",
+      "source_label": "存储器",
+      "target_label": "内存管理",
+      "relation_text": "内存分配中使用的快表存储在cache中",
+      "direction": "none"
+    },
+    {
+      "id": "M03:R:244",
+      "source_id": "M03:K:228",
+      "target_id": "M03:K:243",
+      "source_label": "进程管理",
+      "target_label": "数据库管理系统",
+      "relation_text": "操作系统的死锁与数据库的所用途不同",
+      "direction": "none"
+    },
+    {
+      "id": "M03:R:246",
+      "source_id": "M03:K:245",
+      "target_id": "M03:K:243",
+      "source_label": "数据库",
+      "target_label": "数据库管理系统",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:248",
+      "source_id": "M03:K:247",
+      "target_id": "M03:K:232",
+      "source_label": "文件",
+      "target_label": "文件管理",
+      "relation_text": "数据结构中主要介绍文件的结构",
+      "direction": "none"
+    },
+    {
+      "id": "M03:R:250",
+      "source_id": "M03:K:249",
+      "target_id": "M03:K:247",
+      "source_label": "数据结构",
+      "target_label": "文件",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:255",
+      "source_id": "M03:K:232",
+      "target_id": "M03:K:253",
+      "source_label": "文件管理",
+      "target_label": "文件",
+      "relation_text": "C语言中主要介绍文件的操作",
+      "direction": "none"
+    },
+    {
+      "id": "M03:R:257",
+      "source_id": "M03:K:256",
+      "target_id": "M03:K:253",
+      "source_label": "C语言",
+      "target_label": "文件",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:259",
+      "source_id": "M03:K:256",
+      "target_id": "M03:K:258",
+      "source_label": "C语言",
+      "target_label": "数据类型",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:260",
+      "source_id": "M03:K:230",
+      "target_id": "M03:K:258",
+      "source_label": "I/O管理",
+      "target_label": "数据类型",
+      "relation_text": "I/O管理中多处使用了结构体变量",
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:264",
+      "source_id": "M03:K:182",
+      "target_id": "M03:K:261",
+      "source_label": "微机原理",
+      "target_label": "汇编语言",
+      "relation_text": "汇编语言包含于微机原理",
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:271",
+      "source_id": "M03:K:267",
+      "target_id": "M03:K:269",
+      "source_label": "内存访问",
+      "target_label": "线性表",
+      "relation_text": "栈的物理实现",
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:272",
+      "source_id": "M03:K:261",
+      "target_id": "M03:K:267",
+      "source_label": "汇编语言",
+      "target_label": "内存访问",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:273",
+      "source_id": "M03:K:269",
+      "target_id": "M03:K:249",
+      "source_label": "线性表",
+      "target_label": "数据结构",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:275",
+      "source_id": "M03:K:261",
+      "target_id": "M03:K:274",
+      "source_label": "汇编语言",
+      "target_label": "包含多个段的程序",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:276",
+      "source_id": "M03:K:274",
+      "target_id": "M03:K:256",
+      "source_label": "包含多个段的程序",
+      "target_label": "C语言",
+      "relation_text": "程序设计的模块化思想",
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:280",
+      "source_id": "M03:K:261",
+      "target_id": "M03:K:279",
+      "source_label": "汇编语言",
+      "target_label": "寻址方法",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:283",
+      "source_id": "M03:K:279",
+      "target_id": "M03:K:281",
+      "source_label": "寻址方法",
+      "target_label": "指令系统",
+      "relation_text": "在寻址时，寄存器时如何工作的",
+      "direction": "none"
+    },
+    {
+      "id": "M03:R:284",
+      "source_id": "M03:K:149",
+      "target_id": "M03:K:281",
+      "source_label": "计算机组成原理",
+      "target_label": "指令系统",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:288",
+      "source_id": "M03:K:261",
+      "target_id": "M03:K:287",
+      "source_label": "汇编语言",
+      "target_label": "中断处理",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:291",
+      "source_id": "M03:K:149",
+      "target_id": "M03:K:290",
+      "source_label": "计算机组成原理",
+      "target_label": "IO系统",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M03:R:292",
+      "source_id": "M03:K:287",
+      "target_id": "M03:K:290",
+      "source_label": "中断处理",
+      "target_label": "IO系统",
+      "relation_text": "在中断处理时，寄存器是如何工作的",
+      "direction": "none"
+    }
+  ],
+  "floating_topics": {
+    "roots": [],
+    "items": []
+  },
+  "summary_blocks": [],
+  "summary_items": [],
+  "callouts": [],
+  "structural_anchors": [],
+  "boundary_groups": [],
+  "images": []
+}

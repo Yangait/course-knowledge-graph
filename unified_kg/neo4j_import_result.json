@@ -1,0 +1,24 @@
+{
+  "dataset_id": "u26_8f074b833d4b81f962dcd8d7",
+  "mode": "apply",
+  "nodes": 22891,
+  "relationships": 32606,
+  "courses": 26,
+  "target_label": "UnifiedKGNode",
+  "original_label": "KGNode",
+  "status": "ready",
+  "verification": {
+    "nodes": 22891,
+    "relationships": 32606,
+    "courses": 26,
+    "images": 1039,
+    "verified": "all_properties_and_endpoints"
+  },
+  "original_graph_unchanged": true,
+  "original_graph": {
+    "nodes": 2701,
+    "relationships": 10630,
+    "sha256": "f687cc9442c39384d8dee4cd0c74b9fabd88f98ba0d0ff50cf23f6796dcb9117"
+  },
+  "checked_at": "2026-09-16T10:33:21.645920+00:00"
+}

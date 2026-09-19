@@ -1,0 +1,11 @@
+{
+  "dataset_id": "u26_8f074b833d4b81f962dcd8d7",
+  "mode": "dry_run",
+  "nodes": 22891,
+  "relationships": 32606,
+  "courses": 26,
+  "target_label": "UnifiedKGNode",
+  "original_label": "KGNode",
+  "status": "validated",
+  "checked_at": "2026-09-16T10:22:06.774068+00:00"
+}

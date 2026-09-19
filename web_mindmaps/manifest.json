@@ -1,0 +1,322 @@
+{
+  "schema_version": "web-mindmaps-1",
+  "courses": [
+    {
+      "course_id": "C01",
+      "name": "高等数学",
+      "root_id": "C01:K:101",
+      "file": "courses/C01_高等数学.json",
+      "source_file": "知识导图/高等数学.emmx",
+      "knowledge_nodes": 544,
+      "images": 0,
+      "conversion_status": "compatibility_copy"
+    },
+    {
+      "course_id": "C02",
+      "name": "线性代数",
+      "root_id": "C02:K:101",
+      "file": "courses/C02_线性代数.json",
+      "source_file": "知识导图/线性代数.emmx",
+      "knowledge_nodes": 268,
+      "images": 0,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C03",
+      "name": "概率论与数理统计",
+      "root_id": "C03:K:101",
+      "file": "courses/C03_概率论与数理统计.json",
+      "source_file": "知识导图/概率论与数理统计.emmx",
+      "knowledge_nodes": 304,
+      "images": 0,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C04",
+      "name": "大学物理",
+      "root_id": "C04:K:101",
+      "file": "courses/C04_大学物理.json",
+      "source_file": "知识导图/大学物理.emmx",
+      "knowledge_nodes": 231,
+      "images": 0,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C05",
+      "name": "离散数学",
+      "root_id": "C05:K:101",
+      "file": "courses/C05_离散数学.json",
+      "source_file": "知识导图/离散数学.emmx",
+      "knowledge_nodes": 413,
+      "images": 0,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C06",
+      "name": "高级语言程序设计（C语言）",
+      "root_id": "C06:K:101",
+      "file": "courses/C06_高级语言程序设计（C语言）.json",
+      "source_file": "知识导图/高级语言程序设计（c语言）.emmx",
+      "knowledge_nodes": 513,
+      "images": 0,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C07",
+      "name": "数据结构",
+      "root_id": "C07:K:101",
+      "file": "courses/C07_数据结构.json",
+      "source_file": "知识导图/数据结构.emmx",
+      "knowledge_nodes": 619,
+      "images": 5,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C08",
+      "name": "计算机组成原理",
+      "root_id": "C08:K:101",
+      "file": "courses/C08_计算机组成原理.json",
+      "source_file": "知识导图/计算机组成原理.emmx",
+      "knowledge_nodes": 1102,
+      "images": 1,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C09",
+      "name": "操作系统",
+      "root_id": "C09:K:101",
+      "file": "courses/C09_操作系统.json",
+      "source_file": "知识导图/操作系统.emmx",
+      "knowledge_nodes": 457,
+      "images": 3,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C10",
+      "name": "计算机网络",
+      "root_id": "C10:K:101",
+      "file": "courses/C10_计算机网络.json",
+      "source_file": "知识导图/细节与骨干-计算机网络.emmx",
+      "knowledge_nodes": 1674,
+      "images": 109,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C11",
+      "name": "编译原理",
+      "root_id": "C11:K:101",
+      "file": "courses/C11_编译原理.json",
+      "source_file": "知识导图/细节和骨干-编译原理.emmx",
+      "knowledge_nodes": 1746,
+      "images": 464,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C12",
+      "name": "数据库",
+      "root_id": "C12:K:101",
+      "file": "courses/C12_数据库.json",
+      "source_file": "知识导图/数据库.emmx",
+      "knowledge_nodes": 1172,
+      "images": 9,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C13",
+      "name": "分布式数据库",
+      "root_id": "C13:K:101",
+      "file": "courses/C13_分布式数据库.json",
+      "source_file": "知识导图/分布式数据库.emmx",
+      "knowledge_nodes": 328,
+      "images": 17,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C14",
+      "name": "软件工程",
+      "root_id": "C14:K:101",
+      "file": "courses/C14_软件工程.json",
+      "source_file": "知识导图/软件工程.emmx",
+      "knowledge_nodes": 724,
+      "images": 22,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C15",
+      "name": "数据挖掘",
+      "root_id": "C15:K:101",
+      "file": "courses/C15_数据挖掘.json",
+      "source_file": "知识导图/数据挖掘.emmx",
+      "knowledge_nodes": 522,
+      "images": 50,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C16",
+      "name": "人工智能",
+      "root_id": "C16:K:133",
+      "file": "courses/C16_人工智能.json",
+      "source_file": "知识导图/细节与骨干-人工智能.emmx",
+      "knowledge_nodes": 1464,
+      "images": 232,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C17",
+      "name": "云计算",
+      "root_id": "C17:K:101",
+      "file": "courses/C17_云计算.json",
+      "source_file": "知识导图/云计算.emmx",
+      "knowledge_nodes": 535,
+      "images": 524,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C18",
+      "name": "物联网技术",
+      "root_id": "C18:K:101",
+      "file": "courses/C18_物联网技术.json",
+      "source_file": "知识导图/细节与骨干-物联网技术.emmx",
+      "knowledge_nodes": 675,
+      "images": 258,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C19",
+      "name": "嵌入式系统",
+      "root_id": "C19:K:101",
+      "file": "courses/C19_嵌入式系统.json",
+      "source_file": "知识导图/嵌入式系统.emmx",
+      "knowledge_nodes": 513,
+      "images": 1,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C20",
+      "name": "网络与信息安全",
+      "root_id": "C20:K:101",
+      "file": "courses/C20_网络与信息安全.json",
+      "source_file": "知识导图/网络与信息安全.emmx",
+      "knowledge_nodes": 481,
+      "images": 89,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C21",
+      "name": "微机原理",
+      "root_id": "C21:K:101",
+      "file": "courses/C21_微机原理.json",
+      "source_file": "知识导图/微机原理.emmx",
+      "knowledge_nodes": 1263,
+      "images": 45,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C22",
+      "name": "汇编语言",
+      "root_id": "C22:K:101",
+      "file": "courses/C22_汇编语言.json",
+      "source_file": "知识导图/汇编语言.emmx",
+      "knowledge_nodes": 409,
+      "images": 1,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C23",
+      "name": "数字电子技术",
+      "root_id": "C23:K:101",
+      "file": "courses/C23_数字电子技术.json",
+      "source_file": "知识导图/数字电子技术 (2).emmx",
+      "knowledge_nodes": 480,
+      "images": 8,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C24",
+      "name": "模拟电子技术",
+      "root_id": "C24:K:101",
+      "file": "courses/C24_模拟电子技术.json",
+      "source_file": "知识导图/模拟电子技术.emmx",
+      "knowledge_nodes": 531,
+      "images": 5,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C25",
+      "name": "数字图像处理",
+      "root_id": "C25:K:101",
+      "file": "courses/C25_数字图像处理.json",
+      "source_file": "知识导图/数字图像处理.emmx",
+      "knowledge_nodes": 777,
+      "images": 73,
+      "conversion_status": "converted"
+    },
+    {
+      "course_id": "C26",
+      "name": "计算机图形学",
+      "root_id": "C26:K:101",
+      "file": "courses/C26_计算机图形学.json",
+      "source_file": "知识导图/计算机图形学.emmx",
+      "knowledge_nodes": 646,
+      "images": 40,
+      "conversion_status": "converted"
+    }
+  ],
+  "overviews": [
+    {
+      "course_id": "M01",
+      "name": "26门课程总览",
+      "file": "overviews/M01.json",
+      "root_id": "M01:K:101",
+      "source_file": "知识导图/26门课程总览.emmx",
+      "images": 0,
+      "knowledge_nodes": 141
+    },
+    {
+      "course_id": "M02",
+      "name": "唐晓松课程总览",
+      "file": "overviews/M02.json",
+      "root_id": "M02:K:101",
+      "source_file": "知识导图/唐晓松课程总览.emmx",
+      "images": 0,
+      "knowledge_nodes": 65
+    },
+    {
+      "course_id": "M03",
+      "name": "导图",
+      "file": "overviews/M03.json",
+      "root_id": "M03:K:101",
+      "source_file": "知识导图/导图.emmx",
+      "images": 0,
+      "knowledge_nodes": 57
+    },
+    {
+      "course_id": "M04",
+      "name": "汇总",
+      "file": "overviews/M04.json",
+      "root_id": "M04:K:101",
+      "source_file": "知识导图/汇总.emmx",
+      "images": 0,
+      "knowledge_nodes": 102
+    },
+    {
+      "course_id": "M05",
+      "name": "计网-编译-物联网-人工智能.联系图",
+      "file": "overviews/M05.json",
+      "root_id": "M05:K:101",
+      "source_file": "知识导图/计网-编译-物联网-人工智能.联系图.emmx",
+      "images": 0,
+      "knowledge_nodes": 64
+    }
+  ],
+  "media_base_relative_to_manifest": ".",
+  "statistics": {
+    "courses": 26,
+    "overviews": 5,
+    "images": 1956
+  },
+  "conversion_notes": [
+    "高等数学暂用文字匹配校验后的旧结构，其他25门课正文、备注和图片由新EMMX读取。",
+    "此数据包仅供网页导图，未修改Neo4j或问答图谱。"
+  ]
+}

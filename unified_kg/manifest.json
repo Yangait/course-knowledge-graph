@@ -1,0 +1,463 @@
+{
+  "schema_version": "unified-kg-1",
+  "catalog_root": "CATALOG:ROOT",
+  "statistics": {
+    "courses": 26,
+    "nodes": 22891,
+    "edges": 32606,
+    "legacy_nodes": 2701,
+    "legacy_courses": 9,
+    "candidate_mappings": 611,
+    "nodes_by_origin": {
+      "integration": 1,
+      "emmx": 20048,
+      "emmx_overview": 141,
+      "legacy_csv": 2701
+    },
+    "edges_by_origin": {
+      "integration": 60,
+      "emmx": 21717,
+      "emmx_overview": 199,
+      "legacy_csv": 10630
+    },
+    "node_types": {
+      "catalog": 1,
+      "course_root": 26,
+      "knowledge": 18145,
+      "chapter": 220,
+      "floating_root": 163,
+      "summary_block": 68,
+      "callout": 146,
+      "boundary_group": 16,
+      "structural_anchor": 29,
+      "image": 1039,
+      "floating_item": 176,
+      "summary_item": 20,
+      "overview_root": 1,
+      "course_reference": 25,
+      "cross_course_concept": 115,
+      "Course": 9,
+      "Topic": 714,
+      "ComputingObject": 248,
+      "Mechanism": 256,
+      "Concept": 411,
+      "Property": 111,
+      "Model": 141,
+      "DataStructure": 195,
+      "Operation": 129,
+      "Algorithm": 160,
+      "Metric": 104,
+      "Problem": 56,
+      "Application": 23,
+      "Example": 29,
+      "SyntaxElement": 64,
+      "Protocol": 51
+    },
+    "edge_types": {
+      "HAS_COURSE": 26,
+      "CONTAINS": 21680,
+      "SEMANTIC_LINK": 931,
+      "ANNOTATES": 177,
+      "SUMMARIZES": 1129,
+      "GROUP_MEMBER": 62,
+      "HAS_IMAGE": 1038,
+      "CONTAINS_AUXILIARY": 196,
+      "HAS_STRUCTURE": 18,
+      "REFERS_TO_COURSE": 25,
+      "COURSE_EDITION_OF": 9,
+      "BELONGS_TO_COURSE": 2690,
+      "BELONGS_TO_TOPIC": 2598,
+      "HAS_OPERATION": 101,
+      "HAS_PROPERTY": 78,
+      "IS_A": 263,
+      "IMPLEMENTED_BY": 235,
+      "USES": 314,
+      "PREREQUISITE_OF": 411,
+      "ENSURES": 17,
+      "OPTIMIZES": 38,
+      "COMPARE_WITH": 183,
+      "SOLVES": 91,
+      "EVALUATED_BY": 87,
+      "CAUSES": 38,
+      "CONFUSED_WITH": 53,
+      "APPLIED_IN": 93,
+      "ILLUSTRATED_BY": 25
+    },
+    "main_knowledge_nodes": 18391,
+    "hierarchy_relations": 18365,
+    "semantic_relations": 732,
+    "images": 1039
+  },
+  "media_base_relative_to_manifest": "../26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据",
+  "courses": [
+    {
+      "course_id": "C01",
+      "name": "高等数学",
+      "root_id": "C01:K:101",
+      "file": "courses/C01_高等数学.json",
+      "source_file": "！！！最终emmx版本/周洋/高等数学.emmx",
+      "knowledge_nodes": 544,
+      "images": 0
+    },
+    {
+      "course_id": "C02",
+      "name": "线性代数",
+      "root_id": "C02:K:101",
+      "file": "courses/C02_线性代数.json",
+      "source_file": "！！！最终emmx版本/周洋/线性代数.emmx",
+      "knowledge_nodes": 268,
+      "images": 0
+    },
+    {
+      "course_id": "C03",
+      "name": "概率论与数理统计",
+      "root_id": "C03:K:101",
+      "file": "courses/C03_概率论与数理统计.json",
+      "source_file": "！！！最终emmx版本/周洋/概率论与数理统计.emmx",
+      "knowledge_nodes": 304,
+      "images": 0
+    },
+    {
+      "course_id": "C04",
+      "name": "大学物理",
+      "root_id": "C04:K:101",
+      "file": "courses/C04_大学物理.json",
+      "source_file": "！！！最终emmx版本/周洋/大学物理.emmx",
+      "knowledge_nodes": 231,
+      "images": 0
+    },
+    {
+      "course_id": "C05",
+      "name": "离散数学",
+      "root_id": "C05:K:101",
+      "file": "courses/C05_离散数学.json",
+      "source_file": "！！！最终emmx版本/周洋/离散数学.emmx",
+      "knowledge_nodes": 413,
+      "images": 0
+    },
+    {
+      "course_id": "C06",
+      "name": "高级语言程序设计（C语言）",
+      "root_id": "C06:K:101",
+      "file": "courses/C06_高级语言程序设计（C语言）.json",
+      "source_file": "！！！最终emmx版本/唐晓松/思维导图/高级语言程序设计（c语言）.emmx",
+      "knowledge_nodes": 513,
+      "images": 0
+    },
+    {
+      "course_id": "C07",
+      "name": "数据结构",
+      "root_id": "C07:K:101",
+      "file": "courses/C07_数据结构.json",
+      "source_file": "！！！最终emmx版本/刘世杰/数据结构/数据结构.emmx",
+      "knowledge_nodes": 619,
+      "images": 4
+    },
+    {
+      "course_id": "C08",
+      "name": "计算机组成原理",
+      "root_id": "C08:K:101",
+      "file": "courses/C08_计算机组成原理.json",
+      "source_file": "！！！最终emmx版本/唐晓松/思维导图/计算机组成原理.emmx",
+      "knowledge_nodes": 1102,
+      "images": 1
+    },
+    {
+      "course_id": "C09",
+      "name": "操作系统",
+      "root_id": "C09:K:101",
+      "file": "courses/C09_操作系统.json",
+      "source_file": "！！！最终emmx版本/陈昊楠/操作系统/操作系统.emmx",
+      "knowledge_nodes": 457,
+      "images": 3
+    },
+    {
+      "course_id": "C10",
+      "name": "计算机网络",
+      "root_id": "C10:K:101",
+      "file": "courses/C10_计算机网络.json",
+      "source_file": "！！！最终emmx版本/范全会/计算机网络/细节与骨干-计算机网络.emmx",
+      "knowledge_nodes": 1674,
+      "images": 98
+    },
+    {
+      "course_id": "C11",
+      "name": "编译原理",
+      "root_id": "C11:K:101",
+      "file": "courses/C11_编译原理.json",
+      "source_file": "！！！最终emmx版本/范全会/编译原理/细节和骨干-编译原理.emmx",
+      "knowledge_nodes": 1746,
+      "images": 456
+    },
+    {
+      "course_id": "C12",
+      "name": "数据库",
+      "root_id": "C12:K:101",
+      "file": "courses/C12_数据库.json",
+      "source_file": "！！！最终emmx版本/傅博/数据库.emmx",
+      "knowledge_nodes": 1172,
+      "images": 5
+    },
+    {
+      "course_id": "C13",
+      "name": "分布式数据库",
+      "root_id": "C13:K:101",
+      "file": "courses/C13_分布式数据库.json",
+      "source_file": "！！！最终emmx版本/唐晓松/思维导图/分布式数据库.emmx",
+      "knowledge_nodes": 328,
+      "images": 17
+    },
+    {
+      "course_id": "C14",
+      "name": "软件工程",
+      "root_id": "C14:K:101",
+      "file": "courses/C14_软件工程.json",
+      "source_file": "！！！最终emmx版本/唐晓松/思维导图/软件工程.emmx",
+      "knowledge_nodes": 724,
+      "images": 22
+    },
+    {
+      "course_id": "C15",
+      "name": "数据挖掘",
+      "root_id": "C15:K:101",
+      "file": "courses/C15_数据挖掘.json",
+      "source_file": "！！！最终emmx版本/唐晓松/思维导图/数据挖掘.emmx",
+      "knowledge_nodes": 522,
+      "images": 50
+    },
+    {
+      "course_id": "C16",
+      "name": "人工智能",
+      "root_id": "C16:K:133",
+      "file": "courses/C16_人工智能.json",
+      "source_file": "！！！最终emmx版本/范全会/人工智能/细节与骨干-人工智能.emmx",
+      "knowledge_nodes": 1464,
+      "images": 231
+    },
+    {
+      "course_id": "C17",
+      "name": "云计算",
+      "root_id": "C17:K:101",
+      "file": "courses/C17_云计算.json",
+      "source_file": "！！！最终emmx版本/刘世杰/云计算/云计算.emmx",
+      "knowledge_nodes": 535,
+      "images": 5
+    },
+    {
+      "course_id": "C18",
+      "name": "物联网技术",
+      "root_id": "C18:K:101",
+      "file": "courses/C18_物联网技术.json",
+      "source_file": "！！！最终emmx版本/范全会/物联网技术/细节与骨干-物联网技术.emmx",
+      "knowledge_nodes": 675,
+      "images": 7
+    },
+    {
+      "course_id": "C19",
+      "name": "嵌入式系统",
+      "root_id": "C19:K:101",
+      "file": "courses/C19_嵌入式系统.json",
+      "source_file": "！！！最终emmx版本/刘世杰/嵌入式系统/嵌入式系统.emmx",
+      "knowledge_nodes": 513,
+      "images": 1
+    },
+    {
+      "course_id": "C20",
+      "name": "网络与信息安全",
+      "root_id": "C20:K:101",
+      "file": "courses/C20_网络与信息安全.json",
+      "source_file": "！！！最终emmx版本/刘世杰/网络与信息安全/网络与信息安全.emmx",
+      "knowledge_nodes": 481,
+      "images": 7
+    },
+    {
+      "course_id": "C21",
+      "name": "微机原理",
+      "root_id": "C21:K:101",
+      "file": "courses/C21_微机原理.json",
+      "source_file": "！！！最终emmx版本/傅博/微机原理.emmx",
+      "knowledge_nodes": 1263,
+      "images": 11
+    },
+    {
+      "course_id": "C22",
+      "name": "汇编语言",
+      "root_id": "C22:K:101",
+      "file": "courses/C22_汇编语言.json",
+      "source_file": "！！！最终emmx版本/陈昊楠/汇编语言/汇编语言.emmx",
+      "knowledge_nodes": 409,
+      "images": 1
+    },
+    {
+      "course_id": "C23",
+      "name": "数字电子技术",
+      "root_id": "C23:K:101",
+      "file": "courses/C23_数字电子技术.json",
+      "source_file": "！！！最终emmx版本/陈昊楠/数电/数字电子技术 (2).emmx",
+      "knowledge_nodes": 480,
+      "images": 8
+    },
+    {
+      "course_id": "C24",
+      "name": "模拟电子技术",
+      "root_id": "C24:K:101",
+      "file": "courses/C24_模拟电子技术.json",
+      "source_file": "！！！最终emmx版本/陈昊楠/模电/模拟电子技术.emmx",
+      "knowledge_nodes": 531,
+      "images": 5
+    },
+    {
+      "course_id": "C25",
+      "name": "数字图像处理",
+      "root_id": "C25:K:101",
+      "file": "courses/C25_数字图像处理.json",
+      "source_file": "！！！最终emmx版本/傅博/数字图像处理.emmx",
+      "knowledge_nodes": 777,
+      "images": 73
+    },
+    {
+      "course_id": "C26",
+      "name": "计算机图形学",
+      "root_id": "C26:K:101",
+      "file": "courses/C26_计算机图形学.json",
+      "source_file": "！！！最终emmx版本/傅博/计算机图形学.emmx",
+      "knowledge_nodes": 646,
+      "images": 34
+    }
+  ],
+  "inputs": [
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C01_高等数学.json",
+      "sha256": "1968a7c3e9b69715eac68f8c0aa1bbc388398efd6b6fc09976a46894ac13b051"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C02_线性代数.json",
+      "sha256": "27daebc91b219e1d1a87f749cc3903effb9693ee66045eb58d4b8a9a570fe73a"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C03_概率论与数理统计.json",
+      "sha256": "28b824aac6ba58e4f3bab2d80f6c1d46c45536c18aeee0a0da2c6adc1e7b5242"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C04_大学物理.json",
+      "sha256": "faa08d413e0efe4c0c297e6b92057071bb05b693bdea048b505bc7803639dc9e"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C05_离散数学.json",
+      "sha256": "e12b87ae6bb8fb9acb6ce4a057ffee725b2c04f9cf0ab963252a65dcac872b48"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C06_高级语言程序设计（C语言）.json",
+      "sha256": "57c527e65e8007e71a04319fd0abf30f2906fbca9adc64033bc8c5a33c803cc8"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C07_数据结构.json",
+      "sha256": "017438b37c9d26d1eecb6d976a5f016b3e813bb085ace6d861e0ab4674277fe0"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C08_计算机组成原理.json",
+      "sha256": "3065f90b68bce974ea63c74c1cbbfd10492c4cfec2d25d376eecb5586b281f1d"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C09_操作系统.json",
+      "sha256": "699fa9f84681f234290be44f5aae7c1a03a7b6d40a284a655d06754b782177fd"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C10_计算机网络.json",
+      "sha256": "0d54e01e4a400e2d13beb8b79c99c68c800675048abd2a9d66a05a36fb1feefe"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C11_编译原理.json",
+      "sha256": "4325f32cce7fd1a6fc25f3dd3959c2befdd77c4ae1b78ce538021f5591758f8d"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C12_数据库.json",
+      "sha256": "112d71bc0d6532ca5d714e4ccf3c3f89ce4e63ce0c8a8398cc56f2074f85cc21"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C13_分布式数据库.json",
+      "sha256": "1727dfdca9a5dfa556b0b9c211884c7e09ebb9662f7ef062f70a573b92c9f4ee"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C14_软件工程.json",
+      "sha256": "3f89adad782473ca676c7bc6eea4e69ff9b744a5b08f1692462f5f8778a9ae8f"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C15_数据挖掘.json",
+      "sha256": "968fad0e90737bdbb5763309ff009064284a16a371c7899e67b5c8d7d92933ab"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C16_人工智能.json",
+      "sha256": "673882e9ef29753c8fa3500a43960624f744d6991c5a0c3a8143d8b25cbfd06a"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C17_云计算.json",
+      "sha256": "1010d3229d2a5108a86a399aa7d2d4e3d21c457b84d6aaaeed1e97f6a3a8edcc"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C18_物联网技术.json",
+      "sha256": "680174ba532406fa8061ca4ba4a44361ed31bfc5b6881c61de1e44ade0cc0555"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C19_嵌入式系统.json",
+      "sha256": "d44103873c8a54cb33184f2ca49022c609719e1a9e6c98b5aa7406d28f359d9e"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C20_网络与信息安全.json",
+      "sha256": "7f8037bc2b22e9bcc1f2053a512562700341238e1e6664ff77f28c34d0eba273"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C21_微机原理.json",
+      "sha256": "a20e4fbea2408a224b8f2943d810e532c9095a1ffda359a9a0cfd079f165053b"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C22_汇编语言.json",
+      "sha256": "e7057f08ca33953ec631cb897f3df42afef99acc0193747d46917b7bffc1cbcb"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C23_数字电子技术.json",
+      "sha256": "48bec442350c909baf70ce143b3d8e39ff6a948cc1bc3e68b0a2c2078c9d844b"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C24_模拟电子技术.json",
+      "sha256": "a2641e12657019899db8e71382e4a6f9c9b34005368e22ebd26fdea19875c2cb"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C25_数字图像处理.json",
+      "sha256": "d3bc7ba8bda5fa9f1f1fb1ee7c6d45734723a7733eb4369da977555c9ef4a0fd"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/courses/C26_计算机图形学.json",
+      "sha256": "39b6f88e1bf7e3ac984c467de34e8c556c2a9a0c17907ae7e225fdcaf847bfce"
+    },
+    {
+      "path": "neo4j_import_files/nodes.csv",
+      "sha256": "4ba9bdfa06704336979ba80e91d2b1de48c8b8459a2629913a1be6791927e759"
+    },
+    {
+      "path": "neo4j_import_files/relationships.csv",
+      "sha256": "be4e01bd90c686b7ba02af45a250ef0ff5b6db395c9274cd835464c0aaf32622"
+    },
+    {
+      "path": "neo4j_import_files/cross_course_relationships.csv",
+      "sha256": "1120f2bc13770818ff97ec7a0d09e0a510dddac25d1e280e84e34f2df68481f3"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/总索引.json",
+      "sha256": "ea097f1e44e07c9823e8860c5df15312b5d9369da80fd8e4e72c346c79b176b0"
+    },
+    {
+      "path": "26门课程知识图谱_最终数据_含图片/26门课程知识图谱_最终数据/跨课程总览.json",
+      "sha256": "3e412641230119ea01a7a47cda03ac70380062c585cff84551f964f56851574a"
+    }
+  ],
+  "legacy_source": "本地 neo4j_import_files 导入快照；未连接数据库核实当前状态",
+  "original_emmx_available": false,
+  "policies": {
+    "same_name": "候选映射不等于同一实体，未自动合并",
+    "semantic_direction": "保留原始 forward/backward/both/none；反向、双向和无方向不能按存储箭头推断单向因果",
+    "source_trust": "旧版声明的教材来源及内容未经原教材复核",
+    "images": "保留资源和归属，尚未 OCR 或多模态解读",
+    "media": "图片留在原始包，不能单独移动 unified_kg 后丢弃原始包"
+  }
+}

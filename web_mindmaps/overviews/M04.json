@@ -1,0 +1,2716 @@
+{
+  "meta": {
+    "course_id": "M04",
+    "course_name": "汇总",
+    "map_kind": "overview",
+    "conversion_status": "converted",
+    "source_file": "知识导图/汇总.emmx"
+  },
+  "knowledge_nodes": [
+    {
+      "id": "M04:K:101",
+      "source_id": "101",
+      "label": "汇总",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3321.5,
+        "y": 1848.0,
+        "width": 142.2,
+        "height": 57.2
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:108",
+      "source_id": "108",
+      "label": "微机原理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1882.26,
+        "y": 1504.82,
+        "width": 107.2,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:109",
+      "source_id": "109",
+      "label": "计算机图形学",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2907.27,
+        "y": 943.564,
+        "width": 140.8,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:110",
+      "source_id": "110",
+      "label": "数字图像处理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1670.47,
+        "y": 943.564,
+        "width": 140.8,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:111",
+      "source_id": "111",
+      "label": "数据库",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3186.41,
+        "y": 1638.16,
+        "width": 90.4,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:113",
+      "source_id": "113",
+      "label": "微型计算机基础概论",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2240.53,
+        "y": 1803.41,
+        "width": 184.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:116",
+      "source_id": "116",
+      "label": "数字电子技术",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2846.76,
+        "y": 1534.06,
+        "width": 140.8,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:117",
+      "source_id": "117",
+      "label": "汇编语言",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 861.952,
+        "y": 1504.82,
+        "width": 107.2,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:121",
+      "source_id": "121",
+      "label": "微处理器与总线",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1942.67,
+        "y": 1717.89,
+        "width": 152.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:122",
+      "source_id": "122",
+      "label": "8088/8086指令系统",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1736.77,
+        "y": 1803.41,
+        "width": 176.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:123",
+      "source_id": "123",
+      "label": "计算机组成原理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1812.52,
+        "y": 2190.86,
+        "width": 157.6,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:124",
+      "source_id": "124",
+      "label": "汇编语言程序设计",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1670.47,
+        "y": 1386.24,
+        "width": 168.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:128",
+      "source_id": "128",
+      "label": "半导体存储器",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2044.77,
+        "y": 1775.73,
+        "width": 136.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:129",
+      "source_id": "129",
+      "label": "输入输出与中断技术",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1577.66,
+        "y": 1885.56,
+        "width": 184.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:130",
+      "source_id": "130",
+      "label": "可编程数字接口",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1991.79,
+        "y": 1407.04,
+        "width": 152.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:131",
+      "source_id": "131",
+      "label": "模拟量的输入输出",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2215.91,
+        "y": 1581.64,
+        "width": 168.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:147",
+      "source_id": "147",
+      "label": "计算机系统概述",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2274.82,
+        "y": 2025.18,
+        "width": 152.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:148",
+      "source_id": "148",
+      "label": "计算机的计算",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2076.77,
+        "y": 2025.18,
+        "width": 136.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:149",
+      "source_id": "149",
+      "label": "中央处理器",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1907.24,
+        "y": 2025.18,
+        "width": 120.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:150",
+      "source_id": "150",
+      "label": "总线",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1769.72,
+        "y": 2025.18,
+        "width": 72.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:151",
+      "source_id": "151",
+      "label": "指令系统",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1640.2,
+        "y": 2025.18,
+        "width": 104.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:152",
+      "source_id": "152",
+      "label": "存储器",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2465.66,
+        "y": 2025.18,
+        "width": 88.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:155",
+      "source_id": "155",
+      "label": "IO系统",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1516.01,
+        "y": 2025.18,
+        "width": 88.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:172",
+      "source_id": "172",
+      "label": "数制与码制",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2627.39,
+        "y": 1746.27,
+        "width": 120.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:173",
+      "source_id": "173",
+      "label": "逻辑代数",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2578.25,
+        "y": 1649.79,
+        "width": 104.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:174",
+      "source_id": "174",
+      "label": "门电路",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2689.66,
+        "y": 1885.56,
+        "width": 88.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:175",
+      "source_id": "175",
+      "label": "半导体存储电路",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2325.11,
+        "y": 1649.79,
+        "width": 152.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:190",
+      "source_id": "190",
+      "label": "标志寄存器",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1278.7,
+        "y": 1649.98,
+        "width": 120.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:193",
+      "source_id": "193",
+      "label": "栈",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1278.7,
+        "y": 1534.06,
+        "width": 56.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:195",
+      "source_id": "195",
+      "label": "寄存器",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1321.28,
+        "y": 1446.22,
+        "width": 88.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:197",
+      "source_id": "197",
+      "label": "数据处理的两个基本问题",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1060.77,
+        "y": 1711.03,
+        "width": 216.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:198",
+      "source_id": "198",
+      "label": "端口",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1020.6,
+        "y": 1813.37,
+        "width": 72.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:201",
+      "source_id": "201",
+      "label": "转移指令的原理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 928.523,
+        "y": 1915.71,
+        "width": 152.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:202",
+      "source_id": "202",
+      "label": "内中断",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 655.095,
+        "y": 2008.03,
+        "width": 88.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:203",
+      "source_id": "203",
+      "label": "外中断",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 752.238,
+        "y": 2128.99,
+        "width": 88.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:204",
+      "source_id": "204",
+      "label": "第一个程序",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1212.65,
+        "y": 1339.27,
+        "width": 120.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:238",
+      "source_id": "238",
+      "label": "数模与模数转换",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2590.3,
+        "y": 1504.82,
+        "width": 152.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:255",
+      "source_id": "255",
+      "label": "大学物理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2270.74,
+        "y": 527.065,
+        "width": 107.2,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:256",
+      "source_id": "256",
+      "label": "高等数学",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2010.3,
+        "y": 308.571,
+        "width": 107.2,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:259",
+      "source_id": "259",
+      "label": "数字图像处理基础",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2075.9,
+        "y": 733.403,
+        "width": 168.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:260",
+      "source_id": "260",
+      "label": "图像基本运算",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2010.3,
+        "y": 817.922,
+        "width": 136.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:261",
+      "source_id": "261",
+      "label": "图像变换",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1503.15,
+        "y": 743.678,
+        "width": 104.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:262",
+      "source_id": "262",
+      "label": "图像增强",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1773.53,
+        "y": 746.587,
+        "width": 104.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:263",
+      "source_id": "263",
+      "label": "图像复原",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1713.71,
+        "y": 686.857,
+        "width": 104.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:264",
+      "source_id": "264",
+      "label": "图像压缩编码",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2010.3,
+        "y": 902.442,
+        "width": 136.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:265",
+      "source_id": "265",
+      "label": "图像分割",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1898.3,
+        "y": 965.818,
+        "width": 104.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:266",
+      "source_id": "266",
+      "label": "彩色处理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2010.3,
+        "y": 1083.43,
+        "width": 104.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:267",
+      "source_id": "267",
+      "label": "图像表示与描述",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1307.04,
+        "y": 686.857,
+        "width": 152.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:283",
+      "source_id": "283",
+      "label": "概率论与数理统计",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2630.05,
+        "y": 505.096,
+        "width": 174.4,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:284",
+      "source_id": "284",
+      "label": "计算机图形学概述",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3005.33,
+        "y": 778.919,
+        "width": 168.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:285",
+      "source_id": "285",
+      "label": "基本图像绘制",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2557.14,
+        "y": 1023.27,
+        "width": 136.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:286",
+      "source_id": "286",
+      "label": "图形变换",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2396.2,
+        "y": 965.818,
+        "width": 104.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:287",
+      "source_id": "287",
+      "label": "复杂的三维图形",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2830.69,
+        "y": 1219.78,
+        "width": 152.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:288",
+      "source_id": "288",
+      "label": "消隐算法",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3005.33,
+        "y": 1108.21,
+        "width": 104.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:289",
+      "source_id": "289",
+      "label": "真实感图形绘制",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2419.49,
+        "y": 1161.3,
+        "width": 152.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:305",
+      "source_id": "305",
+      "label": "光",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2166.48,
+        "y": 664.821,
+        "width": 56.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:310",
+      "source_id": "310",
+      "label": "线性代数",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2748.67,
+        "y": 733.403,
+        "width": 107.2,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:311",
+      "source_id": "311",
+      "label": "无穷级数",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1809.07,
+        "y": 483.894,
+        "width": 104.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:312",
+      "source_id": "312",
+      "label": "多元函数微分及其应用",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1573.32,
+        "y": 415.948,
+        "width": 200.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:313",
+      "source_id": "313",
+      "label": "导数与微分",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2277.14,
+        "y": 446.75,
+        "width": 120.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:314",
+      "source_id": "314",
+      "label": "微分中值定理与导数的应用",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2039.1,
+        "y": 496.465,
+        "width": 232.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:315",
+      "source_id": "315",
+      "label": "重积分",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1670.47,
+        "y": 473.61,
+        "width": 88.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:328",
+      "source_id": "328",
+      "label": "随机变量数字特征",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2396.2,
+        "y": 676.249,
+        "width": 168.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:337",
+      "source_id": "337",
+      "label": "数据结构",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2347.51,
+        "y": 1407.04,
+        "width": 107.2,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:338",
+      "source_id": "338",
+      "label": "树",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2086.93,
+        "y": 1219.78,
+        "width": 56.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:339",
+      "source_id": "339",
+      "label": "随机变量及其分布",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2393.0,
+        "y": 579.785,
+        "width": 168.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:346",
+      "source_id": "346",
+      "label": "相似矩阵及二次型",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2427.49,
+        "y": 746.587,
+        "width": 168.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:350",
+      "source_id": "350",
+      "label": "矩阵基本运算",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2570.74,
+        "y": 796.987,
+        "width": 136.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:357",
+      "source_id": "357",
+      "label": "图",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2371.89,
+        "y": 1299.34,
+        "width": 56.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:358",
+      "source_id": "358",
+      "label": "排序",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2539.54,
+        "y": 1299.34,
+        "width": 72.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:359",
+      "source_id": "359",
+      "label": "线性表",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2714.62,
+        "y": 1333.71,
+        "width": 88.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:381",
+      "source_id": "381",
+      "label": "堆",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3034.64,
+        "y": 1364.53,
+        "width": 56.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:388",
+      "source_id": "388",
+      "label": "数组",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2881.16,
+        "y": 1349.98,
+        "width": 72.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:394",
+      "source_id": "394",
+      "label": "高数(无穷级数)",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3299.79,
+        "y": 1161.3,
+        "width": 158.4,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:396",
+      "source_id": "396",
+      "label": "模拟电路",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1340.41,
+        "y": 1055.02,
+        "width": 107.2,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:397",
+      "source_id": "397",
+      "label": "信号运算和处理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 1416.52,
+        "y": 918.857,
+        "width": 152.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:402",
+      "source_id": "402",
+      "label": "数据库绪论",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3523.58,
+        "y": 1534.06,
+        "width": 120.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:403",
+      "source_id": "403",
+      "label": "关系数据库",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3523.58,
+        "y": 1434.22,
+        "width": 120.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:404",
+      "source_id": "404",
+      "label": "安全性",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3008.16,
+        "y": 1764.39,
+        "width": 88.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:408",
+      "source_id": "408",
+      "label": "关系数据库标准语言SQL",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2988.14,
+        "y": 1461.92,
+        "width": 208.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:410",
+      "source_id": "410",
+      "label": "关系数据理论",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3516.72,
+        "y": 1351.9,
+        "width": 136.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:411",
+      "source_id": "411",
+      "label": "数据库设计",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3436.93,
+        "y": 1685.82,
+        "width": 120.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:412",
+      "source_id": "412",
+      "label": "数据库编程",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3099.79,
+        "y": 1971.6,
+        "width": 120.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:413",
+      "source_id": "413",
+      "label": "关系查询处理和查询优化",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3436.93,
+        "y": 1786.7,
+        "width": 216.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:415",
+      "source_id": "415",
+      "label": "数据库恢复技术",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3421.86,
+        "y": 1909.3,
+        "width": 152.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:417",
+      "source_id": "417",
+      "label": "并发控制",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3444.93,
+        "y": 2002.18,
+        "width": 104.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:419",
+      "source_id": "419",
+      "label": "分布式数据库",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4130.23,
+        "y": 1844.36,
+        "width": 140.8,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:420",
+      "source_id": "420",
+      "label": "分布式事务",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3772.05,
+        "y": 1971.6,
+        "width": 120.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:421",
+      "source_id": "421",
+      "label": "分布式并发控制",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3772.05,
+        "y": 2035.64,
+        "width": 152.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:422",
+      "source_id": "422",
+      "label": "锁",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3772.05,
+        "y": 2086.04,
+        "width": 56.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:423",
+      "source_id": "423",
+      "label": "分布查询处理",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3772.05,
+        "y": 1890.63,
+        "width": 136.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:424",
+      "source_id": "424",
+      "label": "分布式数据库基本概念",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3820.77,
+        "y": 1638.16,
+        "width": 200.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:426",
+      "source_id": "426",
+      "label": "分布式数据库的设计",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3743.68,
+        "y": 1764.39,
+        "width": 184.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:453",
+      "source_id": "453",
+      "label": "离散数学",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4116.81,
+        "y": 1292.0,
+        "width": 107.2,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:454",
+      "source_id": "454",
+      "label": "二元关系",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3917.5,
+        "y": 1292.0,
+        "width": 104.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:455",
+      "source_id": "455",
+      "label": "命题逻辑",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3960.93,
+        "y": 1364.53,
+        "width": 104.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:456",
+      "source_id": "456",
+      "label": "集合代数",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 4115.21,
+        "y": 1423.43,
+        "width": 104.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:462",
+      "source_id": "462",
+      "label": "网络安全",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2753.04,
+        "y": 2002.18,
+        "width": 107.2,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:463",
+      "source_id": "463",
+      "label": "身份认证",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 2892.36,
+        "y": 1890.63,
+        "width": 104.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:475",
+      "source_id": "475",
+      "label": "C语言程序设计",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3130.07,
+        "y": 2158.86,
+        "width": 149.6,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:477",
+      "source_id": "477",
+      "label": "操作系统",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3430.53,
+        "y": 2292.57,
+        "width": 107.2,
+        "height": 35.4
+      },
+      "image_ids": []
+    },
+    {
+      "id": "M04:K:478",
+      "source_id": "478",
+      "label": "锁",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3430.64,
+        "y": 2204.0,
+        "width": 56.0,
+        "height": 35.4
+      },
+      "image_ids": []
+    }
+  ],
+  "main_tree": [
+    {
+      "id": "M04:K:101",
+      "source_id": "101",
+      "label": "汇总",
+      "entity_type": "overview_node",
+      "layout": {
+        "x": 3321.5,
+        "y": 1848.0,
+        "width": 142.2,
+        "height": 57.2
+      },
+      "image_ids": [],
+      "children": []
+    }
+  ],
+  "hierarchy_relations": [],
+  "semantic_relations": [
+    {
+      "id": "M04:R:136",
+      "source_id": "M04:K:108",
+      "target_id": "M04:K:128",
+      "source_label": "微机原理",
+      "target_label": "半导体存储器",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:137",
+      "source_id": "M04:K:108",
+      "target_id": "M04:K:131",
+      "source_label": "微机原理",
+      "target_label": "模拟量的输入输出",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:138",
+      "source_id": "M04:K:108",
+      "target_id": "M04:K:129",
+      "source_label": "微机原理",
+      "target_label": "输入输出与中断技术",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:141",
+      "source_id": "M04:K:108",
+      "target_id": "M04:K:130",
+      "source_label": "微机原理",
+      "target_label": "可编程数字接口",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:142",
+      "source_id": "M04:K:108",
+      "target_id": "M04:K:121",
+      "source_label": "微机原理",
+      "target_label": "微处理器与总线",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:143",
+      "source_id": "M04:K:108",
+      "target_id": "M04:K:113",
+      "source_label": "微机原理",
+      "target_label": "微型计算机基础概论",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:146",
+      "source_id": "M04:K:108",
+      "target_id": "M04:K:124",
+      "source_label": "微机原理",
+      "target_label": "汇编语言程序设计",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:157",
+      "source_id": "M04:K:123",
+      "target_id": "M04:K:155",
+      "source_label": "计算机组成原理",
+      "target_label": "IO系统",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:162",
+      "source_id": "M04:K:123",
+      "target_id": "M04:K:152",
+      "source_label": "计算机组成原理",
+      "target_label": "存储器",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:163",
+      "source_id": "M04:K:123",
+      "target_id": "M04:K:151",
+      "source_label": "计算机组成原理",
+      "target_label": "指令系统",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:164",
+      "source_id": "M04:K:123",
+      "target_id": "M04:K:150",
+      "source_label": "计算机组成原理",
+      "target_label": "总线",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:165",
+      "source_id": "M04:K:123",
+      "target_id": "M04:K:149",
+      "source_label": "计算机组成原理",
+      "target_label": "中央处理器",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:166",
+      "source_id": "M04:K:123",
+      "target_id": "M04:K:148",
+      "source_label": "计算机组成原理",
+      "target_label": "计算机的计算",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:167",
+      "source_id": "M04:K:123",
+      "target_id": "M04:K:147",
+      "source_label": "计算机组成原理",
+      "target_label": "计算机系统概述",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:170",
+      "source_id": "M04:K:113",
+      "target_id": "M04:K:147",
+      "source_label": "微型计算机基础概论",
+      "target_label": "计算机系统概述",
+      "relation_text": "内容相近",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:171",
+      "source_id": "M04:K:113",
+      "target_id": "M04:K:148",
+      "source_label": "微型计算机基础概论",
+      "target_label": "计算机的计算",
+      "relation_text": "数值与编码",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:176",
+      "source_id": "M04:K:121",
+      "target_id": "M04:K:149",
+      "source_label": "微处理器与总线",
+      "target_label": "中央处理器",
+      "relation_text": "寄存器",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:177",
+      "source_id": "M04:K:121",
+      "target_id": "M04:K:150",
+      "source_label": "微处理器与总线",
+      "target_label": "总线",
+      "relation_text": "基础之上",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:178",
+      "source_id": "M04:K:108",
+      "target_id": "M04:K:122",
+      "source_label": "微机原理",
+      "target_label": "8088/8086指令系统",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:179",
+      "source_id": "M04:K:122",
+      "target_id": "M04:K:151",
+      "source_label": "8088/8086指令系统",
+      "target_label": "指令系统",
+      "relation_text": "详细介绍指令",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:180",
+      "source_id": "M04:K:128",
+      "target_id": "M04:K:152",
+      "source_label": "半导体存储器",
+      "target_label": "存储器",
+      "relation_text": "详细介绍存储器芯片",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:181",
+      "source_id": "M04:K:129",
+      "target_id": "M04:K:155",
+      "source_label": "输入输出与中断技术",
+      "target_label": "IO系统",
+      "relation_text": "基础之上介绍简单电路及芯片",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:207",
+      "source_id": "M04:K:121",
+      "target_id": "M04:K:190",
+      "source_label": "微处理器与总线",
+      "target_label": "标志寄存器",
+      "relation_text": "内部寄存器",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:208",
+      "source_id": "M04:K:121",
+      "target_id": "M04:K:193",
+      "source_label": "微处理器与总线",
+      "target_label": "栈",
+      "relation_text": "内部寄存器",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:209",
+      "source_id": "M04:K:121",
+      "target_id": "M04:K:195",
+      "source_label": "微处理器与总线",
+      "target_label": "寄存器",
+      "relation_text": "内部寄存器",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:210",
+      "source_id": "M04:K:117",
+      "target_id": "M04:K:195",
+      "source_label": "汇编语言",
+      "target_label": "寄存器",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:211",
+      "source_id": "M04:K:117",
+      "target_id": "M04:K:190",
+      "source_label": "汇编语言",
+      "target_label": "标志寄存器",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:212",
+      "source_id": "M04:K:117",
+      "target_id": "M04:K:193",
+      "source_label": "汇编语言",
+      "target_label": "栈",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:213",
+      "source_id": "M04:K:117",
+      "target_id": "M04:K:197",
+      "source_label": "汇编语言",
+      "target_label": "数据处理的两个基本问题",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:217",
+      "source_id": "M04:K:122",
+      "target_id": "M04:K:197",
+      "source_label": "8088/8086指令系统",
+      "target_label": "数据处理的两个基本问题",
+      "relation_text": "寻址方式",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:223",
+      "source_id": "M04:K:122",
+      "target_id": "M04:K:195",
+      "source_label": "8088/8086指令系统",
+      "target_label": "寄存器",
+      "relation_text": "数据传送指令",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:224",
+      "source_id": "M04:K:122",
+      "target_id": "M04:K:190",
+      "source_label": "8088/8086指令系统",
+      "target_label": "标志寄存器",
+      "relation_text": "算数运算指令",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:225",
+      "source_id": "M04:K:122",
+      "target_id": "M04:K:198",
+      "source_label": "8088/8086指令系统",
+      "target_label": "端口",
+      "relation_text": "位移类指令",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:227",
+      "source_id": "M04:K:122",
+      "target_id": "M04:K:201",
+      "source_label": "8088/8086指令系统",
+      "target_label": "转移指令的原理",
+      "relation_text": "程序控制类指令",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:228",
+      "source_id": "M04:K:129",
+      "target_id": "M04:K:202",
+      "source_label": "输入输出与中断技术",
+      "target_label": "内中断",
+      "relation_text": "补充介绍芯片",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:229",
+      "source_id": "M04:K:129",
+      "target_id": "M04:K:203",
+      "source_label": "输入输出与中断技术",
+      "target_label": "外中断",
+      "relation_text": "补充介绍芯片",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:230",
+      "source_id": "M04:K:202",
+      "target_id": "M04:K:117",
+      "source_label": "内中断",
+      "target_label": "汇编语言",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:231",
+      "source_id": "M04:K:203",
+      "target_id": "M04:K:117",
+      "source_label": "外中断",
+      "target_label": "汇编语言",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:232",
+      "source_id": "M04:K:201",
+      "target_id": "M04:K:117",
+      "source_label": "转移指令的原理",
+      "target_label": "汇编语言",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:233",
+      "source_id": "M04:K:198",
+      "target_id": "M04:K:117",
+      "source_label": "端口",
+      "target_label": "汇编语言",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:236",
+      "source_id": "M04:K:117",
+      "target_id": "M04:K:204",
+      "source_label": "汇编语言",
+      "target_label": "第一个程序",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:237",
+      "source_id": "M04:K:124",
+      "target_id": "M04:K:204",
+      "source_label": "汇编语言程序设计",
+      "target_label": "第一个程序",
+      "relation_text": null,
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:239",
+      "source_id": "M04:K:116",
+      "target_id": "M04:K:238",
+      "source_label": "数字电子技术",
+      "target_label": "数模与模数转换",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:240",
+      "source_id": "M04:K:116",
+      "target_id": "M04:K:174",
+      "source_label": "数字电子技术",
+      "target_label": "门电路",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:241",
+      "source_id": "M04:K:116",
+      "target_id": "M04:K:173",
+      "source_label": "数字电子技术",
+      "target_label": "逻辑代数",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:244",
+      "source_id": "M04:K:116",
+      "target_id": "M04:K:172",
+      "source_label": "数字电子技术",
+      "target_label": "数制与码制",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:245",
+      "source_id": "M04:K:116",
+      "target_id": "M04:K:175",
+      "source_label": "数字电子技术",
+      "target_label": "半导体存储电路",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:246",
+      "source_id": "M04:K:113",
+      "target_id": "M04:K:173",
+      "source_label": "微型计算机基础概论",
+      "target_label": "逻辑代数",
+      "relation_text": "不同角度",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:247",
+      "source_id": "M04:K:113",
+      "target_id": "M04:K:172",
+      "source_label": "微型计算机基础概论",
+      "target_label": "数制与码制",
+      "relation_text": "内容相近",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:248",
+      "source_id": "M04:K:113",
+      "target_id": "M04:K:174",
+      "source_label": "微型计算机基础概论",
+      "target_label": "门电路",
+      "relation_text": "微机更偏应用",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:249",
+      "source_id": "M04:K:131",
+      "target_id": "M04:K:238",
+      "source_label": "模拟量的输入输出",
+      "target_label": "数模与模数转换",
+      "relation_text": "介绍A/D和D/A芯片",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:253",
+      "source_id": "M04:K:128",
+      "target_id": "M04:K:175",
+      "source_label": "半导体存储器",
+      "target_label": "半导体存储电路",
+      "relation_text": "译码器、存储器",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:254",
+      "source_id": "M04:K:129",
+      "target_id": "M04:K:175",
+      "source_label": "输入输出与中断技术",
+      "target_label": "半导体存储电路",
+      "relation_text": "锁存器及芯片",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:291",
+      "source_id": "M04:K:110",
+      "target_id": "M04:K:259",
+      "source_label": "数字图像处理",
+      "target_label": "数字图像处理基础",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:292",
+      "source_id": "M04:K:259",
+      "target_id": "M04:K:285",
+      "source_label": "数字图像处理基础",
+      "target_label": "基本图像绘制",
+      "relation_text": "像素关系与种子",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:293",
+      "source_id": "M04:K:110",
+      "target_id": "M04:K:260",
+      "source_label": "数字图像处理",
+      "target_label": "图像基本运算",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:294",
+      "source_id": "M04:K:110",
+      "target_id": "M04:K:261",
+      "source_label": "数字图像处理",
+      "target_label": "图像变换",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:295",
+      "source_id": "M04:K:110",
+      "target_id": "M04:K:264",
+      "source_label": "数字图像处理",
+      "target_label": "图像压缩编码",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:296",
+      "source_id": "M04:K:260",
+      "target_id": "M04:K:286",
+      "source_label": "图像基本运算",
+      "target_label": "图形变换",
+      "relation_text": "二三维的几何变换",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:297",
+      "source_id": "M04:K:265",
+      "target_id": "M04:K:285",
+      "source_label": "图像分割",
+      "target_label": "基本图像绘制",
+      "relation_text": "种子生长法与种子填充法",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:298",
+      "source_id": "M04:K:266",
+      "target_id": "M04:K:289",
+      "source_label": "彩色处理",
+      "target_label": "真实感图形绘制",
+      "relation_text": "颜色模型",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:299",
+      "source_id": "M04:K:110",
+      "target_id": "M04:K:265",
+      "source_label": "数字图像处理",
+      "target_label": "图像分割",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:300",
+      "source_id": "M04:K:110",
+      "target_id": "M04:K:266",
+      "source_label": "数字图像处理",
+      "target_label": "彩色处理",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:301",
+      "source_id": "M04:K:109",
+      "target_id": "M04:K:284",
+      "source_label": "计算机图形学",
+      "target_label": "计算机图形学概述",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:302",
+      "source_id": "M04:K:109",
+      "target_id": "M04:K:285",
+      "source_label": "计算机图形学",
+      "target_label": "基本图像绘制",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:303",
+      "source_id": "M04:K:109",
+      "target_id": "M04:K:286",
+      "source_label": "计算机图形学",
+      "target_label": "图形变换",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:304",
+      "source_id": "M04:K:109",
+      "target_id": "M04:K:289",
+      "source_label": "计算机图形学",
+      "target_label": "真实感图形绘制",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:308",
+      "source_id": "M04:K:255",
+      "target_id": "M04:K:305",
+      "source_label": "大学物理",
+      "target_label": "光",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:309",
+      "source_id": "M04:K:305",
+      "target_id": "M04:K:259",
+      "source_label": "光",
+      "target_label": "数字图像处理基础",
+      "relation_text": "原理",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:316",
+      "source_id": "M04:K:311",
+      "target_id": "M04:K:261",
+      "source_label": "无穷级数",
+      "target_label": "图像变换",
+      "relation_text": "傅里叶变换与欧拉公式",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:317",
+      "source_id": "M04:K:256",
+      "target_id": "M04:K:311",
+      "source_label": "高等数学",
+      "target_label": "无穷级数",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:318",
+      "source_id": "M04:K:110",
+      "target_id": "M04:K:263",
+      "source_label": "数字图像处理",
+      "target_label": "图像复原",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:319",
+      "source_id": "M04:K:314",
+      "target_id": "M04:K:263",
+      "source_label": "微分中值定理与导数的应用",
+      "target_label": "图像复原",
+      "relation_text": "维纳滤波与拉格朗日乘数法",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:320",
+      "source_id": "M04:K:256",
+      "target_id": "M04:K:314",
+      "source_label": "高等数学",
+      "target_label": "微分中值定理与导数的应用",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:321",
+      "source_id": "M04:K:314",
+      "target_id": "M04:K:265",
+      "source_label": "微分中值定理与导数的应用",
+      "target_label": "图像分割",
+      "relation_text": "梯度算子",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:323",
+      "source_id": "M04:K:110",
+      "target_id": "M04:K:267",
+      "source_label": "数字图像处理",
+      "target_label": "图像表示与描述",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:324",
+      "source_id": "M04:K:256",
+      "target_id": "M04:K:312",
+      "source_label": "高等数学",
+      "target_label": "多元函数微分及其应用",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:327",
+      "source_id": "M04:K:312",
+      "target_id": "M04:K:267",
+      "source_label": "多元函数微分及其应用",
+      "target_label": "图像表示与描述",
+      "relation_text": "曲率",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:329",
+      "source_id": "M04:K:283",
+      "target_id": "M04:K:328",
+      "source_label": "概率论与数理统计",
+      "target_label": "随机变量数字特征",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:332",
+      "source_id": "M04:K:267",
+      "target_id": "M04:K:328",
+      "source_label": "图像表示与描述",
+      "target_label": "随机变量数字特征",
+      "relation_text": "形状特征的矩特征",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:333",
+      "source_id": "M04:K:256",
+      "target_id": "M04:K:315",
+      "source_label": "高等数学",
+      "target_label": "重积分",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:334",
+      "source_id": "M04:K:315",
+      "target_id": "M04:K:267",
+      "source_label": "重积分",
+      "target_label": "图像表示与描述",
+      "relation_text": "质心与惯量",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:335",
+      "source_id": "M04:K:313",
+      "target_id": "M04:K:265",
+      "source_label": "导数与微分",
+      "target_label": "图像分割",
+      "relation_text": "Prewitt算子、Sobel算子、拉普拉斯算子",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:336",
+      "source_id": "M04:K:256",
+      "target_id": "M04:K:313",
+      "source_label": "高等数学",
+      "target_label": "导数与微分",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:340",
+      "source_id": "M04:K:283",
+      "target_id": "M04:K:339",
+      "source_label": "概率论与数理统计",
+      "target_label": "随机变量及其分布",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:341",
+      "source_id": "M04:K:110",
+      "target_id": "M04:K:262",
+      "source_label": "数字图像处理",
+      "target_label": "图像增强",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:342",
+      "source_id": "M04:K:339",
+      "target_id": "M04:K:262",
+      "source_label": "随机变量及其分布",
+      "target_label": "图像增强",
+      "relation_text": "噪声的分布",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:343",
+      "source_id": "M04:K:338",
+      "target_id": "M04:K:264",
+      "source_label": "树",
+      "target_label": "图像压缩编码",
+      "relation_text": "Huffman树",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:344",
+      "source_id": "M04:K:337",
+      "target_id": "M04:K:338",
+      "source_label": "数据结构",
+      "target_label": "树",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:345",
+      "source_id": "M04:K:338",
+      "target_id": "M04:K:265",
+      "source_label": "树",
+      "target_label": "图像分割",
+      "relation_text": "区域分裂合并的四叉树",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:349",
+      "source_id": "M04:K:310",
+      "target_id": "M04:K:346",
+      "source_label": "线性代数",
+      "target_label": "相似矩阵及二次型",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:351",
+      "source_id": "M04:K:310",
+      "target_id": "M04:K:350",
+      "source_label": "线性代数",
+      "target_label": "矩阵基本运算",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:354",
+      "source_id": "M04:K:346",
+      "target_id": "M04:K:264",
+      "source_label": "相似矩阵及二次型",
+      "target_label": "图像压缩编码",
+      "relation_text": "特征值与特征向量",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:355",
+      "source_id": "M04:K:350",
+      "target_id": "M04:K:286",
+      "source_label": "矩阵基本运算",
+      "target_label": "图形变换",
+      "relation_text": "矩阵运算",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:356",
+      "source_id": "M04:K:350",
+      "target_id": "M04:K:260",
+      "source_label": "矩阵基本运算",
+      "target_label": "图像基本运算",
+      "relation_text": "矩阵运算",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:360",
+      "source_id": "M04:K:285",
+      "target_id": "M04:K:267",
+      "source_label": "基本图像绘制",
+      "target_label": "图像表示与描述",
+      "relation_text": "加权区域采样与灰度",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:361",
+      "source_id": "M04:K:109",
+      "target_id": "M04:K:288",
+      "source_label": "计算机图形学",
+      "target_label": "消隐算法",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:364",
+      "source_id": "M04:K:337",
+      "target_id": "M04:K:357",
+      "source_label": "数据结构",
+      "target_label": "图",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:365",
+      "source_id": "M04:K:337",
+      "target_id": "M04:K:358",
+      "source_label": "数据结构",
+      "target_label": "排序",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:366",
+      "source_id": "M04:K:337",
+      "target_id": "M04:K:359",
+      "source_label": "数据结构",
+      "target_label": "线性表",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:369",
+      "source_id": "M04:K:359",
+      "target_id": "M04:K:285",
+      "source_label": "线性表",
+      "target_label": "基本图像绘制",
+      "relation_text": "线性表",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:376",
+      "source_id": "M04:K:358",
+      "target_id": "M04:K:285",
+      "source_label": "排序",
+      "target_label": "基本图像绘制",
+      "relation_text": "边表和新边表的排序",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:377",
+      "source_id": "M04:K:357",
+      "target_id": "M04:K:285",
+      "source_label": "图",
+      "target_label": "基本图像绘制",
+      "relation_text": "图的遍历",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:380",
+      "source_id": "M04:K:338",
+      "target_id": "M04:K:289",
+      "source_label": "树",
+      "target_label": "真实感图形绘制",
+      "relation_text": "二叉光线跟踪树",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:382",
+      "source_id": "M04:K:337",
+      "target_id": "M04:K:381",
+      "source_label": "数据结构",
+      "target_label": "堆",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:383",
+      "source_id": "M04:K:109",
+      "target_id": "M04:K:287",
+      "source_label": "计算机图形学",
+      "target_label": "复杂的三维图形",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:384",
+      "source_id": "M04:K:338",
+      "target_id": "M04:K:287",
+      "source_label": "树",
+      "target_label": "复杂的三维图形",
+      "relation_text": "空间分区表示",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:387",
+      "source_id": "M04:K:381",
+      "target_id": "M04:K:288",
+      "source_label": "堆",
+      "target_label": "消隐算法",
+      "relation_text": "warnock算法",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:389",
+      "source_id": "M04:K:337",
+      "target_id": "M04:K:388",
+      "source_label": "数据结构",
+      "target_label": "数组",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:390",
+      "source_id": "M04:K:358",
+      "target_id": "M04:K:288",
+      "source_label": "排序",
+      "target_label": "消隐算法",
+      "relation_text": "Z-buffer算法",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:391",
+      "source_id": "M04:K:388",
+      "target_id": "M04:K:288",
+      "source_label": "数组",
+      "target_label": "消隐算法",
+      "relation_text": "Z-buffer",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:395",
+      "source_id": "M04:K:287",
+      "target_id": "M04:K:394",
+      "source_label": "复杂的三维图形",
+      "target_label": "高数(无穷级数)",
+      "relation_text": "函数展开",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:398",
+      "source_id": "M04:K:396",
+      "target_id": "M04:K:397",
+      "source_label": "模拟电路",
+      "target_label": "信号运算和处理",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:399",
+      "source_id": "M04:K:397",
+      "target_id": "M04:K:263",
+      "source_label": "信号运算和处理",
+      "target_label": "图像复原",
+      "relation_text": "滤波器",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:400",
+      "source_id": "M04:K:397",
+      "target_id": "M04:K:262",
+      "source_label": "信号运算和处理",
+      "target_label": "图像增强",
+      "relation_text": "滤波器",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:428",
+      "source_id": "M04:K:111",
+      "target_id": "M04:K:403",
+      "source_label": "数据库",
+      "target_label": "关系数据库",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:429",
+      "source_id": "M04:K:111",
+      "target_id": "M04:K:402",
+      "source_label": "数据库",
+      "target_label": "数据库绪论",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:430",
+      "source_id": "M04:K:419",
+      "target_id": "M04:K:424",
+      "source_label": "分布式数据库",
+      "target_label": "分布式数据库基本概念",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:431",
+      "source_id": "M04:K:402",
+      "target_id": "M04:K:424",
+      "source_label": "数据库绪论",
+      "target_label": "分布式数据库基本概念",
+      "relation_text": "数据库系统结构",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:432",
+      "source_id": "M04:K:419",
+      "target_id": "M04:K:426",
+      "source_label": "分布式数据库",
+      "target_label": "分布式数据库的设计",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:433",
+      "source_id": "M04:K:111",
+      "target_id": "M04:K:411",
+      "source_label": "数据库",
+      "target_label": "数据库设计",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:435",
+      "source_id": "M04:K:111",
+      "target_id": "M04:K:413",
+      "source_label": "数据库",
+      "target_label": "关系查询处理和查询优化",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:436",
+      "source_id": "M04:K:111",
+      "target_id": "M04:K:415",
+      "source_label": "数据库",
+      "target_label": "数据库恢复技术",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:437",
+      "source_id": "M04:K:111",
+      "target_id": "M04:K:417",
+      "source_label": "数据库",
+      "target_label": "并发控制",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:439",
+      "source_id": "M04:K:419",
+      "target_id": "M04:K:423",
+      "source_label": "分布式数据库",
+      "target_label": "分布查询处理",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:442",
+      "source_id": "M04:K:419",
+      "target_id": "M04:K:420",
+      "source_label": "分布式数据库",
+      "target_label": "分布式事务",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:443",
+      "source_id": "M04:K:419",
+      "target_id": "M04:K:421",
+      "source_label": "分布式数据库",
+      "target_label": "分布式并发控制",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:444",
+      "source_id": "M04:K:419",
+      "target_id": "M04:K:422",
+      "source_label": "分布式数据库",
+      "target_label": "锁",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:445",
+      "source_id": "M04:K:111",
+      "target_id": "M04:K:410",
+      "source_label": "数据库",
+      "target_label": "关系数据理论",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:448",
+      "source_id": "M04:K:411",
+      "target_id": "M04:K:426",
+      "source_label": "数据库设计",
+      "target_label": "分布式数据库的设计",
+      "relation_text": "增加分片与分布设计",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:449",
+      "source_id": "M04:K:413",
+      "target_id": "M04:K:423",
+      "source_label": "关系查询处理和查询优化",
+      "target_label": "分布查询处理",
+      "relation_text": "基础知识",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:450",
+      "source_id": "M04:K:415",
+      "target_id": "M04:K:420",
+      "source_label": "数据库恢复技术",
+      "target_label": "分布式事务",
+      "relation_text": "二者事务解决问题不同",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:451",
+      "source_id": "M04:K:417",
+      "target_id": "M04:K:421",
+      "source_label": "并发控制",
+      "target_label": "分布式并发控制",
+      "relation_text": "机制不同",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:452",
+      "source_id": "M04:K:417",
+      "target_id": "M04:K:422",
+      "source_label": "并发控制",
+      "target_label": "锁",
+      "relation_text": "分布式锁与锁",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:457",
+      "source_id": "M04:K:111",
+      "target_id": "M04:K:408",
+      "source_label": "数据库",
+      "target_label": "关系数据库标准语言SQL",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:458",
+      "source_id": "M04:K:408",
+      "target_id": "M04:K:357",
+      "source_label": "关系数据库标准语言SQL",
+      "target_label": "图",
+      "relation_text": "网状模型数据结构",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:459",
+      "source_id": "M04:K:408",
+      "target_id": "M04:K:338",
+      "source_label": "关系数据库标准语言SQL",
+      "target_label": "树",
+      "relation_text": "层次模型数据结构",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:460",
+      "source_id": "M04:K:111",
+      "target_id": "M04:K:404",
+      "source_label": "数据库",
+      "target_label": "安全性",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:461",
+      "source_id": "M04:K:111",
+      "target_id": "M04:K:412",
+      "source_label": "数据库",
+      "target_label": "数据库编程",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:464",
+      "source_id": "M04:K:462",
+      "target_id": "M04:K:463",
+      "source_label": "网络安全",
+      "target_label": "身份认证",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:465",
+      "source_id": "M04:K:463",
+      "target_id": "M04:K:404",
+      "source_label": "身份认证",
+      "target_label": "安全性",
+      "relation_text": "保护手段类似",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:466",
+      "source_id": "M04:K:453",
+      "target_id": "M04:K:454",
+      "source_label": "离散数学",
+      "target_label": "二元关系",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:467",
+      "source_id": "M04:K:453",
+      "target_id": "M04:K:455",
+      "source_label": "离散数学",
+      "target_label": "命题逻辑",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:468",
+      "source_id": "M04:K:453",
+      "target_id": "M04:K:456",
+      "source_label": "离散数学",
+      "target_label": "集合代数",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:470",
+      "source_id": "M04:K:410",
+      "target_id": "M04:K:454",
+      "source_label": "关系数据理论",
+      "target_label": "二元关系",
+      "relation_text": "函数依赖与映射",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:472",
+      "source_id": "M04:K:403",
+      "target_id": "M04:K:455",
+      "source_label": "关系数据库",
+      "target_label": "命题逻辑",
+      "relation_text": "范式",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:473",
+      "source_id": "M04:K:403",
+      "target_id": "M04:K:456",
+      "source_label": "关系数据库",
+      "target_label": "集合代数",
+      "relation_text": "集合运算",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:476",
+      "source_id": "M04:K:475",
+      "target_id": "M04:K:412",
+      "source_label": "C语言程序设计",
+      "target_label": "数据库编程",
+      "relation_text": "主语言",
+      "direction": "forward"
+    },
+    {
+      "id": "M04:R:479",
+      "source_id": "M04:K:477",
+      "target_id": "M04:K:478",
+      "source_label": "操作系统",
+      "target_label": "锁",
+      "relation_text": null,
+      "direction": "none"
+    },
+    {
+      "id": "M04:R:480",
+      "source_id": "M04:K:478",
+      "target_id": "M04:K:417",
+      "source_label": "锁",
+      "target_label": "并发控制",
+      "relation_text": "方法一致",
+      "direction": "forward"
+    }
+  ],
+  "floating_topics": {
+    "roots": [],
+    "items": []
+  },
+  "summary_blocks": [],
+  "summary_items": [],
+  "callouts": [],
+  "structural_anchors": [],
+  "boundary_groups": [],
+  "images": []
+}

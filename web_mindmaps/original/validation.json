@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "maps": 27,
+  "unavailable": [
+    "M02",
+    "M03",
+    "M04",
+    "M05"
+  ],
+  "matched_main_nodes": 17361,
+  "clickable_areas": 18095,
+  "canvas_expanded": [
+    "C09",
+    "C10",
+    "C11",
+    "C16"
+  ],
+  "separate_editions": [
+    "C12"
+  ]
+}

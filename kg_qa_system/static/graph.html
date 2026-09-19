@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self'; script-src 'self'; connect-src 'self'; img-src 'self' data:; object-src 'none'; base-uri 'none'">
+  <title>课程知识导图 · 计算机知识图谱</title>
+  <link rel="stylesheet" href="/static/graph.css?v=20260917-4"><script src="/static/original_map.js?v=20260917-3" defer></script><script src="/static/graph.js?v=20260917-6" defer></script>
+</head>
+<body>
+<header class="topbar"><a href="/" class="brand"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4h10a3 3 0 0 1 3 3v8a3 3 0 0 1-3 3h-6l-5 3v-3a3 3 0 0 1-3-3V7a3 3 0 0 1 3-3Z"/><path d="M8 9h8M8 13h5"/></svg><span>知识助手</span></a><span class="top-note">知识导图</span><a href="/" class="chat-link">返回聊天 <span aria-hidden="true">↗</span></a></header>
+<main class="workspace">
+  <aside class="courses-panel"><h1>课程</h1><p class="intro">选择课程，浏览知识点与关联。</p>
+    <label for="courseFilter" class="sr-only">筛选课程</label><input id="courseFilter" placeholder="查找课程…" type="search">
+    <nav id="courseList" aria-label="课程列表"></nav>
+  </aside>
+  <section class="explorer">
+    <header class="course-heading"><div><p class="eyebrow" id="courseCode">COURSE</p><h2 id="courseName">正在加载课程…</h2><p id="courseStats"></p></div><a id="askCourse" class="primary" href="/">前往智能问答 ↗</a></header>
+    <div class="toolbar"><label for="nodeSearch" class="sr-only">搜索本课程知识点</label><input id="nodeSearch" type="search" placeholder="搜索本课程知识点或内容…"></div>
+    <div id="notice" role="status" aria-live="polite"></div>
+    <p id="sourceNote" class="source-note" hidden></p>
+    <div class="map-controls"><span id="mapHint">拖动浏览 · 点击知识点查看详情</span><button id="zoomOut" aria-label="缩小">−</button><output id="zoomLevel">100%</output><button id="zoomIn" aria-label="放大">＋</button><button id="fitMap">全图</button><button id="actualSize">100%</button><button id="resetMap">回到课程起点</button></div>
+    <div id="mapViewport" tabindex="0" aria-label="可滚动的课程知识导图"><div id="mapCanvas"></div></div>
+    <div id="contentList" hidden></div>
+  </section>
+  <aside class="detail-panel"><p class="eyebrow">知识点详情</p><div id="nodeDetail"><h2>从一个知识点开始</h2><p>点击导图节点，查看完整文字、注释、总结、关联知识和配图。</p></div></aside>
+</main>
+</body></html>

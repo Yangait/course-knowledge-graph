@@ -1,0 +1,146 @@
+[
+  {
+    "case": "typo_he",
+    "original": "他是干什么的",
+    "expected_status": "resolved",
+    "expected_terms": [
+      "索引"
+    ],
+    "passed": true,
+    "status": "resolved",
+    "question": "数据库索引是干什么的？",
+    "clarification": "",
+    "total_tokens": 906
+  },
+  {
+    "case": "typo_she",
+    "original": "她有什么用，只写两条",
+    "expected_status": "resolved",
+    "expected_terms": [
+      "索引",
+      "两条"
+    ],
+    "passed": true,
+    "status": "resolved",
+    "question": "数据库索引有什么作用？只写两条。",
+    "clarification": "",
+    "total_tokens": 829
+  },
+  {
+    "case": "colloquial",
+    "original": "这玩意有啥用",
+    "expected_status": "resolved",
+    "expected_terms": [
+      "索引"
+    ],
+    "passed": true,
+    "status": "resolved",
+    "question": "数据库索引有什么作用？",
+    "clarification": "",
+    "total_tokens": 823
+  },
+  {
+    "case": "omitted_subject",
+    "original": "怎么用，给个SQL例子",
+    "expected_status": "resolved",
+    "expected_terms": [
+      "索引",
+      "SQL"
+    ],
+    "passed": true,
+    "status": "resolved",
+    "question": "数据库索引怎么用，给个SQL例子",
+    "clarification": "",
+    "total_tokens": 828
+  },
+  {
+    "case": "former",
+    "original": "前者怎么实现",
+    "expected_status": "resolved",
+    "expected_terms": [
+      "栈"
+    ],
+    "passed": true,
+    "status": "resolved",
+    "question": "栈怎么实现",
+    "clarification": "",
+    "total_tokens": 823
+  },
+  {
+    "case": "latter",
+    "original": "后者怎么实现",
+    "expected_status": "resolved",
+    "expected_terms": [
+      "队列"
+    ],
+    "passed": true,
+    "status": "resolved",
+    "question": "队列怎么实现",
+    "clarification": "",
+    "total_tokens": 823
+  },
+  {
+    "case": "expand_second",
+    "original": "展开第二点，举一个例子",
+    "expected_status": "resolved",
+    "expected_terms": [
+      "队列"
+    ],
+    "passed": true,
+    "status": "resolved",
+    "question": "展开队列（先进先出）的特点，并举一个例子。",
+    "clarification": "",
+    "total_tokens": 838
+  },
+  {
+    "case": "new_topic",
+    "original": "换个话题，解释事务的ACID",
+    "expected_status": "standalone",
+    "expected_terms": [
+      "事务",
+      "ACID"
+    ],
+    "passed": true,
+    "status": "standalone",
+    "question": "解释事务的ACID特性",
+    "clarification": "",
+    "total_tokens": 829
+  },
+  {
+    "case": "correct_topic",
+    "original": "不说索引了，讲虚拟内存",
+    "expected_status": "standalone",
+    "expected_terms": [
+      "虚拟内存"
+    ],
+    "passed": true,
+    "status": "standalone",
+    "question": "讲虚拟内存",
+    "clarification": "",
+    "total_tokens": 822
+  },
+  {
+    "case": "real_person",
+    "original": "他是干什么的",
+    "expected_status": "resolved",
+    "expected_terms": [
+      "图灵"
+    ],
+    "passed": true,
+    "status": "resolved",
+    "question": "图灵的主要工作与贡献是什么？",
+    "clarification": "",
+    "total_tokens": 816
+  },
+  {
+    "case": "ambiguous",
+    "original": "它怎么实现",
+    "expected_status": "needs_clarification",
+    "expected_terms": [],
+    "passed": true,
+    "status": "needs_clarification",
+    "question": "",
+    "clarification": "你想了解栈还是队列的实现方式？",
+    "total_tokens": 831
+  }
+]
